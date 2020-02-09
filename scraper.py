@@ -13,6 +13,7 @@ def scraper(url, resp):
     for link in valid_links:
         print('\t' + str(link))
     print('\n----------\n', end="")
+    return valid_links
 
 def extract_next_links(url, resp):
     #list of all the links found in the url
