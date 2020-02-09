@@ -3,6 +3,7 @@ from urllib.parse import urlparse
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import json
+import os
 
 STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'an' ,'and' ,'any' ,'are' ,'aren\'t' ,'as' ,'at' ,'be' ,'because' ,'been' ,'before' ,'being' ,'below' ,'between' ,'both' ,'but' ,'by' ,'can\'t' ,'cannot' ,'could' ,'couldn\'t' ,'did' ,'didn\'t' ,'do' ,'does' ,'doesn\'t' ,'doing' ,'don\'t' ,'down' ,'during' ,'each' ,'few' ,'for' ,'from' ,'further' ,'had' ,'hadn\'t' ,'has' ,'hasn\'t' ,'have' ,'haven\'t' ,'having' ,'he' ,'he\'d' ,'he\'ll' ,'he\'s' ,'her' ,'here' ,'here\'s' ,'hers' ,'herself' ,'him' ,'himself' ,'his' ,'how' ,'how\'s' ,'i' ,'i\'d' ,'i\'ll' ,'i\'m' ,'i\'ve' ,'if' ,'in' ,'into' ,'is' ,'isn\'t' ,'it' ,'it\'s' ,'its' ,'itself' ,'let\'s' ,'me' ,'more' ,'most' ,'mustn\'t' ,'my' ,'myself' ,'no' ,'nor' ,'not' ,'of' ,'off' ,'on' ,'once' ,'only' ,'or' ,'other' ,'ought' ,'our' ,'ours', 'ourselves' ,'out' ,'over' ,'own' ,'same' ,'shan\'t' ,'she' ,'she\'d' ,'she\'ll' ,'she\'s' ,'should' ,'shouldn\'t' ,'so' ,'some' ,'such' ,'than' ,'that' ,'that\'s' ,'the' ,'their' ,'theirs' ,'them' ,'themselves' ,'then' ,'there' ,'there\'s' ,'these' ,'they' ,'they\'d' ,'they\'ll' ,'they\'re' ,'they\'ve' ,'this' ,'those' ,'through' ,'to' ,'too' ,'under' ,'until' ,'up' ,'very' ,'was' ,'wasn\'t' ,'we' ,'we\'d' ,'we\'ll' ,'we\'re' ,'we\'ve' ,'were' ,'weren\'t' ,'what' ,'what\'s' ,'when' ,'when\'s' ,'where' ,'where\'s' ,'which' ,'while' ,'who' ,'who\'s' ,'whom' ,'why' ,'why\'s' ,'with' ,'won\'t' ,'would' ,'wouldn\'t' ,'you' ,'you\'d' ,'you\'ll' ,'you\'re' ,'you\'ve' ,'your' ,'yours' ,'yourself' ,'yourselves'}
 
@@ -27,7 +28,8 @@ def extract_next_links(url, resp):
             #checks if href contains a link like '/about' or '//www.stat.uci.edu'
             if link.startswith('//'):
                 link = 'https:' + link
-            link_list.append(link) 
+            link_list.append(link)
+        process_content(url)
     print('\nS#########\n')
     for url in link_list:
         print('\t' + str(url))
@@ -80,11 +82,15 @@ def record_content(token_dict, token_string, url):
                 token_dict[token] = 1
 
     #checks if the current parsed url is larger than the largest recorded parsed url
-    if word_count > token_dict['largest_word_count']:
+    if 'largest_word_count' in token_dict or word_count > token_dict['largest_word_count']:
         token_dict['largest_word_count'] = word_count
         token_dict['largest_url'] = url
 
 def process_content(url):
+    #checks if the json file is empty and initializes it if it is
+    if os.path.getsize("words.json") <= 2:
+        with open("words.json", "w") as file_contents:
+            json.dump({"largest_word_count": 0, "largest_url": ""}, file_contents)
     #open and load the json file
     with open("words.json", "r") as file_contents:
         tokens = json.load(file_contents)
@@ -98,5 +104,5 @@ def process_content(url):
     record_content(tokens, content, url)
 
     #dump the new dictionary into the json file
-    with open("words.json", "r") as file_contents:
+    with open("words.json", "w") as file_contents:
         json.dump(tokens, file_contents)
