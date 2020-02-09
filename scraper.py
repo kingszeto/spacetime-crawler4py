@@ -88,6 +88,7 @@ def record_content(token_dict, token_string, url):
     if 'largest_word_count' in token_dict or word_count > token_dict['largest_word_count']:
         token_dict['largest_word_count'] = word_count
         token_dict['largest_url'] = url
+    print("TOKEN DICT: \t" + str(token_dict))
 
 def process_content(url):
     #checks if the json file is empty and initializes it if it is
