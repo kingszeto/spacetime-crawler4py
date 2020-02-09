@@ -1,14 +1,24 @@
 import re
 from urllib.parse import urlparse
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
 
 def scraper(url, resp):
     links = extract_next_links(url, resp)
     return [link for link in links if is_valid(link)]
 
 def extract_next_links(url, resp):
-    # Implementation requred.
-    valid_links = scraper(url, resp)
-    return list()
+    #list of all the links found in the url
+    link_list = []
+
+    #parse the url contents
+    file_handler = urlopen(url)
+    parsed = BeautifulSoup(file_handler)
+
+    #retrieve all the links found in the parsed url
+    for link in parsed.find_all('a'):
+        link_list.append(link.get('href'))
+    return link_list
 
 def is_valid(url):
     try:
@@ -22,7 +32,7 @@ def is_valid(url):
         domain_valid.append(parsed.netloc == "today.uci.edu")
         if not any(domain_valid):
             return False
-
+        #check for valid path
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
             + r"|png|tiff?|mid|mp2|mp3|mp4"
