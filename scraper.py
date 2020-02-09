@@ -36,8 +36,8 @@ def is_valid(url):
             return False
         
         #checking for ICS Calendar Web Cralwer Trap
-        if parsed.netloc == "today.uci.edu":
-            return not re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path)
+        if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
+            return False
 
 
         #check for valid path
