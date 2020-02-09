@@ -76,7 +76,7 @@ def record_content(token_dict, token_string, url):
     word_count = 0
 
     #records the contents of the string 
-    for token in re.sub('[^A-Za-z0-9\']+', ' ', token_string).split():
+    for token in re.sub('[^A-Za-z\']+', ' ', token_string.lower()).split():
         word_count += 1
         if token not in STOP_WORDS:
             if token in token_dict:
