@@ -20,7 +20,7 @@ def extract_next_links(url, resp):
         parsed = BeautifulSoup(file_handler)
     #retrieve all the links found in the parsed url
     #parse the url contents  
-        for link_tag in parsed.find_all('a'):
+        for link_tag in parsed.find_all('a', href=True):
             link = link_tag.get('href')
             print('\nLLLLLLLLLL\n\t' + str(link) + '\nLLLLLLLLLL\n\t')
             link = link.split('#')[0]
