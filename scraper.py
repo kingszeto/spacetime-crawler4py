@@ -14,15 +14,20 @@ def extract_next_links(url, resp):
     #list of all the links found in the url
     link_list = []
 
-    #parse the url contents
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler)
-
     #retrieve all the links found in the parsed url
-    for link_tag in parsed.find_all('a'):
-        link = link_tag.get('href')
-        link = link.split('#')[0]
-        link_list.append(link)
+    if 200 <= resp.status <= 599 and resp.status != 204:    #check if in a good HTTP code range, and check if there is content
+    #parse the url contents                                  within the document (e.g. checking if code is not 204)
+        for link_tag in parsed.find_all('a'):
+            link = link_tag.get('href')
+            link = link.split('#')[0]
+            link_list.append(link)
+    print(url)
+    print('\n#########\n')
+    for url in link_list:
+        print(url)
+    print('\n#########\n')
     return link_list
 
 def is_valid(url):
@@ -39,9 +44,8 @@ def is_valid(url):
             return False
                     
         #checking for ICS Calendar Web Cralwer Trap
-        if parsed.netloc == "today.uci.edu":
-            return not re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path)
-
+        if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
+            return False
 
         #check for valid path
         return not re.match(
