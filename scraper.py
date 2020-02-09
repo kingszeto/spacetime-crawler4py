@@ -11,16 +11,15 @@ def extract_next_links(url, resp):
     #list of all the links found in the url
     link_list = []
 
-    #if 200 <= resp.status <= 599 and resp.status != 204:    #check if in a good HTTP code range, and check if there is content
-    #parse the url contents                                  within the document (e.g. checking if code is not 204)
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler)
     #retrieve all the links found in the parsed url
-    for link_tag in parsed.find_all('a'):
-        link = link_tag.get('href')
-        link = link.split('#')[0]
-        link_list.append(link)
-    print("\n#############\n" + str(link_list) + '\n##########\n')
+    if 200 <= resp.status <= 599 and resp.status != 204:    #check if in a good HTTP code range, and check if there is content
+    #parse the url contents                                  within the document (e.g. checking if code is not 204)
+        for link_tag in parsed.find_all('a'):
+            link = link_tag.get('href')
+            link = link.split('#')[0]
+            link_list.append(link)
     return link_list
 
 def is_valid(url):
