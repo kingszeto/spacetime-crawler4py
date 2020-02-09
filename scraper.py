@@ -11,7 +11,10 @@ def scraper(url, resp):
     valid_links = [link for link in links if is_valid(link)]
     print("VALID LINKS:\n----------\n", end = "")
     for link in valid_links:
-        print('\t' + str(link))
+        parsedurl = urlparse(link)
+        print("\tNETLOC:\t" + str(parsedurl.netloc))
+        print("\tPATH:\t" + str(parsedurl.path))
+        print("\tQUERY:\t" + str(parsedurl.query))
     print('\n----------\n', end="")
     return valid_links
 
@@ -41,6 +44,9 @@ def is_valid(url):
         #check if scheme is valid
         if parsed.scheme not in set(["http", "https"]):
             return False
+        if not parsed.query == '':
+            return False
+
         #check for possible domains
         reg_domains = r'.*\.(ics|cs|informatics|stat)\.uci\.edu'
         domain_valid = [re.match(reg_domains, parsed.netloc)]
