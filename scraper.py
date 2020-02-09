@@ -21,7 +21,7 @@ def extract_next_links(url, resp):
             link = link.split('#')[0]
             link_list.append(link)
     print(url)
-    print('\n#########\n'
+    print('\n#########\n')
     for url in link_list:
         print(url)
     print('\n#########\n')
