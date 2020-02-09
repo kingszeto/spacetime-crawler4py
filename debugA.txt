@@ -46,6 +46,72 @@ http://uci.edu/privacy/
 
 #########
 
+
+INVALID DOMAIN: https://www.stat.uci.edu/
+
+INVALID DOMAIN: https://www.stat.uci.edu/chairs-message/
+
+INVALID DOMAIN: https://www.stat.uci.edu/what-is-statistics/
+
+INVALID DOMAIN: https://www.stat.uci.edu/contact-the-department/
+
+INVALID DOMAIN: https://www.stat.uci.edu/tutoring-resources/
+
+INVALID DOMAIN: https://www.stat.uci.edu/faculty/
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.stat.uci.edu/research/
+
+INVALID DOMAIN: https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+
+INVALID DOMAIN: http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+
+INVALID DOMAIN: https://www.stat.uci.edu/grad-student-directory/
+
+INVALID DOMAIN: https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+
+INVALID DOMAIN: https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+INVALID DOMAIN: https://www.stat.uci.edu/slider/b-s-in-data-science/
+
+INVALID DOMAIN: https://www.stat.uci.edu/minor-in-statistics/
+
+INVALID DOMAIN: http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+INVALID DOMAIN: http://www.stat.uci.edu/news/
+
+INVALID DOMAIN: https://www.stat.uci.edu/seminar-series/
+
+INVALID DOMAIN: https://statconsulting.ics.uci.edu/
+
+INVALID DOMAIN: https://www.stat.uci.edu/faculty/
+
+INVALID DOMAIN: https://www.stat.uci.edu/faculty/
+
+INVALID DOMAIN: https://www.stat.uci.edu/research/
+
+INVALID DOMAIN: https://www.stat.uci.edu/research/
+
+INVALID DOMAIN: https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+
+INVALID DOMAIN: https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+
+INVALID DOMAIN: https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+
+INVALID DOMAIN: https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+
+INVALID DOMAIN: https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+
+INVALID DOMAIN: https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+
+INVALID DOMAIN: http://www.ics.uci.edu/
+
+INVALID DOMAIN: http://uci.edu/privacy/
 https://www.informatics.uci.edu
 
 #########
@@ -214,6 +280,292 @@ https://twitter.com/UCI_Informatics
 
 #########
 
+
+INVALID DOMAIN: https://www.informatics.uci.edu/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/people/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/news/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/chairs-welcome/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/faculty-profiles/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-read/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/history-of-the-department/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/department-seminars/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/blogs-we-author/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/department-vision/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-have-written/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/visiting-the-department/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/facts-figures/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/overview/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/phd-software-engineering/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/policies/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/phd-informatics/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/ms-software-engineering/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/diversity-ambassador/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/ms-informatics/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/mswe/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/student-profiles/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/mhcid/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/courses/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/student-groups/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/upcoming-course-schedule/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-informatics/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/policies/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-business-information-management/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/special-opportunities/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-profiles/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-computer-game-science/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/minors/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-groups/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-software-engineering/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/courses/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/graduate-application-process/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/coming-from-abroad/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/housing/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/undergraduate-application-process/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/student-life/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/labs-centers/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/phd-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/undergraduate-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/areas-of-expertise/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/past-dissertations/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/gifts-grants/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/example-research-projects/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/masters-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/research-that-matters/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/outreach/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/community-engagement/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/champion-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/become-a-corporate-partner/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/share-your-talent/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/support-students/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/provide-projects/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/set-future-agenda/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/become-a-mentor/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/collaborate-on-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/chairs-welcome/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/history-of-the-department/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/department-vision/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/facts-figures/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/faculty-profiles/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/department-seminars/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-have-written/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-read/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/blogs-we-author/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/visiting-the-department/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/phd-informatics/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/ms-informatics/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/phd-software-engineering/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/ms-software-engineering/
+
+INVALID DOMAIN: http://mhcid.ics.uci.edu/
+
+INVALID DOMAIN: https://mse.ics.uci.edu/%20
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/courses/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/policies/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/diversity-ambassador/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/student-profiles/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/student-groups/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/upcoming-course-schedule/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-informatics/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-business-information-management/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-computer-game-science/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-software-engineering/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/special-opportunities/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/minors/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/courses/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/policies/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-profiles/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-groups/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/graduate-application-process/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/undergraduate-application-process/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/coming-from-abroad/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/student-life/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/admissions/housing/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/labs-centers/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/areas-of-expertise/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/example-research-projects/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/phd-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/past-dissertations/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/masters-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/undergraduate-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/gifts-grants/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/research-that-matters/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/community-engagement/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/impact/outreach/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/champion-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/support-students/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/become-a-mentor/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/become-a-corporate-partner/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/provide-projects/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/collaborate-on-research/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/share-your-talent/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/set-future-agenda/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/brochure-tiles/how-we-live
+
+INVALID DOMAIN: https://www.informatics.uci.edu/grad/mswe
+
+INVALID DOMAIN: https://www.informatics.uci.edu/brochure-tiles/how-we-work
+
+INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-profiles
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-have-written
+
+INVALID DOMAIN: https://www.informatics.uci.edu/research/example-research-projects
+
+INVALID DOMAIN: https://www.informatics.uci.edu/explore/faculty-profiles/stacy-branham
+
+INVALID DOMAIN: https://www.informatics.uci.edu/brochure-tiles/what-we-build
+
+INVALID DOMAIN: https://www.informatics.uci.edu/support/champion-research
+
+INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/people/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
+
+INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/news/
+
+INVALID DOMAIN: http://www.ics.uci.edu/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+
+INVALID DOMAIN: https://www.facebook.com/UCI.Informatics
+
+INVALID DOMAIN: https://twitter.com/UCI_Informatics
 https://www.cs.uci.edu
 
 #########
@@ -269,6 +621,82 @@ http://uci.edu/privacy/
 
 #########
 
+
+INVALID DOMAIN: http://www.cs.uci.edu/
+
+INVALID DOMAIN: http://www.uci.edu/
+
+INVALID DOMAIN: http://www.ics.uci.edu/
+
+INVALID DOMAIN: https://www.cs.uci.edu/about-the-department/
+
+INVALID DOMAIN: https://www.cs.uci.edu/contact/
+
+INVALID DOMAIN: https://www.cs.uci.edu/faculty/
+
+INVALID DOMAIN: https://www.cs.uci.edu/cs-research-areas/
+
+INVALID DOMAIN: https://www.cs.uci.edu/research-centers/
+
+INVALID DOMAIN: https://www.cs.uci.edu/graduate-computer-science-programs/
+
+INVALID DOMAIN: https://www.cs.uci.edu/current-graduate-students/
+
+INVALID DOMAIN: https://www.cs.uci.edu/undergraduate-programs/
+
+INVALID DOMAIN: https://www.admissions.uci.edu/apply/index.php
+
+INVALID DOMAIN: https://apply.grad.uci.edu/apply/
+
+INVALID DOMAIN: https://www.cs.uci.edu/job-opportunities/
+
+INVALID DOMAIN: https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
+
+INVALID DOMAIN: https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
+
+INVALID DOMAIN: https://www.cs.uci.edu/uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/
+
+INVALID DOMAIN: https://www.cs.uci.edu/uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/
+
+INVALID DOMAIN: https://www.cs.uci.edu/uci-news-uci-computer-scientists-breathe-life-into-venice-biennale-installations/
+
+INVALID DOMAIN: https://www.cs.uci.edu/uci-news-uci-computer-scientists-breathe-life-into-venice-biennale-installations/
+
+INVALID DOMAIN: https://www.cs.uci.edu/ics-alumnus-nithin-jillas-nonprofit-inspires-students-to-love-stem/
+
+INVALID DOMAIN: https://www.cs.uci.edu/ics-alumnus-nithin-jillas-nonprofit-inspires-students-to-love-stem/
+
+INVALID DOMAIN: http://www.cs.uci.edu/research-areas/
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply/JPF03719
+
+INVALID DOMAIN: http://www.cs.uci.edu/professor-of-teaching-in-computer-science/
+
+INVALID DOMAIN: http://www.cs.uci.edu/wp-content/cs/uploads/Gul-Agha-Final-Poster2020.pdf
+
+INVALID DOMAIN: http://www.cs.uci.edu/distinguished-lecture-series/
+
+INVALID DOMAIN: http://www.cs.uci.edu/distinguished-lecture-series/
+
+INVALID DOMAIN: http://www.cs.uci.edu//wp-content/cs/uploads/Miller.pdf
+
+INVALID DOMAIN: https://www.cs.uci.edu/computer-science-majors-preston-tai-and-brandon-tom-appointed-urop-fellows/
+
+INVALID DOMAIN: https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
+
+INVALID DOMAIN: https://www.cs.uci.edu/zotbins-and-zero-waste-anteaters-support-uc-goal-for-2020/
+
+INVALID DOMAIN: https://www.cs.uci.edu/ph-d-student-phanwadee-sinthong-and-professor-carey-win-best-student-paper-award/
+
+INVALID DOMAIN: https://www.cs.uci.edu/explore-virtual-reality-with-new-vr-headsets-loan-program-and-workshop/
+
+INVALID DOMAIN: http://www.ics.uci.edu/
+
+INVALID DOMAIN: http://uci.edu/privacy/
 https://www.ics.uci.edu
 
 #########
@@ -393,6 +821,62 @@ https://uci.edu/copyright/
 
 #########
 
+
+INVALID DOMAIN: https://engineering.uci.edu/news/2020/1/uci-led-project-seeks-combat-wildfires
+
+INVALID DOMAIN: https://www.ics.uci.edu/community/news/view_news?id=1687
+
+INVALID DOMAIN: https://www.ics.uci.edu/community/news/view_news?id=1683
+
+INVALID DOMAIN: https://www.ics.uci.edu/community/news/view_news?id=1671
+
+INVALID DOMAIN: https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link
+
+INVALID DOMAIN: https://forecast7.com/en/33d68n117d83/irvine/?unit=us
+
+INVALID DOMAIN: http://facebook.com/UCIBrenICS
+
+INVALID DOMAIN: http://instagram.com/ucibrenics/
+
+INVALID DOMAIN: http://twitter.com/UCIbrenICS
+
+INVALID DOMAIN: https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences
+
+INVALID DOMAIN: http://youtube.com/UCIBrenICS
+
+INVALID DOMAIN: https://www.flickr.com/photos/brenschool
+
+INVALID DOMAIN: https://uci.edu/
+
+INVALID DOMAIN: https://directory.uci.edu/
+
+INVALID DOMAIN: https://www.ics.uci.edu/about/search/index.php
+
+INVALID DOMAIN: https://www.ics.uci.edu/employment/
+
+INVALID DOMAIN: https://intranet.ics.uci.edu/
+
+INVALID DOMAIN: https://www.ics.uci.edu/about/kfflab/index.php
+
+INVALID DOMAIN: https://www.ics.uci.edu/about/facilities/index.php
+
+INVALID DOMAIN: https://www.ics.uci.edu/community/news/
+
+INVALID DOMAIN: https://www.ics.uci.edu/about/visit/index.php
+
+INVALID DOMAIN: https://www.ics.uci.edu/accessibility/
+
+INVALID DOMAIN: https://www.ics.uci.edu/about/about_safety.php
+
+INVALID DOMAIN: https://uci.edu/privacy/index.php
+
+INVALID DOMAIN: https://apply.grad.uci.edu/apply/
+
+INVALID DOMAIN: https://www.ics.uci.edu/about/about_contact.php
+
+INVALID DOMAIN: https://secure.connect.uci.edu/s/1735/interior-1col.aspx?sid=1735&gid=3&pgid=801&dids=79
+
+INVALID DOMAIN: https://uci.edu/copyright/
 https://today.uci.edu/department/information_computer_sciences
 
 #########
@@ -461,6 +945,32 @@ https://today.uci.edu/signup?school_id=131
 
 #########
 
+
+INVALID DOMAIN: https://uci.edu/
+
+INVALID DOMAIN: http://www.ics.uci.edu/
+
+INVALID DOMAIN: http://www.ics.uci.edu/
+
+INVALID DOMAIN: https://twitter.com/search?q=UCIbrenICS
+
+INVALID DOMAIN: http://facebook.com/UCIBrenICS
+
+INVALID DOMAIN: https://www.facebook.com/UCIrvine
+
+INVALID DOMAIN: https://twitter.com/ucirvine
+
+INVALID DOMAIN: https://www.youtube.com/ucirvinenews
+
+INVALID DOMAIN: https://instagram.com/ucirvine
+
+INVALID DOMAIN: https://www.flickr.com/photos/ucirvine/
+
+INVALID DOMAIN: https://www.reg.uci.edu/navigation/calendars.html
+
+INVALID DOMAIN: https://forms.communications.uci.edu/uci-feedback/
+
+INVALID DOMAIN: https://uci.edu/copyright/
 https://today.uci.edu/auth/shib_login?previous_url=https%3A%2F%2Ftoday.uci.edu%2Fdepartment%2Finformation_computer_sciences
 
 #########
