@@ -16,8 +16,10 @@ def extract_next_links(url, resp):
     parsed = BeautifulSoup(file_handler)
 
     #retrieve all the links found in the parsed url
-    for link in parsed.find_all('a'):
-        link_list.append(link.get('href'))
+    for link_tag in parsed.find_all('a'):
+        link = link_tag.get('href')
+        link = link.split('#')[0]
+        link_list.append(link)
     return link_list
 
 def is_valid(url):
