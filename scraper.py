@@ -75,6 +75,7 @@ def is_valid(url):
 
 def record_content(token_dict, token_string, url):
     word_count = 0
+    token_dict["url_count"] += 1
 
     #records the contents of the string 
     for token in re.sub('[^A-Za-z\']+', ' ', token_string.lower()).split():
@@ -94,7 +95,7 @@ def process_content(url):
     #checks if the json file is empty and initializes it if it is
     if os.path.getsize("words.json") <= 2:
         with open("words.json", "w") as file_contents:
-            json.dump({"largest_word_count": 0, "largest_url": ""}, file_contents)
+            json.dump({"url_count": 0, "largest_word_count": 0, "largest_url": ""}, file_contents)
     #open and load the json file
     with open("words.json", "r") as file_contents:
         tokens = json.load(file_contents)
