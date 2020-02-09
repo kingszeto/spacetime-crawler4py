@@ -13,7 +13,7 @@ def scraper(url, resp):
 def extract_next_links(url, resp):
     #list of all the links found in the url
     link_list = []
-
+    print('\nUUUUUUUUUUU\n\t' + str(url) + '\nUUUUUUUUUUU\n')
     #check HTTP Status
     if 200 <= resp.status <= 399 and resp.status != 204:
         file_handler = urlopen(url)
@@ -22,18 +22,18 @@ def extract_next_links(url, resp):
     #parse the url contents  
         for link_tag in parsed.find_all('a'):
             link = link_tag.get('href')
+            print('\nLLLLLLLLLL\n\t' + str(link) + '\nLLLLLLLLLL\n\t')
             link = link.split('#')[0]
             #checks if href contains a link like '/about' or '//www.stat.uci.edu'
             if link.startswith('//'):
                 link = 'https:' + link
             elif link.startswith('/'):
                 link = url + link
-            link_list.append(link)
-    print(url)
-    print('\n#########\n')
+            link_list.append(link) 
+    print('\nS#########\n')
     for url in link_list:
-        print(url)
-    print('\n#########\n')
+        print('\t' + str(url))
+    print('\nF#########\n')
     return link_list
 
 def is_valid(url):
