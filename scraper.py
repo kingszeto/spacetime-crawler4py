@@ -12,7 +12,8 @@ def scraper(url, resp):
     return [link for link in links if is_valid(link)]
 
 def extract_next_links(url, resp):
-    global number_times += 1
+    global number_times
+    number_times += 1
     print(str(number_times) + " TIMES")
     #list of all the links found in the url
     link_list = []
