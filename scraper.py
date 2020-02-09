@@ -22,6 +22,11 @@ def extract_next_links(url, resp):
         for link_tag in parsed.find_all('a'):
             link = link_tag.get('href')
             link = link.split('#')[0]
+            #checks if href contains a link like '/about' or '//www.stat.uci.edu'
+            if link.startswith('//'):
+                link = link[2:]
+            elif link.startswith('/'):
+                link = url + link
             link_list.append(link)
     print(url)
     print('\n#########\n')
