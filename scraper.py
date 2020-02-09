@@ -20,7 +20,11 @@ def extract_next_links(url, resp):
             link = link_tag.get('href')
             link = link.split('#')[0]
             link_list.append(link)
-    print('\n#########\n' + str(link_list) + '\n#########\n')
+    print(url)
+    print('\n#########\n'
+    for url in link_list:
+        print(url)
+    print('\n#########\n')
     return link_list
 
 def is_valid(url):
