@@ -42,7 +42,7 @@ def is_valid(url):
         if parsed.scheme not in set(["http", "https"]):
             return False
         #check for possible domains
-        reg_domains = {r'.*\.(ics|cs|informatics|stat)\.uci\.edu'
+        reg_domains = r'.*\.(ics|cs|informatics|stat)\.uci\.edu'
         domain_valid = [re.match(reg_domains, parsed.netloc)]
         domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
         if not any(domain_valid):
