@@ -6,15 +6,15 @@ import json
 import os
 
 STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'an' ,'and' ,'any' ,'are' ,'aren\'t' ,'as' ,'at' ,'be' ,'because' ,'been' ,'before' ,'being' ,'below' ,'between' ,'both' ,'but' ,'by' ,'can\'t' ,'cannot' ,'could' ,'couldn\'t' ,'did' ,'didn\'t' ,'do' ,'does' ,'doesn\'t' ,'doing' ,'don\'t' ,'down' ,'during' ,'each' ,'few' ,'for' ,'from' ,'further' ,'had' ,'hadn\'t' ,'has' ,'hasn\'t' ,'have' ,'haven\'t' ,'having' ,'he' ,'he\'d' ,'he\'ll' ,'he\'s' ,'her' ,'here' ,'here\'s' ,'hers' ,'herself' ,'him' ,'himself' ,'his' ,'how' ,'how\'s' ,'i' ,'i\'d' ,'i\'ll' ,'i\'m' ,'i\'ve' ,'if' ,'in' ,'into' ,'is' ,'isn\'t' ,'it' ,'it\'s' ,'its' ,'itself' ,'let\'s' ,'me' ,'more' ,'most' ,'mustn\'t' ,'my' ,'myself' ,'no' ,'nor' ,'not' ,'of' ,'off' ,'on' ,'once' ,'only' ,'or' ,'other' ,'ought' ,'our' ,'ours', 'ourselves' ,'out' ,'over' ,'own' ,'same' ,'shan\'t' ,'she' ,'she\'d' ,'she\'ll' ,'she\'s' ,'should' ,'shouldn\'t' ,'so' ,'some' ,'such' ,'than' ,'that' ,'that\'s' ,'the' ,'their' ,'theirs' ,'them' ,'themselves' ,'then' ,'there' ,'there\'s' ,'these' ,'they' ,'they\'d' ,'they\'ll' ,'they\'re' ,'they\'ve' ,'this' ,'those' ,'through' ,'to' ,'too' ,'under' ,'until' ,'up' ,'very' ,'was' ,'wasn\'t' ,'we' ,'we\'d' ,'we\'ll' ,'we\'re' ,'we\'ve' ,'were' ,'weren\'t' ,'what' ,'what\'s' ,'when' ,'when\'s' ,'where' ,'where\'s' ,'which' ,'while' ,'who' ,'who\'s' ,'whom' ,'why' ,'why\'s' ,'with' ,'won\'t' ,'would' ,'wouldn\'t' ,'you' ,'you\'d' ,'you\'ll' ,'you\'re' ,'you\'ve' ,'your' ,'yours' ,'yourself' ,'yourselves'}
-number_times = 0
 def scraper(url, resp):
     links = extract_next_links(url, resp)
-    return [link for link in links if is_valid(link)]
+    valid_links = [link for link in links if is_valid(link)]
+    print("VALID LINKS:\n----------\n", end = "")
+    for link in valid_links:
+        print('\t' + str(link))
+    print('\n----------\n', end="")
 
 def extract_next_links(url, resp):
-    global number_times
-    number_times += 1
-    print(str(number_times) + " TIMES")
     #list of all the links found in the url
     link_list = []
     print('\nUUUUUUUUUUU\n\t' + str(url) + '\nUUUUUUUUUUU\n')
@@ -26,17 +26,12 @@ def extract_next_links(url, resp):
     #parse the url contents  
         for link_tag in parsed.find_all('a', href=True):
             link = link_tag.get('href')
-            print('\nLLLLLLLLLL\t' + str(link) + '\nLLLLLLLLLL\t')
             link = link.split('#')[0]
             #checks if href contains a link like '/about' or '//www.stat.uci.edu'
             if link.startswith('//'):
                 link = 'https:' + link
             link_list.append(link)
         process_content(url)
-    print('\nS#########\n')
-    for url in link_list:
-        print('\t' + str(url))
-    print('\nF#########\n')
     return link_list
 
 def is_valid(url):
@@ -50,7 +45,6 @@ def is_valid(url):
         domain_valid = [re.match(reg_domains, parsed.netloc)]
         domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
         if not any(domain_valid):
-            print("\nINVALID DOMAIN: " + str(url))
             return False
                     
         #checking for ICS Calendar Web Cralwer Trap
@@ -88,7 +82,7 @@ def record_content(token_dict, token_string, url):
     if 'largest_word_count' in token_dict or word_count > token_dict['largest_word_count']:
         token_dict['largest_word_count'] = word_count
         token_dict['largest_url'] = url
-    print("TOKEN DICT: \t" + str(token_dict))
+    print("TOKEN DICT: \n\t" + str(token_dict))
 
 def process_content(url):
     #checks if the json file is empty and initializes it if it is
