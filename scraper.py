@@ -15,7 +15,7 @@ def extract_next_links(url, resp):
     link_list = []
 
     #check HTTP Status
-    if 200 <= resp.status <= 399 resp.status != 204:
+    if 200 <= resp.status <= 399 and resp.status != 204:
         file_handler = urlopen(url)
         parsed = BeautifulSoup(file_handler)
     #retrieve all the links found in the parsed url
