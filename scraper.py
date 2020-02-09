@@ -69,7 +69,7 @@ def is_valid(url):
 
 def record_content(token_dict, token_string, url):
     word_count = 0
-    token_dict += 1
+    token_dict["url_count"] += 1
 
     #records the contents of the string 
     for token in re.sub('[^A-Za-z\']+', ' ', token_string.lower()).split():
