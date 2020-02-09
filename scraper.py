@@ -20,6 +20,7 @@ def extract_next_links(url, resp):
             link = link_tag.get('href')
             link = link.split('#')[0]
             link_list.append(link)
+    print('\n#########\n' + str(link_list) + '\n#########\n')
     return link_list
 
 def is_valid(url):
@@ -38,7 +39,6 @@ def is_valid(url):
         #checking for ICS Calendar Web Cralwer Trap
         if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
             return False
-
 
         #check for valid path
         return not re.match(
