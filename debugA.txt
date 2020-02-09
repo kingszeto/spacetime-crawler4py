@@ -39,7 +39,7 @@ https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-envi
 https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
 https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
 https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
-//www.stat.uci.edu/news/
+www.stat.uci.edu/news/
 http://www.ics.uci.edu/
 mailto:communications@ics.uci.edu
 http://uci.edu/privacy/
@@ -47,574 +47,160 @@ http://uci.edu/privacy/
 #########
 
 
-INVALID DOMAIN: https://www.stat.uci.edu/
-
-INVALID DOMAIN: https://www.stat.uci.edu/chairs-message/
-
-INVALID DOMAIN: https://www.stat.uci.edu/what-is-statistics/
-
-INVALID DOMAIN: https://www.stat.uci.edu/contact-the-department/
-
-INVALID DOMAIN: https://www.stat.uci.edu/tutoring-resources/
-
-INVALID DOMAIN: https://www.stat.uci.edu/faculty/
-
 INVALID DOMAIN: https://recruit.ap.uci.edu/apply
 
-INVALID DOMAIN: https://www.stat.uci.edu/research/
-
-INVALID DOMAIN: https://www.stat.uci.edu/m-s-ph-d-in-statistics/
-
-INVALID DOMAIN: http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
-
-INVALID DOMAIN: https://www.stat.uci.edu/grad-student-directory/
-
-INVALID DOMAIN: https://www.stat.uci.edu/statistics-internships-employment-opportunities/
-
-INVALID DOMAIN: https://www.stat.uci.edu/employers-of-statistics-grad-students/
-
-INVALID DOMAIN: https://www.stat.uci.edu/slider/b-s-in-data-science/
-
-INVALID DOMAIN: https://www.stat.uci.edu/minor-in-statistics/
-
-INVALID DOMAIN: http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
-
-INVALID DOMAIN: http://www.stat.uci.edu/news/
-
-INVALID DOMAIN: https://www.stat.uci.edu/seminar-series/
-
-INVALID DOMAIN: https://statconsulting.ics.uci.edu/
-
-INVALID DOMAIN: https://www.stat.uci.edu/faculty/
-
-INVALID DOMAIN: https://www.stat.uci.edu/faculty/
-
-INVALID DOMAIN: https://www.stat.uci.edu/research/
-
-INVALID DOMAIN: https://www.stat.uci.edu/research/
-
-INVALID DOMAIN: https://www.stat.uci.edu/m-s-ph-d-in-statistics/
-
-INVALID DOMAIN: https://www.stat.uci.edu/m-s-ph-d-in-statistics/
-
 INVALID DOMAIN: https://recruit.ap.uci.edu/apply
-
-INVALID DOMAIN: https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
-
-INVALID DOMAIN: https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
-
-INVALID DOMAIN: https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
-
-INVALID DOMAIN: https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
-
-INVALID DOMAIN: https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
-
-INVALID DOMAIN: http://www.ics.uci.edu/
 
 INVALID DOMAIN: http://uci.edu/privacy/
-https://www.informatics.uci.edu
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted
 
 #########
 
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://laist.com/2019/10/21/socal_professors_push_to_make_college-level_statistics_less_painful.php
+https://www.stat.uci.edu/ics-welcomes-8-new-faculty-for-2019/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://laist.com/2019/10/21/socal_professors_push_to_make_college-level_statistics_less_painful.php
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/ics-welcomes-8-new-faculty-for-2019
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.stat.uci.edu/senior-spotlight-taneisha-arora-pursues-her-passions-from-working-in-industry-to-running-a-bakery/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/senior-spotlight-taneisha-arora-pursues-her-passions-from-working-in-industry-to-running-a-bakery
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.linkedin.com/in/taneisha-arora-04812b153/
+https://www.ics.uci.edu/ugrad/degrees/degree_se.php
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.ics.uci.edu/
 https://www.informatics.uci.edu/
-https://www.informatics.uci.edu/very-top-footer-menu-items/people/
-https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
-https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
-https://www.informatics.uci.edu/very-top-footer-menu-items/news/
-
-
-https://www.informatics.uci.edu/explore/chairs-welcome/
-https://www.informatics.uci.edu/explore/faculty-profiles/
-https://www.informatics.uci.edu/explore/books-we-read/
-https://www.informatics.uci.edu/explore/history-of-the-department/
-https://www.informatics.uci.edu/explore/department-seminars/
-https://www.informatics.uci.edu/explore/blogs-we-author/
-https://www.informatics.uci.edu/explore/department-vision/
-https://www.informatics.uci.edu/explore/books-we-have-written/
-https://www.informatics.uci.edu/explore/visiting-the-department/
-https://www.informatics.uci.edu/explore/facts-figures/
-
-https://www.informatics.uci.edu/grad/overview/
-https://www.informatics.uci.edu/grad/phd-software-engineering/
-https://www.informatics.uci.edu/grad/policies/
-https://www.informatics.uci.edu/grad/phd-informatics/
-https://www.informatics.uci.edu/grad/ms-software-engineering/
-https://www.informatics.uci.edu/grad/diversity-ambassador/
-https://www.informatics.uci.edu/grad/ms-informatics/
-https://www.informatics.uci.edu/grad/mswe/
-https://www.informatics.uci.edu/grad/student-profiles/
-https://www.informatics.uci.edu/grad/mhcid/
-https://www.informatics.uci.edu/grad/courses/
-https://www.informatics.uci.edu/grad/student-groups/
-
-
-https://www.informatics.uci.edu/grad/upcoming-course-schedule/
-
-https://www.informatics.uci.edu/undergrad/bs-informatics/
-https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
-https://www.informatics.uci.edu/undergrad/policies/
-https://www.informatics.uci.edu/undergrad/bs-business-information-management/
-https://www.informatics.uci.edu/undergrad/special-opportunities/
-https://www.informatics.uci.edu/undergrad/student-profiles/
-https://www.informatics.uci.edu/undergrad/bs-computer-game-science/
-https://www.informatics.uci.edu/undergrad/minors/
-https://www.informatics.uci.edu/undergrad/student-groups/
-https://www.informatics.uci.edu/undergrad/bs-software-engineering/
-https://www.informatics.uci.edu/undergrad/courses/
-https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
-
-https://www.informatics.uci.edu/admissions/graduate-application-process/
-https://www.informatics.uci.edu/admissions/coming-from-abroad/
-https://www.informatics.uci.edu/admissions/housing/
-https://www.informatics.uci.edu/admissions/undergraduate-application-process/
-https://www.informatics.uci.edu/admissions/student-life/
-
-https://www.informatics.uci.edu/research/labs-centers/
-https://www.informatics.uci.edu/research/phd-research/
-https://www.informatics.uci.edu/research/undergraduate-research/
-https://www.informatics.uci.edu/research/areas-of-expertise/
-https://www.informatics.uci.edu/research/past-dissertations/
-https://www.informatics.uci.edu/research/gifts-grants/
-https://www.informatics.uci.edu/research/example-research-projects/
-https://www.informatics.uci.edu/research/masters-research/
-
-https://www.informatics.uci.edu/impact/research-that-matters/
-https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
-https://www.informatics.uci.edu/impact/outreach/
-https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
-https://www.informatics.uci.edu/impact/community-engagement/
-
-https://www.informatics.uci.edu/support/champion-research/
-https://www.informatics.uci.edu/support/become-a-corporate-partner/
-https://www.informatics.uci.edu/support/share-your-talent/
-https://www.informatics.uci.edu/support/support-students/
-https://www.informatics.uci.edu/support/provide-projects/
-https://www.informatics.uci.edu/support/set-future-agenda/
-https://www.informatics.uci.edu/support/become-a-mentor/
-https://www.informatics.uci.edu/support/collaborate-on-research/
-
-https://www.informatics.uci.edu/explore/chairs-welcome/
-https://www.informatics.uci.edu/explore/history-of-the-department/
-https://www.informatics.uci.edu/explore/department-vision/
-https://www.informatics.uci.edu/explore/facts-figures/
-https://www.informatics.uci.edu/explore/faculty-profiles/
-https://www.informatics.uci.edu/explore/department-seminars/
-https://www.informatics.uci.edu/explore/books-we-have-written/
-https://www.informatics.uci.edu/explore/books-we-read/
-https://www.informatics.uci.edu/explore/blogs-we-author/
-https://www.informatics.uci.edu/explore/visiting-the-department/
-
-https://www.informatics.uci.edu/grad/phd-informatics/
-https://www.informatics.uci.edu/grad/ms-informatics/
-https://www.informatics.uci.edu/grad/phd-software-engineering/
-https://www.informatics.uci.edu/grad/ms-software-engineering/
-http://mhcid.ics.uci.edu/
-https://mse.ics.uci.edu/%20
-https://www.informatics.uci.edu/grad/courses/
-https://www.informatics.uci.edu/grad/policies/
-https://www.informatics.uci.edu/grad/diversity-ambassador/
-https://www.informatics.uci.edu/grad/student-profiles/
-https://www.informatics.uci.edu/grad/student-groups/
-https://www.informatics.uci.edu/grad/upcoming-course-schedule/
-
-https://www.informatics.uci.edu/undergrad/bs-informatics/
-https://www.informatics.uci.edu/undergrad/bs-business-information-management/
-https://www.informatics.uci.edu/undergrad/bs-computer-game-science/
-https://www.informatics.uci.edu/undergrad/bs-software-engineering/
-https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
-https://www.informatics.uci.edu/undergrad/special-opportunities/
-https://www.informatics.uci.edu/undergrad/minors/
-https://www.informatics.uci.edu/undergrad/courses/
-https://www.informatics.uci.edu/undergrad/policies/
-https://www.informatics.uci.edu/undergrad/student-profiles/
-https://www.informatics.uci.edu/undergrad/student-groups/
-https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
-
-https://www.informatics.uci.edu/admissions/graduate-application-process/
-https://www.informatics.uci.edu/admissions/undergraduate-application-process/
-https://www.informatics.uci.edu/admissions/coming-from-abroad/
-https://www.informatics.uci.edu/admissions/student-life/
-https://www.informatics.uci.edu/admissions/housing/
-
-https://www.informatics.uci.edu/research/labs-centers/
-https://www.informatics.uci.edu/research/areas-of-expertise/
-https://www.informatics.uci.edu/research/example-research-projects/
-https://www.informatics.uci.edu/research/phd-research/
-https://www.informatics.uci.edu/research/past-dissertations/
-https://www.informatics.uci.edu/research/masters-research/
-https://www.informatics.uci.edu/research/undergraduate-research/
-https://www.informatics.uci.edu/research/gifts-grants/
-
-https://www.informatics.uci.edu/impact/research-that-matters/
-https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
-https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
-https://www.informatics.uci.edu/impact/community-engagement/
-https://www.informatics.uci.edu/impact/outreach/
-
-https://www.informatics.uci.edu/support/champion-research/
-https://www.informatics.uci.edu/support/support-students/
-https://www.informatics.uci.edu/support/become-a-mentor/
-https://www.informatics.uci.edu/support/become-a-corporate-partner/
-https://www.informatics.uci.edu/support/provide-projects/
-https://www.informatics.uci.edu/support/collaborate-on-research/
-https://www.informatics.uci.edu/support/share-your-talent/
-https://www.informatics.uci.edu/support/set-future-agenda/
-https://www.informatics.uci.edu/brochure-tiles/how-we-live
-https://www.informatics.uci.edu/grad/mswe
-https://www.informatics.uci.edu/brochure-tiles/how-we-work
-https://www.informatics.uci.edu/undergrad/student-profiles
-https://www.informatics.uci.edu/explore/books-we-have-written
-https://www.informatics.uci.edu/research/example-research-projects
-https://www.informatics.uci.edu/explore/faculty-profiles/stacy-branham
-https://www.informatics.uci.edu/brochure-tiles/what-we-build
-https://www.informatics.uci.edu/support/champion-research
-https://www.informatics.uci.edu/very-top-footer-menu-items/people/
-https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
-https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
-https://www.informatics.uci.edu/very-top-footer-menu-items/news/
-http://www.ics.uci.edu/
-mailto:ichair@ics.uci.edu
-http://uci.edu/privacy/
-https://www.facebook.com/UCI.Informatics
-https://twitter.com/UCI_Informatics
-
-#########
-
-
-INVALID DOMAIN: https://www.informatics.uci.edu/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/people/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/news/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/chairs-welcome/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/faculty-profiles/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-read/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/history-of-the-department/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/department-seminars/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/blogs-we-author/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/department-vision/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-have-written/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/visiting-the-department/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/facts-figures/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/overview/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/phd-software-engineering/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/policies/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/phd-informatics/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/ms-software-engineering/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/diversity-ambassador/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/ms-informatics/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/mswe/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/student-profiles/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/mhcid/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/courses/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/student-groups/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/upcoming-course-schedule/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-informatics/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/policies/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-business-information-management/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/special-opportunities/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-profiles/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-computer-game-science/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/minors/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-groups/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-software-engineering/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/courses/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/graduate-application-process/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/coming-from-abroad/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/housing/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/undergraduate-application-process/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/student-life/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/labs-centers/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/phd-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/undergraduate-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/areas-of-expertise/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/past-dissertations/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/gifts-grants/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/example-research-projects/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/masters-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/research-that-matters/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/outreach/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/community-engagement/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/champion-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/become-a-corporate-partner/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/share-your-talent/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/support-students/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/provide-projects/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/set-future-agenda/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/become-a-mentor/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/collaborate-on-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/chairs-welcome/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/history-of-the-department/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/department-vision/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/facts-figures/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/faculty-profiles/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/department-seminars/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-have-written/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-read/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/blogs-we-author/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/visiting-the-department/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/phd-informatics/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/ms-informatics/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/phd-software-engineering/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/ms-software-engineering/
-
-INVALID DOMAIN: http://mhcid.ics.uci.edu/
-
-INVALID DOMAIN: https://mse.ics.uci.edu/%20
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/courses/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/policies/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/diversity-ambassador/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/student-profiles/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/student-groups/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/upcoming-course-schedule/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-informatics/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-business-information-management/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-computer-game-science/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-software-engineering/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/special-opportunities/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/minors/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/courses/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/policies/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-profiles/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-groups/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/graduate-application-process/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/undergraduate-application-process/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/coming-from-abroad/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/student-life/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/admissions/housing/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/labs-centers/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/areas-of-expertise/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/example-research-projects/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/phd-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/past-dissertations/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/masters-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/undergraduate-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/gifts-grants/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/research-that-matters/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/community-engagement/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/impact/outreach/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/champion-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/support-students/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/become-a-mentor/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/become-a-corporate-partner/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/provide-projects/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/collaborate-on-research/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/share-your-talent/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/set-future-agenda/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/brochure-tiles/how-we-live
-
-INVALID DOMAIN: https://www.informatics.uci.edu/grad/mswe
-
-INVALID DOMAIN: https://www.informatics.uci.edu/brochure-tiles/how-we-work
-
-INVALID DOMAIN: https://www.informatics.uci.edu/undergrad/student-profiles
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/books-we-have-written
-
-INVALID DOMAIN: https://www.informatics.uci.edu/research/example-research-projects
-
-INVALID DOMAIN: https://www.informatics.uci.edu/explore/faculty-profiles/stacy-branham
-
-INVALID DOMAIN: https://www.informatics.uci.edu/brochure-tiles/what-we-build
-
-INVALID DOMAIN: https://www.informatics.uci.edu/support/champion-research
-
-INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/people/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
-
-INVALID DOMAIN: https://www.informatics.uci.edu/very-top-footer-menu-items/news/
-
-INVALID DOMAIN: http://www.ics.uci.edu/
-
-INVALID DOMAIN: http://uci.edu/privacy/
-
-INVALID DOMAIN: https://www.facebook.com/UCI.Informatics
-
-INVALID DOMAIN: https://twitter.com/UCI_Informatics
-https://www.cs.uci.edu
-
-#########
-
-http://www.cs.uci.edu/
-http://www.uci.edu/
-http://www.ics.uci.edu/
-https://www.cs.uci.edu/about-the-department/
-https://www.cs.uci.edu/contact/
-https://www.cs.uci.edu/faculty/
-
-https://www.cs.uci.edu/cs-research-areas/
-https://www.cs.uci.edu/research-centers/
-
-https://www.cs.uci.edu/graduate-computer-science-programs/
-https://www.cs.uci.edu/current-graduate-students/
-https://www.cs.uci.edu/undergraduate-programs/
-
-/news
-/events/seminar-series/
-/events/distinguished-lecture-series/
-/event/2017-computer-science-research-showcase/
-
-https://www.admissions.uci.edu/apply/index.php
-https://apply.grad.uci.edu/apply/
-https://www.cs.uci.edu/job-opportunities/
-https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
-https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
-https://www.cs.uci.edu/uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/
-https://www.cs.uci.edu/uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/
-https://www.cs.uci.edu/uci-news-uci-computer-scientists-breathe-life-into-venice-biennale-installations/
-https://www.cs.uci.edu/uci-news-uci-computer-scientists-breathe-life-into-venice-biennale-installations/
-https://www.cs.uci.edu/ics-alumnus-nithin-jillas-nonprofit-inspires-students-to-love-stem/
-https://www.cs.uci.edu/ics-alumnus-nithin-jillas-nonprofit-inspires-students-to-love-stem/
-http://www.cs.uci.edu/research-areas/
-https://recruit.ap.uci.edu/apply
-https://recruit.ap.uci.edu/apply
-https://recruit.ap.uci.edu/apply/JPF03719
-http://www.cs.uci.edu/professor-of-teaching-in-computer-science/
-http://www.cs.uci.edu/wp-content/cs/uploads/Gul-Agha-Final-Poster2020.pdf
-/events/seminar-series/
-http://www.cs.uci.edu/distinguished-lecture-series/
-http://www.cs.uci.edu/distinguished-lecture-series/
-http://www.cs.uci.edu//wp-content/cs/uploads/Miller.pdf
-https://www.cs.uci.edu/computer-science-majors-preston-tai-and-brandon-tom-appointed-urop-fellows/
-https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
-https://www.cs.uci.edu/zotbins-and-zero-waste-anteaters-support-uc-goal-for-2020/
-https://www.cs.uci.edu/ph-d-student-phanwadee-sinthong-and-professor-carey-win-best-student-paper-award/
-https://www.cs.uci.edu/explore-virtual-reality-with-new-vr-headsets-loan-program-and-workshop/
+https://www.cs.uci.edu/
+https://www.stat.uci.edu/
+https://www.dreamsforschools.org/appjam/
+https://www.ics.uci.edu/community/news/view_news?id=1549
+https://www.ics.uci.edu/~aburtsev/
+https://www.ics.uci.edu/~andre/
+https://www.ics.uci.edu/~pattis/
+https://www.ics.uci.edu/~klefstad/
+https://www.linkedin.com/in/kelly-mckeown-3464051a/
+https://faculty.sites.uci.edu/weinings/edu/
+https://www.linkedin.com/in/mnuno2/
+https://www.appjamplus.org/
+https://aiclub.ics.uci.edu/
+https://www.stat.uci.edu/statistics-professors-shahbaba-and-minin-help-develop-framework-to-investigate-complex-biological-systems/
+https://www.stat.uci.edu/ics-welcomes-8-new-faculty-for-2019/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
 http://www.ics.uci.edu/
 mailto:communications@ics.uci.edu
 http://uci.edu/privacy/
@@ -622,513 +208,2590 @@ http://uci.edu/privacy/
 #########
 
 
-INVALID DOMAIN: http://www.cs.uci.edu/
-
-INVALID DOMAIN: http://www.uci.edu/
-
-INVALID DOMAIN: http://www.ics.uci.edu/
-
-INVALID DOMAIN: https://www.cs.uci.edu/about-the-department/
-
-INVALID DOMAIN: https://www.cs.uci.edu/contact/
-
-INVALID DOMAIN: https://www.cs.uci.edu/faculty/
-
-INVALID DOMAIN: https://www.cs.uci.edu/cs-research-areas/
-
-INVALID DOMAIN: https://www.cs.uci.edu/research-centers/
-
-INVALID DOMAIN: https://www.cs.uci.edu/graduate-computer-science-programs/
-
-INVALID DOMAIN: https://www.cs.uci.edu/current-graduate-students/
-
-INVALID DOMAIN: https://www.cs.uci.edu/undergraduate-programs/
-
-INVALID DOMAIN: https://www.admissions.uci.edu/apply/index.php
-
-INVALID DOMAIN: https://apply.grad.uci.edu/apply/
-
-INVALID DOMAIN: https://www.cs.uci.edu/job-opportunities/
-
-INVALID DOMAIN: https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
-
-INVALID DOMAIN: https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
-
-INVALID DOMAIN: https://www.cs.uci.edu/uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/
-
-INVALID DOMAIN: https://www.cs.uci.edu/uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/
-
-INVALID DOMAIN: https://www.cs.uci.edu/uci-news-uci-computer-scientists-breathe-life-into-venice-biennale-installations/
-
-INVALID DOMAIN: https://www.cs.uci.edu/uci-news-uci-computer-scientists-breathe-life-into-venice-biennale-installations/
-
-INVALID DOMAIN: https://www.cs.uci.edu/ics-alumnus-nithin-jillas-nonprofit-inspires-students-to-love-stem/
-
-INVALID DOMAIN: https://www.cs.uci.edu/ics-alumnus-nithin-jillas-nonprofit-inspires-students-to-love-stem/
-
-INVALID DOMAIN: http://www.cs.uci.edu/research-areas/
-
 INVALID DOMAIN: https://recruit.ap.uci.edu/apply
 
-INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+INVALID DOMAIN: https://www.linkedin.com/in/taneisha-arora-04812b153/
 
-INVALID DOMAIN: https://recruit.ap.uci.edu/apply/JPF03719
+INVALID DOMAIN: https://www.dreamsforschools.org/appjam/
 
-INVALID DOMAIN: http://www.cs.uci.edu/professor-of-teaching-in-computer-science/
+INVALID DOMAIN: https://www.linkedin.com/in/kelly-mckeown-3464051a/
 
-INVALID DOMAIN: http://www.cs.uci.edu/wp-content/cs/uploads/Gul-Agha-Final-Poster2020.pdf
+INVALID DOMAIN: https://faculty.sites.uci.edu/weinings/edu/
 
-INVALID DOMAIN: http://www.cs.uci.edu/distinguished-lecture-series/
+INVALID DOMAIN: https://www.linkedin.com/in/mnuno2/
 
-INVALID DOMAIN: http://www.cs.uci.edu/distinguished-lecture-series/
-
-INVALID DOMAIN: http://www.cs.uci.edu//wp-content/cs/uploads/Miller.pdf
-
-INVALID DOMAIN: https://www.cs.uci.edu/computer-science-majors-preston-tai-and-brandon-tom-appointed-urop-fellows/
-
-INVALID DOMAIN: https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
-
-INVALID DOMAIN: https://www.cs.uci.edu/zotbins-and-zero-waste-anteaters-support-uc-goal-for-2020/
-
-INVALID DOMAIN: https://www.cs.uci.edu/ph-d-student-phanwadee-sinthong-and-professor-carey-win-best-student-paper-award/
-
-INVALID DOMAIN: https://www.cs.uci.edu/explore-virtual-reality-with-new-vr-headsets-loan-program-and-workshop/
-
-INVALID DOMAIN: http://www.ics.uci.edu/
+INVALID DOMAIN: https://www.appjamplus.org/
 
 INVALID DOMAIN: http://uci.edu/privacy/
-https://www.ics.uci.edu
+https://www.stat.uci.edu/statistics-professors-shahbaba-and-minin-help-develop-framework-to-investigate-complex-biological-systems
 
 #########
 
-/
-/
-/about/
-/about/
-/about/about_deanmsg.php
-/about/about_factsfigures.php
-/about/brenhall/index.php
-/about/visit/index.php
-/about/equity/
-/about/about_contact.php
-/dept/
-//www.cs.uci.edu
-//www.informatics.uci.edu
-//www.stat.uci.edu
-/faculty/area/
-/faculty/area/
-/faculty/centers/
-/faculty/highlights/
+https://www.stat.uci.edu/
 
-/grad/admissions/index
-/grad/admissions/index
-/grad/admissions/Prospective_ApplicationProcess.php
-/grad/degrees/index
-/grad/courses/index-course
-/grad/forms/index
-/grad/policies/index
-/grad/funding/index
-//swiki.ics.uci.edu/doku.php
-/grad/resources
-/about/visit/index
-//www.ics.uci.edu/bin/pdf/grad/F19%20Graduate%20Student%20Handbook.pdf
-/grad/index
-/ugrad/
-/ugrad/index
-/ugrad/sao/index
-/ugrad/sao/Course_updates
-/ugrad/courses/index-course
-/ugrad/QA_Petitions
-/ugrad/degrees/index.php
-/ugrad/degrees/Minors
-/ugrad/policies/Academic_Honesty
-/ugrad/policies/Academic_Standing
-/ugrad/policies/Add_Drop_ChangeOption
-/ugrad/policies/Course_Outside_UCI
-/ugrad/policies/Grade_Options
-/ugrad/policies/Laptop_ComputerUse
-/ugrad/policies/Withdrawal_Readmission
-/ugrad/policies/CS199_IN4MATX199
-/ugrad/QA_Graduation
-/ugrad/resources/index
-/ugrad/sao/SAO_Events.php
-//swiki.ics.uci.edu/doku.php
-/community/scholarships/index
-//uci.joinhandshake.com/login
-/about/search/
-/faculty/
-/about/search/index.php
-/about/search/search_graduate_all.php
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
 
-/community/news/
-//calendar.ics.uci.edu/calendar.php
-/social/
-/community/news/press/
-/about/annualreport/
-/involved/
-//secure.connect.uci.edu/s/1735/interior-1col.aspx?sid=1735&gid=3&pgid=801&dids=79
-/community/alumni/
-/involved/leadership_council
-/involved/corporate_partner
-//www.informatics.uci.edu/support/provide-projects/
-/community/events/competition/
-https://engineering.uci.edu/news/2020/1/uci-led-project-seeks-combat-wildfires
-https://www.ics.uci.edu/community/news/view_news?id=1687
-https://www.ics.uci.edu/community/news/view_news?id=1683
-https://www.ics.uci.edu/community/news/view_news?id=1671
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
 
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
 
-//www.ics.uci.edu/community/news/
-https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link
-https://today.uci.edu/department/information_computer_sciences
-/employment/
-//www.ics.uci.edu/employment/employ_faculty.php
-//www.ics.uci.edu/employment/employ_faculty.php
-https://forecast7.com/en/33d68n117d83/irvine/?unit=us
-//www.ics.uci.edu/community/news/view_news?id=1689
-//www.ics.uci.edu/community/news/view_news?id=1689
-//www.ics.uci.edu/community/news/view_news?id=1689
-//www.sandiegouniontribune.com/news/education/story/2019-12-02/county-esports-initiative-works-to-pull-student-gamers-out-of-the-darkness
-//www.sandiegouniontribune.com/news/education/story/2019-12-02/county-esports-initiative-works-to-pull-student-gamers-out-of-the-darkness
-//www.sandiegouniontribune.com/news/education/story/2019-12-02/county-esports-initiative-works-to-pull-student-gamers-out-of-the-darkness
-//theconversation.com/political-hashtags-like-metoo-and-blacklivesmatter-make-people-less-likely-to-believe-the-news-126415
-//theconversation.com/political-hashtags-like-metoo-and-blacklivesmatter-make-people-less-likely-to-believe-the-news-126415
-//theconversation.com/political-hashtags-like-metoo-and-blacklivesmatter-make-people-less-likely-to-believe-the-news-126415
-http://facebook.com/UCIBrenICS
-http://instagram.com/ucibrenics/
-http://twitter.com/UCIbrenICS
-https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences
-http://youtube.com/UCIBrenICS
-https://www.flickr.com/photos/brenschool
-https://uci.edu/
-https://directory.uci.edu/
-https://www.ics.uci.edu/about/search/index.php
-https://www.ics.uci.edu/employment/
-https://intranet.ics.uci.edu/
-https://www.ics.uci.edu/about/kfflab/index.php
-https://www.ics.uci.edu/about/facilities/index.php
-https://www.ics.uci.edu/community/news/
-https://today.uci.edu/department/information_computer_sciences
-https://www.ics.uci.edu/about/visit/index.php
-https://www.ics.uci.edu/accessibility/
-https://www.ics.uci.edu/about/about_safety.php
-https://uci.edu/privacy/index.php
-https://apply.grad.uci.edu/apply/
-https://www.ics.uci.edu/about/about_contact.php
-https://secure.connect.uci.edu/s/1735/interior-1col.aspx?sid=1735&gid=3&pgid=801&dids=79
-https://uci.edu/copyright/
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
 
-
-#########
-
-
-INVALID DOMAIN: https://engineering.uci.edu/news/2020/1/uci-led-project-seeks-combat-wildfires
-
-INVALID DOMAIN: https://www.ics.uci.edu/community/news/view_news?id=1687
-
-INVALID DOMAIN: https://www.ics.uci.edu/community/news/view_news?id=1683
-
-INVALID DOMAIN: https://www.ics.uci.edu/community/news/view_news?id=1671
-
-INVALID DOMAIN: https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link
-
-INVALID DOMAIN: https://forecast7.com/en/33d68n117d83/irvine/?unit=us
-
-INVALID DOMAIN: http://facebook.com/UCIBrenICS
-
-INVALID DOMAIN: http://instagram.com/ucibrenics/
-
-INVALID DOMAIN: http://twitter.com/UCIbrenICS
-
-INVALID DOMAIN: https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences
-
-INVALID DOMAIN: http://youtube.com/UCIBrenICS
-
-INVALID DOMAIN: https://www.flickr.com/photos/brenschool
-
-INVALID DOMAIN: https://uci.edu/
-
-INVALID DOMAIN: https://directory.uci.edu/
-
-INVALID DOMAIN: https://www.ics.uci.edu/about/search/index.php
-
-INVALID DOMAIN: https://www.ics.uci.edu/employment/
-
-INVALID DOMAIN: https://intranet.ics.uci.edu/
-
-INVALID DOMAIN: https://www.ics.uci.edu/about/kfflab/index.php
-
-INVALID DOMAIN: https://www.ics.uci.edu/about/facilities/index.php
-
-INVALID DOMAIN: https://www.ics.uci.edu/community/news/
-
-INVALID DOMAIN: https://www.ics.uci.edu/about/visit/index.php
-
-INVALID DOMAIN: https://www.ics.uci.edu/accessibility/
-
-INVALID DOMAIN: https://www.ics.uci.edu/about/about_safety.php
-
-INVALID DOMAIN: https://uci.edu/privacy/index.php
-
-INVALID DOMAIN: https://apply.grad.uci.edu/apply/
-
-INVALID DOMAIN: https://www.ics.uci.edu/about/about_contact.php
-
-INVALID DOMAIN: https://secure.connect.uci.edu/s/1735/interior-1col.aspx?sid=1735&gid=3&pgid=801&dids=79
-
-INVALID DOMAIN: https://uci.edu/copyright/
-https://today.uci.edu/department/information_computer_sciences
-
-#########
-
-
-https://uci.edu/
-https://today.uci.edu/signup?school_id=131
-https://today.uci.edu/auth/login
-https://today.uci.edu/
-/
-https://today.uci.edu/browse/departments
-https://today.uci.edu/photo/367953
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/~babaks/
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=1936833
+https://www.nsf.gov/index.jsp
+http://vnminin.github.io/
+https://www.faculty.uci.edu/profile.cfm?faculty_id=6028
+https://www.math.uci.edu/people/john-lowengrub
+https://www.linkedin.com/in/luisdml/
+https://www.linkedin.com/in/abdon-iniguez/
+https://casb.uci.edu/
+http://cellfate.uci.edu/
+https://www.stat.uci.edu/hal-stern-appointed-vice-provost-for-academic-planning/
+https://www.stat.uci.edu/senior-spotlight-taneisha-arora-pursues-her-passions-from-working-in-industry-to-running-a-bakery/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
 http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1936833
+
+INVALID DOMAIN: https://www.nsf.gov/index.jsp
+
+INVALID DOMAIN: http://vnminin.github.io/
+
+INVALID DOMAIN: https://www.faculty.uci.edu/profile.cfm?faculty_id=6028
+
+INVALID DOMAIN: https://www.math.uci.edu/people/john-lowengrub
+
+INVALID DOMAIN: https://www.linkedin.com/in/luisdml/
+
+INVALID DOMAIN: https://www.linkedin.com/in/abdon-iniguez/
+
+INVALID DOMAIN: https://casb.uci.edu/
+
+INVALID DOMAIN: http://cellfate.uci.edu/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/hal-stern-appointed-vice-provost-for-academic-planning
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://zotmail.oit.uci.edu/ClickMsg.aspx?batchId=ULI%2b8n21TbBFeHGYU4lvKPWGJ8USSDm9HPF2DI78yNmk1rIrU92DRM1UIHkBj8TsIvo4Zk%2f0jC4%2bcmf64Z0AJ1Dj75x9JKGJ%2fRGCtqiaKvriVR0wnMZg4e9EXnCwI89W8KRMJSqIIJyVIianDqjTbeSxm0N%2bnr%2fC%2fLX1h6qcVTggtiOCaLmn1b1o7ASYzQwqCMmuMl2P5YzNYgmQ28ugBw5MaNJQ%2bqbmg4RNZNeL0EA%3d
+https://www.stat.uci.edu/professor-nan-awarded-nsf-grant-to-improve-statistical-inference/
+https://www.stat.uci.edu/statistics-professors-shahbaba-and-minin-help-develop-framework-to-investigate-complex-biological-systems/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
 http://www.ics.uci.edu/
-https://today.uci.edu/event/ifh_distinguished_lecture_series_digital_health_-_back_to_the_future_sumi_helal
-https://today.uci.edu/event/ifh_distinguished_lecture_series_digital_health_-_back_to_the_future_sumi_helal
-https://today.uci.edu/calendar/week?event_types%5B%5D=48766
-https://today.uci.edu/department/information_computer_sciences
-https://today.uci.edu/event/informatics_seminar_series_worldmaking_in_the_pudding_court_-_acculturation_collaboration_and_power_in_tabletop_roleplaying_games_antero_garcia
-https://today.uci.edu/event/informatics_seminar_series_worldmaking_in_the_pudding_court_-_acculturation_collaboration_and_power_in_tabletop_roleplaying_games_antero_garcia
-https://today.uci.edu/calendar/week?event_types%5B%5D=48766
-https://today.uci.edu/department/information_computer_sciences
-https://today.uci.edu/event/computer_science_seminar_series_server_architectures_for_the_microservices_era_amirhossein_mirhosseini
-https://today.uci.edu/event/computer_science_seminar_series_server_architectures_for_the_microservices_era_amirhossein_mirhosseini
-https://today.uci.edu/calendar/week?event_types%5B%5D=48766
-https://today.uci.edu/calendar/week?event_types%5B%5D=84397
-https://today.uci.edu/department/information_computer_sciences
-https://today.uci.edu/event/cs_seminar_series_server_architectures_for_the_microservices_era_amirhossein_mirhosseini
-https://today.uci.edu/event/cs_seminar_series_server_architectures_for_the_microservices_era_amirhossein_mirhosseini
-https://today.uci.edu/calendar/week?event_types%5B%5D=48766
-https://today.uci.edu/department/information_computer_sciences
-https://today.uci.edu/event/computer_science_seminar_series_disinformation_social_algorithm_and_suspicious_accounts_felix_wu
-https://today.uci.edu/event/computer_science_seminar_series_disinformation_social_algorithm_and_suspicious_accounts_felix_wu
-https://today.uci.edu/calendar/week?event_types%5B%5D=48766
-https://today.uci.edu/calendar/week?event_types%5B%5D=84397
-https://today.uci.edu/department/information_computer_sciences
-/department/information_computer_sciences/calendar
-https://today.uci.edu/event/informatics_seminar_series_a_new_jim_code_race_carceral_technoscience_and_liberatory_imagination_in_everyday_life_ruha_benjamin_8094
-https://today.uci.edu/event/cs_seminar_series_make_programming_simple_again_-_resilience_aviral_shrivastava
-https://today.uci.edu/event/global_game_jam_2020
-https://today.uci.edu/event/global_game_jam_2020
-https://today.uci.edu/event/global_game_jam_2020
-https://today.uci.edu/department/_/add_request/8068
-https://twitter.com/search?q=UCIbrenICS
-http://facebook.com/UCIBrenICS
-https://today.uci.edu/mrmille2_188
-https://today.uci.edu/qinhuah_823
-https://today.uci.edu/hdvo1_340
-https://today.uci.edu/chengyx2_6
-https://today.uci.edu/hluo8_113
-https://today.uci.edu/qzhao9_431
-https://www.facebook.com/UCIrvine
-https://twitter.com/ucirvine
-https://www.youtube.com/ucirvinenews
-https://instagram.com/ucirvine
-https://www.flickr.com/photos/ucirvine/
-https://www.reg.uci.edu/navigation/calendars.html
-https://forms.communications.uci.edu/uci-feedback/
-/localist
-https://uci.edu/copyright/
-https://today.uci.edu/auth/shib_login?previous_url=https%3A%2F%2Ftoday.uci.edu%2Fdepartment%2Finformation_computer_sciences
-
-
-https://today.uci.edu/signup?school_id=131
-/auth/forgot
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
 
 #########
 
 
-INVALID DOMAIN: https://uci.edu/
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
 
-INVALID DOMAIN: http://www.ics.uci.edu/
+INVALID DOMAIN: https://zotmail.oit.uci.edu/ClickMsg.aspx?batchId=ULI%2b8n21TbBFeHGYU4lvKPWGJ8USSDm9HPF2DI78yNmk1rIrU92DRM1UIHkBj8TsIvo4Zk%2f0jC4%2bcmf64Z0AJ1Dj75x9JKGJ%2fRGCtqiaKvriVR0wnMZg4e9EXnCwI89W8KRMJSqIIJyVIianDqjTbeSxm0N%2bnr%2fC%2fLX1h6qcVTggtiOCaLmn1b1o7ASYzQwqCMmuMl2P5YzNYgmQ28ugBw5MaNJQ%2bqbmg4RNZNeL0EA%3d
 
-INVALID DOMAIN: http://www.ics.uci.edu/
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/professor-nan-awarded-nsf-grant-to-improve-statistical-inference
 
-INVALID DOMAIN: https://twitter.com/search?q=UCIbrenICS
+#########
 
-INVALID DOMAIN: http://facebook.com/UCIBrenICS
+https://www.stat.uci.edu/
 
-INVALID DOMAIN: https://www.facebook.com/UCIrvine
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
 
-INVALID DOMAIN: https://twitter.com/ucirvine
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
 
-INVALID DOMAIN: https://www.youtube.com/ucirvinenews
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
 
-INVALID DOMAIN: https://instagram.com/ucirvine
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
 
-INVALID DOMAIN: https://www.flickr.com/photos/ucirvine/
-
-INVALID DOMAIN: https://www.reg.uci.edu/navigation/calendars.html
-
-INVALID DOMAIN: https://forms.communications.uci.edu/uci-feedback/
-
-INVALID DOMAIN: https://uci.edu/copyright/
-https://today.uci.edu/auth/shib_login?previous_url=https%3A%2F%2Ftoday.uci.edu%2Fdepartment%2Finformation_computer_sciences
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.stat.uci.edu/faculty/bin-nan/
+https://www.nsf.gov/index.jsp
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915711&HistoricalAwards=false
+https://www.stat.uci.edu/renewed-funding-lets-hal-stern-continue-research-of-early-life-adversity-brain-development-with-the-uci-conte-center/
+https://www.stat.uci.edu/hal-stern-appointed-vice-provost-for-academic-planning/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
 
 #########
 
 
-#########
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
 
-https://today.uci.edu/qzhao9_431
+INVALID DOMAIN: https://www.nsf.gov/index.jsp
 
-#########
+INVALID DOMAIN: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915711&HistoricalAwards=false
 
-
-#########
-
-https://today.uci.edu/hluo8_113
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/renewed-funding-lets-hal-stern-continue-research-of-early-life-adversity-brain-development-with-the-uci-conte-center
 
 #########
 
+https://www.stat.uci.edu/
 
-#########
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
 
-https://today.uci.edu/chengyx2_6
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
 
-#########
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
 
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
 
-#########
-
-https://today.uci.edu/hdvo1_340
-
-#########
-
-
-#########
-
-https://today.uci.edu/qinhuah_823
-
-#########
-
-
-#########
-
-https://today.uci.edu/mrmille2_188
-
-#########
-
-
-#########
-
-https://today.uci.edu/department/_/add_request/8068
-
-#########
-
-
-#########
-
-https://today.uci.edu/event/global_game_jam_2020
-
-#########
-
-
-#########
-
-https://today.uci.edu/event/cs_seminar_series_make_programming_simple_again_-_resilience_aviral_shrivastava
-
-#########
-
-
-#########
-
-https://today.uci.edu/event/informatics_seminar_series_a_new_jim_code_race_carceral_technoscience_and_liberatory_imagination_in_everyday_life_ruha_benjamin_8094
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.nimh.nih.gov/index.shtml
+https://contecenter.uci.edu/
+https://contecenter.uci.edu/projects-and-cores/
+https://www.ics.uci.edu/~sternh/
+https://news.uci.edu/2019/07/10/uci-child-neurologist-dr-tallie-z-baram-is-awarded-15-million-conte-center-grant/
+https://contecenter.uci.edu/wp-content/uploads/2018/09/Calculating-Mood-Entropy-Final.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5625898/
+https://www.nature.com/articles/s41386-018-0280-9
+https://www.nature.com/scitable/topicpage/the-role-of-methylation-in-gene-expression-1070
+http://dx.doi.org/10.26508/lsa.201800204
+http://statconsulting.uci.edu/
+https://contecenter.uci.edu/from-the-director/
+https://www.stat.uci.edu/conference-honors-statistics-professor-emeritus-wesley-johnson/
+https://www.stat.uci.edu/professor-nan-awarded-nsf-grant-to-improve-statistical-inference/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
 
 #########
 
 
-#########
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
 
-https://today.uci.edu/event/computer_science_seminar_series_disinformation_social_algorithm_and_suspicious_accounts_felix_wu
+INVALID DOMAIN: https://www.nimh.nih.gov/index.shtml
 
-#########
+INVALID DOMAIN: https://contecenter.uci.edu/
 
+INVALID DOMAIN: https://contecenter.uci.edu/projects-and-cores/
 
-#########
+INVALID DOMAIN: https://news.uci.edu/2019/07/10/uci-child-neurologist-dr-tallie-z-baram-is-awarded-15-million-conte-center-grant/
 
-https://today.uci.edu/event/cs_seminar_series_server_architectures_for_the_microservices_era_amirhossein_mirhosseini
+INVALID DOMAIN: https://contecenter.uci.edu/wp-content/uploads/2018/09/Calculating-Mood-Entropy-Final.pdf
 
-#########
+INVALID DOMAIN: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5625898/
 
+INVALID DOMAIN: https://www.nature.com/articles/s41386-018-0280-9
 
-#########
+INVALID DOMAIN: https://www.nature.com/scitable/topicpage/the-role-of-methylation-in-gene-expression-1070
 
-https://today.uci.edu/calendar/week?event_types%5B%5D=84397
+INVALID DOMAIN: http://dx.doi.org/10.26508/lsa.201800204
 
-#########
+INVALID DOMAIN: http://statconsulting.uci.edu/
 
+INVALID DOMAIN: https://contecenter.uci.edu/from-the-director/
 
-#########
-
-https://today.uci.edu/event/computer_science_seminar_series_server_architectures_for_the_microservices_era_amirhossein_mirhosseini
-
-#########
-
-
-#########
-
-https://today.uci.edu/event/informatics_seminar_series_worldmaking_in_the_pudding_court_-_acculturation_collaboration_and_power_in_tabletop_roleplaying_games_antero_garcia
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/conference-honors-statistics-professor-emeritus-wesley-johnson
 
 #########
 
+https://www.stat.uci.edu/
 
-#########
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
 
-https://today.uci.edu/calendar/week?event_types%5B%5D=48766
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
 
-#########
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
 
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
 
-#########
-
-https://today.uci.edu/event/ifh_distinguished_lecture_series_digital_health_-_back_to_the_future_sumi_helal
-
-#########
-
-
-#########
-
-https://today.uci.edu/photo/367953
-
-#########
-
-
-#########
-
-https://today.uci.edu/browse/departments
-
-#########
-
-
-#########
-
-https://today.uci.edu
-
-#########
-
-
-#########
-
-https://today.uci.edu/auth/login
-
-#########
-
-
-#########
-
-https://today.uci.edu/signup?school_id=131
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/~wjohnson/
+http://midas.mat.uc.cl/workshop/
+https://bayesian.org/
+http://midas.mat.uc.cl/
+http://www.stat.uci.edu/
+https://www.ics.uci.edu/~babaks/
+http://www.ics.uci.edu/~jutts
+https://www.ics.uci.edu/~mguindan/
+https://cb2.uahs.arizona.edu/profile/edward-j-bedrick-phd
+http://www.mat.uc.cl/~ajara/Home.html
+https://www.stat.uci.edu/ics-students-win-best-web-app-at-hacksc/
+https://www.stat.uci.edu/renewed-funding-lets-hal-stern-continue-research-of-early-life-adversity-brain-development-with-the-uci-conte-center/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
 
 #########
 
 
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://midas.mat.uc.cl/workshop/
+
+INVALID DOMAIN: https://bayesian.org/
+
+INVALID DOMAIN: http://midas.mat.uc.cl/
+
+INVALID DOMAIN: https://cb2.uahs.arizona.edu/profile/edward-j-bedrick-phd
+
+INVALID DOMAIN: http://www.mat.uc.cl/~ajara/Home.html
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/ics-students-win-best-web-app-at-hacksc
+
 #########
 
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://hacksc2019.devpost.com/
+https://devpost.com/software/align-f4o103
+https://www.ics.uci.edu/
+https://www.linkedin.com/in/taneisha-arora-04812b153/
+https://www.linkedin.com/in/takrishn/
+https://www.linkedin.com/in/daniel-davies-943668160/?originalSubdomain=uk
+https://www.hackuci.com/
+https://www.stat.uci.edu/professor-guindani-named-fellow-of-the-american-statistical-association/
+https://www.stat.uci.edu/conference-honors-statistics-professor-emeritus-wesley-johnson/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://hacksc2019.devpost.com/
+
+INVALID DOMAIN: https://devpost.com/software/align-f4o103
+
+INVALID DOMAIN: https://www.linkedin.com/in/taneisha-arora-04812b153/
+
+INVALID DOMAIN: https://www.linkedin.com/in/takrishn/
+
+INVALID DOMAIN: https://www.linkedin.com/in/daniel-davies-943668160/?originalSubdomain=uk
+
+INVALID DOMAIN: https://www.hackuci.com/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/professor-guindani-named-fellow-of-the-american-statistical-association
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/~mguindan/
+https://www.amstat.org/ASA/Your-Career/Awards/ASA-Fellows.aspx
+https://www.amstat.org/
+https://www.ics.uci.edu/~dgillen/
+https://www.stat.uci.edu/
+http://microbiome.uci.edu/
+https://sites.uci.edu/smi2019/
+https://www.ics.uci.edu/
+https://brain.uci.edu/about/
+https://cnlm.uci.edu/
+https://brain.uci.edu/about/
+https://www.amstat.org/ASA/about/home.aspx?hkey=6a706b5c-e60b-496b-b0c6-195c953ffdbc
+https://www.stat.uci.edu/center-for-statistical-consulting-a-one-stop-shop-for-data-analysis/
+https://www.stat.uci.edu/ics-students-win-best-web-app-at-hacksc/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.amstat.org/ASA/Your-Career/Awards/ASA-Fellows.aspx
+
+INVALID DOMAIN: https://www.amstat.org/
+
+INVALID DOMAIN: http://microbiome.uci.edu/
+
+INVALID DOMAIN: https://sites.uci.edu/smi2019/
+
+INVALID DOMAIN: https://brain.uci.edu/about/
+
+INVALID DOMAIN: https://cnlm.uci.edu/
+
+INVALID DOMAIN: https://brain.uci.edu/about/
+
+INVALID DOMAIN: https://www.amstat.org/ASA/about/home.aspx?hkey=6a706b5c-e60b-496b-b0c6-195c953ffdbc
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/center-for-statistical-consulting-a-one-stop-shop-for-data-analysis
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.linkedin.com/in/jonilricks/
+http://statconsulting.uci.edu/
+https://www.ics.uci.edu/community/news/view_news?id=1306
+https://www.icts.uci.edu/services/berd1.php
+https://www.icts.uci.edu/
+https://statconsulting.ics.uci.edu/
+https://statconsulting.ics.uci.edu/research-highlights/client-testimonials/
+https://statconsulting.ics.uci.edu/request-consultation/
+https://statconsulting.ics.uci.edu/consulting-with-us/upcoming-events/
+https://statconsulting.ics.uci.edu/category/events/
+https://www.eventbrite.com/e/power-analysis-in-sas-2-day-workshop-tickets-60596613101
+http://www.ics.uci.edu/~babaks/index.html
+https://www.stat.uci.edu/statistics-ph-d-students-awarded-nsf-graduate-research-fellowships/
+https://www.stat.uci.edu/professor-guindani-named-fellow-of-the-american-statistical-association/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.linkedin.com/in/jonilricks/
+
+INVALID DOMAIN: http://statconsulting.uci.edu/
+
+INVALID DOMAIN: https://www.icts.uci.edu/services/berd1.php
+
+INVALID DOMAIN: https://www.icts.uci.edu/
+
+INVALID DOMAIN: https://www.eventbrite.com/e/power-analysis-in-sas-2-day-workshop-tickets-60596613101
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/statistics-ph-d-students-awarded-nsf-graduate-research-fellowships
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/
+https://www.nsf.gov/
+https://www.nsfgrfp.org/
+https://www.ics.uci.edu/~dgillen/
+https://www.stat.uci.edu/
+https://www.linkedin.com/in/oliviabernstein/
+https://www.linkedin.com/in/jaylen-lee-652508179/
+https://www.nsfgrfp.org/general_resources/about
+https://www.stat.uci.edu/new-data-science-scholarship-to-promote-social-good/
+https://www.stat.uci.edu/center-for-statistical-consulting-a-one-stop-shop-for-data-analysis/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.nsf.gov/
+
+INVALID DOMAIN: https://www.nsfgrfp.org/
+
+INVALID DOMAIN: https://www.linkedin.com/in/oliviabernstein/
+
+INVALID DOMAIN: https://www.linkedin.com/in/jaylen-lee-652508179/
+
+INVALID DOMAIN: https://www.nsfgrfp.org/general_resources/about
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/new-data-science-scholarship-to-promote-social-good
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/~jutts/
+https://www.ics.uci.edu/
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/
+https://www.ics.uci.edu/community/scholarships/index
+https://www.stat.uci.edu/professor-shens-collaborations-exemplify-the-significance-of-statistics/
+https://www.stat.uci.edu/statistics-ph-d-students-awarded-nsf-graduate-research-fellowships/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/professor-shens-collaborations-exemplify-the-significance-of-statistics
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://faculty.sites.uci.edu/weinings/
+https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.037803
+https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
+https://www.nature.com/articles/nature24454
+https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12750
+https://www.simonsfoundation.org/
+https://www.stat.uci.edu/trio-of-ics-professors-preview-tech-trends-for-2019/
+https://www.stat.uci.edu/new-data-science-scholarship-to-promote-social-good/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://faculty.sites.uci.edu/weinings/
+
+INVALID DOMAIN: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.037803
+
+INVALID DOMAIN: https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
+
+INVALID DOMAIN: https://www.nature.com/articles/nature24454
+
+INVALID DOMAIN: https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12750
+
+INVALID DOMAIN: https://www.simonsfoundation.org/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/trio-of-ics-professors-preview-tech-trends-for-2019
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/
+https://stacybranham.com/
+https://www.ics.uci.edu/~mguindan/
+https://www.ics.uci.edu/~swjun/
+https://en.wikipedia.org/wiki/Amazon_Alexa
+https://money.cnn.com/2017/09/01/technology/china-alipay-kfc-facial-recognition/index.html
+https://dl.acm.org/citation.cfm?id=3239330
+https://dl.acm.org/citation.cfm?id=3236343
+https://dl.acm.org/citation.cfm?id=3173582
+https://dl.acm.org/citation.cfm?id=332843
+https://www.youtube.com/watch?time_continue=1&v=CNFhcGoG6ec
+https://www.microsoft.com/en-us/research/project/project-brainwave/
+https://en.wikipedia.org/wiki/Field-programmable_gate_array
+https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html
+https://projecteuclid.org/euclid.aoas/1267453942
+https://www.nature.com/collections/prbfkwmwvz
+https://community.amstat.org/statisticsinimagingsection/home
+https://www.amstat.org/
+http://microbiome.uci.edu/
+https://en.wikipedia.org/wiki/The_Mother_of_All_Demos
+https://www.stat.uci.edu/statistics-ph-d-alumnus-andrew-holbrook-18-named-a-finalist-for-the-savage-award/
+https://www.stat.uci.edu/professor-shens-collaborations-exemplify-the-significance-of-statistics/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://stacybranham.com/
+
+INVALID DOMAIN: https://en.wikipedia.org/wiki/Amazon_Alexa
+
+INVALID DOMAIN: https://money.cnn.com/2017/09/01/technology/china-alipay-kfc-facial-recognition/index.html
+
+INVALID DOMAIN: https://dl.acm.org/citation.cfm?id=3239330
+
+INVALID DOMAIN: https://dl.acm.org/citation.cfm?id=3236343
+
+INVALID DOMAIN: https://dl.acm.org/citation.cfm?id=3173582
+
+INVALID DOMAIN: https://dl.acm.org/citation.cfm?id=332843
+
+INVALID DOMAIN: https://www.youtube.com/watch?time_continue=1&v=CNFhcGoG6ec
+
+INVALID DOMAIN: https://www.microsoft.com/en-us/research/project/project-brainwave/
+
+INVALID DOMAIN: https://en.wikipedia.org/wiki/Field-programmable_gate_array
+
+INVALID DOMAIN: https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html
+
+INVALID DOMAIN: https://projecteuclid.org/euclid.aoas/1267453942
+
+INVALID DOMAIN: https://www.nature.com/collections/prbfkwmwvz
+
+INVALID DOMAIN: https://community.amstat.org/statisticsinimagingsection/home
+
+INVALID DOMAIN: https://www.amstat.org/
+
+INVALID DOMAIN: http://microbiome.uci.edu/
+
+INVALID DOMAIN: https://en.wikipedia.org/wiki/The_Mother_of_All_Demos
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/statistics-ph-d-alumnus-andrew-holbrook-18-named-a-finalist-for-the-savage-award
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://bayesian.org/project/savage-award/
+https://www.ics.uci.edu/~babaks/
+http://www-history.mcs.st-andrews.ac.uk/Biographies/Savage.html
+http://ww2.amstat.org/meetings/jsm/2019/index.cfm
+https://www.ics.uci.edu/community/news/view_news?id=1312
+https://www.stat.uci.edu/multidepartmental-collaboration-on-detecting-code-clones-leads-to-distinguished-paper-award/
+https://www.stat.uci.edu/trio-of-ics-professors-preview-tech-trends-for-2019/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://bayesian.org/project/savage-award/
+
+INVALID DOMAIN: http://www-history.mcs.st-andrews.ac.uk/Biographies/Savage.html
+
+INVALID DOMAIN: http://ww2.amstat.org/meetings/jsm/2019/index.cfm
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/multidepartmental-collaboration-on-detecting-code-clones-leads-to-distinguished-paper-award
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/
+https://2018.fseconference.org/home
+https://www.linkedin.com/in/sainivaibhav/
+https://www.linkedin.com/in/farimafarahani/
+https://www.informatics.uci.edu/explore/faculty-profiles/cristina-lopes/
+https://www.linkedin.com/in/yadong-adam-lu-90a35b87/
+http://www.igb.uci.edu/~pfbaldi/
+https://2018.fseconference.org/event/fse-2018-research-papers-oreo-detection-of-clones-in-the-twilight-zone
+http://www.stat.uci.edu/wp-content/stat/uploads/Oreo-awards.jpg
+https://www.stat.uci.edu/senior-spotlight-james-purpura-goes-from-watching-moneyball-to-earning-data-science-degree/
+https://www.stat.uci.edu/statistics-ph-d-alumnus-andrew-holbrook-18-named-a-finalist-for-the-savage-award/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://2018.fseconference.org/home
+
+INVALID DOMAIN: https://www.linkedin.com/in/sainivaibhav/
+
+INVALID DOMAIN: https://www.linkedin.com/in/farimafarahani/
+
+INVALID DOMAIN: https://www.linkedin.com/in/yadong-adam-lu-90a35b87/
+
+INVALID DOMAIN: http://www.igb.uci.edu/~pfbaldi/
+
+INVALID DOMAIN: https://2018.fseconference.org/event/fse-2018-research-papers-oreo-detection-of-clones-in-the-twilight-zone
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/senior-spotlight-james-purpura-goes-from-watching-moneyball-to-earning-data-science-degree
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.linkedin.com/in/james-purpura/
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://studyabroad.uci.edu/
+https://www.ics.uci.edu/~rickl/
+https://www.ics.uci.edu/
+https://www.stat.uci.edu/knowable-magazine-when-courtroom-science-goes-wrong-and-how-stats-can-fix-it-hal-stern-featured/
+https://www.stat.uci.edu/multidepartmental-collaboration-on-detecting-code-clones-leads-to-distinguished-paper-award/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.linkedin.com/in/james-purpura/
+
+INVALID DOMAIN: https://studyabroad.uci.edu/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/knowable-magazine-when-courtroom-science-goes-wrong-and-how-stats-can-fix-it-hal-stern-featured
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.knowablemagazine.org/article/society/2018/when-courtroom-science-goes-wrong-and-how-stats-can-fix-it
+https://www.stat.uci.edu/olivia-bernstein-named-outstanding-ta-in-statistics/
+https://www.stat.uci.edu/senior-spotlight-james-purpura-goes-from-watching-moneyball-to-earning-data-science-degree/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.knowablemagazine.org/article/society/2018/when-courtroom-science-goes-wrong-and-how-stats-can-fix-it
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/olivia-bernstein-named-outstanding-ta-in-statistics
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.stat.uci.edu/
+https://www.linkedin.com/in/oliviabernstein/
+https://www.stat.uci.edu/hina-arora-tong-zou-share-2018-newcomb-graduate-award-in-statistics/
+https://www.stat.uci.edu/knowable-magazine-when-courtroom-science-goes-wrong-and-how-stats-can-fix-it-hal-stern-featured/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.linkedin.com/in/oliviabernstein/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/hina-arora-tong-zou-share-2018-newcomb-graduate-award-in-statistics
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://give.uci.edu/give/impact/newcomb.php
+https://www.linkedin.com/in/hina-arora-692986a0/
+https://www.ics.uci.edu/~sternh/
+https://www.ics.uci.edu/community/news/spotlight/spotlight_bob_newcomb
+http://statconsulting.uci.edu/home
+https://www.ics.uci.edu/
+https://www.stat.uci.edu/professor-guindani-named-incoming-editor-in-chief-of-bayesian-analysis/
+https://www.stat.uci.edu/olivia-bernstein-named-outstanding-ta-in-statistics/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://give.uci.edu/give/impact/newcomb.php
+
+INVALID DOMAIN: https://www.linkedin.com/in/hina-arora-692986a0/
+
+INVALID DOMAIN: http://statconsulting.uci.edu/home
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/professor-guindani-named-incoming-editor-in-chief-of-bayesian-analysis
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/~mguindan/
+https://projecteuclid.org/euclid.ba
+https://bayesian.org/
+https://studylib.net/doc/10969034/the-isba-bulletin-a-m
+http://www.stat.cmu.edu/~kass/
+https://www.scijournal.org/index.html
+http://www.amstat.org/ASA/Meetings/Joint-Statistical-Meetings.aspx
+https://bayesian.org/events/world-meetings/
+https://bayesian.org/project/lindley-prize/
+https://www.stat.uci.edu/
+https://www.ics.uci.edu/
+https://www.stat.uci.edu/professor-gillen-receives-1-2m-grant-to-study-alzheimers-disease-clinical-trial-study-partners/
+https://www.stat.uci.edu/hina-arora-tong-zou-share-2018-newcomb-graduate-award-in-statistics/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://projecteuclid.org/euclid.ba
+
+INVALID DOMAIN: https://bayesian.org/
+
+INVALID DOMAIN: https://studylib.net/doc/10969034/the-isba-bulletin-a-m
+
+INVALID DOMAIN: http://www.stat.cmu.edu/~kass/
+
+INVALID DOMAIN: https://www.scijournal.org/index.html
+
+INVALID DOMAIN: http://www.amstat.org/ASA/Meetings/Joint-Statistical-Meetings.aspx
+
+INVALID DOMAIN: https://bayesian.org/events/world-meetings/
+
+INVALID DOMAIN: https://bayesian.org/project/lindley-prize/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/professor-gillen-receives-1-2m-grant-to-study-alzheimers-disease-clinical-trial-study-partners
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/~dgillen/
+https://www.stat.uci.edu/
+https://www.faculty.uci.edu/profile.cfm?faculty_id=6201
+http://www.mind.uci.edu/
+https://projectreporter.nih.gov/project_info_description.cfm?aid=9545300
+https://www.stat.uci.edu/gillen-furthers-healthcare-research-with-two-nih-grants/
+http://www.rctdesign.org/
+https://www.stat.uci.edu/data-science-student-raj-parekh-receives-distinguished-anteater-award/
+https://www.stat.uci.edu/professor-guindani-named-incoming-editor-in-chief-of-bayesian-analysis/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.faculty.uci.edu/profile.cfm?faculty_id=6201
+
+INVALID DOMAIN: http://www.mind.uci.edu/
+
+INVALID DOMAIN: https://projectreporter.nih.gov/project_info_description.cfm?aid=9545300
+
+INVALID DOMAIN: http://www.rctdesign.org/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/data-science-student-raj-parekh-receives-distinguished-anteater-award
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.stat.uci.edu/wp-content/stat/uploads/RajParekh.jpg
+http://alumni.uci.edu/give/anteater-award.php
+https://in.linkedin.com/in/rmparekh
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+http://180dc.org/branch/uci/
+http://180dc.org/
+https://www.chicagobooth.edu/programs/summer-scholars
+https://ucismif.weebly.com/about.html
+https://uciprojectrishi.wordpress.com/about/
+https://www.ics.uci.edu/~gopi/
+http://udsauci.weebly.com/
+https://www.stat.uci.edu/
+https://www.socsci.uci.edu/~harding1/
+https://summer.uci.edu/programs/freshman/
+https://www.hbs.edu/mba/admissions/peek/Pages/default.aspx
+https://www.stat.uci.edu/stern-co-directs-award-winning-csafe-team/
+https://www.stat.uci.edu/professor-gillen-receives-1-2m-grant-to-study-alzheimers-disease-clinical-trial-study-partners/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://alumni.uci.edu/give/anteater-award.php
+
+INVALID DOMAIN: https://in.linkedin.com/in/rmparekh
+
+INVALID DOMAIN: http://180dc.org/branch/uci/
+
+INVALID DOMAIN: http://180dc.org/
+
+INVALID DOMAIN: https://www.chicagobooth.edu/programs/summer-scholars
+
+INVALID DOMAIN: https://ucismif.weebly.com/about.html
+
+INVALID DOMAIN: https://uciprojectrishi.wordpress.com/about/
+
+INVALID DOMAIN: http://udsauci.weebly.com/
+
+INVALID DOMAIN: https://www.socsci.uci.edu/~harding1/
+
+INVALID DOMAIN: https://summer.uci.edu/programs/freshman/
+
+INVALID DOMAIN: https://www.hbs.edu/mba/admissions/peek/Pages/default.aspx
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/stern-co-directs-award-winning-csafe-team
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://forensicstats.org/
+https://www.nist.gov/
+https://www.ics.uci.edu/~sternh/
+http://www.amstat.org/
+http://community.amstat.org/spaig/home
+http://www.stat.uci.edu/wp-content/stat/uploads/SPAIG-Award-Presentation.jpg
+https://www.ics.uci.edu/
+https://www.ics.uci.edu/~fowlkes/
+https://www.ics.uci.edu/~fowlkes/papers/KongSRF_BMVC_2017.pdf
+https://www.ics.uci.edu/~smyth/
+https://www.ics.uci.edu/~galbraic/
+https://www.stat.uci.edu/ics-staff-faculty-honored-at-inaugural-faculty-staff-awards-celebration/
+https://www.stat.uci.edu/data-science-student-raj-parekh-receives-distinguished-anteater-award/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://forensicstats.org/
+
+INVALID DOMAIN: https://www.nist.gov/
+
+INVALID DOMAIN: http://www.amstat.org/
+
+INVALID DOMAIN: http://community.amstat.org/spaig/home
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/ics-staff-faculty-honored-at-inaugural-faculty-staff-awards-celebration
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/
+https://www.ics.uci.edu/community/events/jim-mckenzie-memorial/
+https://www.ics.uci.edu/~marios/
+www.informatics.uci.edu/wp-content/informatics/uploads/2018DeansAwards-Alfred.jpg
+https://www.ics.uci.edu/~kobsa/
+www.informatics.uci.edu/wp-content/informatics/uploads/2018DeansAwards-Yunan.jpg
+http://www.informatics.uci.edu/explore/faculty-profiles/yunan-chen/
+https://www.ics.uci.edu/~zhaoxia/
+https://www.ics.uci.edu/~sharad/
+www.informatics.uci.edu/wp-content/informatics/uploads/2018DeansAwards-Sameer.jpg
+http://sameersingh.org/
+https://www.ics.uci.edu/about/deans_awards
+https://www.ics.uci.edu/community/news/view_news?id=1288
+https://www.ics.uci.edu/community/news/view_news?id=1333
+https://www.ics.uci.edu/community/news/view_news?id=1272
+https://www.ics.uci.edu/community/news/view_news?id=1271
+https://www.ics.uci.edu/community/news/view_news?id=1240
+https://www.ics.uci.edu/community/news/view_news?id=1363
+https://www.ics.uci.edu/community/news/view_news?id=1353
+https://www.ics.uci.edu/community/news/view_news?id=1336
+https://www.ics.uci.edu/community/news/view_news?id=1320
+https://www.stat.uci.edu/maricela-cruz-receives-latino-excellence-award-for-ics/
+https://www.stat.uci.edu/stern-co-directs-award-winning-csafe-team/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://sameersingh.org/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/maricela-cruz-receives-latino-excellence-award-for-ics
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.linkedin.com/in/maricela-cruz-3285907a/
+https://www.ics.uci.edu/
+http://inclusion.uci.edu/event/latino-excellence-achievement-dinner-lead-gala/
+http://www.ics.uci.edu/~dgillen/Welcome.html
+http://www.stat.uci.edu/
+https://www.stat.uci.edu/professor-nan-receives-1-2-million-grant-to-develop-new-statistical-methods/
+https://www.stat.uci.edu/ics-staff-faculty-honored-at-inaugural-faculty-staff-awards-celebration/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.linkedin.com/in/maricela-cruz-3285907a/
+
+INVALID DOMAIN: http://inclusion.uci.edu/event/latino-excellence-achievement-dinner-lead-gala/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/professor-nan-receives-1-2-million-grant-to-develop-new-statistical-methods
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.stat.uci.edu/faculty/bin-nan/
+https://www.nih.gov/
+https://sph.umich.edu/faculty-profiles/li-yi.html
+https://sph.umich.edu/faculty-profiles/harlow-sioban.html
+https://www.stat.uci.edu/2018-carl-cotman-young-investigator-award-recipient-is-a-rising-star/
+https://www.stat.uci.edu/maricela-cruz-receives-latino-excellence-award-for-ics/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.nih.gov/
+
+INVALID DOMAIN: https://sph.umich.edu/faculty-profiles/li-yi.html
+
+INVALID DOMAIN: https://sph.umich.edu/faculty-profiles/harlow-sioban.html
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/2018-carl-cotman-young-investigator-award-recipient-is-a-rising-star
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.mind.uci.edu/
+https://www.linkedin.com/in/carl-cotman-99bb3aa/
+https://www.youtube.com/watch?v=cuo_YJv4kIk
+http://www.ics.uci.edu/~dgillen/Welcome.html
+http://www.ics.uci.edu/~babaks/
+http://faculty.biomath.ucla.edu/msuchard/
+https://www.stat.uci.edu/ucis-graduate-programs-shine-in-u-s-news-world-report-rankings/
+https://www.stat.uci.edu/professor-nan-receives-1-2-million-grant-to-develop-new-statistical-methods/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://www.mind.uci.edu/
+
+INVALID DOMAIN: https://www.linkedin.com/in/carl-cotman-99bb3aa/
+
+INVALID DOMAIN: https://www.youtube.com/watch?v=cuo_YJv4kIk
+
+INVALID DOMAIN: http://faculty.biomath.ucla.edu/msuchard/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/ucis-graduate-programs-shine-in-u-s-news-world-report-rankings
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://news.uci.edu/2018/03/20/ucis-graduate-programs-shine-in-u-s-news-world-report-rankings/
+https://www.stat.uci.edu/the-center-for-statistical-consultings-new-director-envisions-a-one-stop-shop-for-data-analysis-needs/
+https://www.stat.uci.edu/2018-carl-cotman-young-investigator-award-recipient-is-a-rising-star/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://news.uci.edu/2018/03/20/ucis-graduate-programs-shine-in-u-s-news-world-report-rankings/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/the-center-for-statistical-consultings-new-director-envisions-a-one-stop-shop-for-data-analysis-needs
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://statconsulting.uci.edu/
+https://www.linkedin.com/in/jonilricks/
+https://www.icts.uci.edu/services/berd1.php
+https://www.icts.uci.edu/
+https://idre.ucla.edu/
+http://www.icts.uci.edu/services/berd%20request.php
+https://www.r-project.org/
+https://www.sas.com/en_us/solutions/analytics.html
+https://www.stata.com/
+https://www.investopedia.com/terms/t/t-test.asp
+https://en.wikipedia.org/wiki/Chi-squared_test
+http://www.ics.uci.edu/~babaks/index.html
+http://www.stat.uci.edu/
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-neural-data-analysis-grant/
+https://www.stat.uci.edu/ucis-graduate-programs-shine-in-u-s-news-world-report-rankings/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://statconsulting.uci.edu/
+
+INVALID DOMAIN: https://www.linkedin.com/in/jonilricks/
+
+INVALID DOMAIN: https://www.icts.uci.edu/services/berd1.php
+
+INVALID DOMAIN: https://www.icts.uci.edu/
+
+INVALID DOMAIN: https://idre.ucla.edu/
+
+INVALID DOMAIN: http://www.icts.uci.edu/services/berd%20request.php
+
+INVALID DOMAIN: https://www.r-project.org/
+
+INVALID DOMAIN: https://www.sas.com/en_us/solutions/analytics.html
+
+INVALID DOMAIN: https://www.stata.com/
+
+INVALID DOMAIN: https://www.investopedia.com/terms/t/t-test.asp
+
+INVALID DOMAIN: https://en.wikipedia.org/wiki/Chi-squared_test
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-neural-data-analysis-grant
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.stat.uci.edu/wp-content/stat/uploads/Babak-Shahbaba-sitting.jpg
+http://www.ics.uci.edu/~babaks/index.html
+https://www.nih.gov/
+https://hombao.ics.uci.edu/hernando.html
+https://www.faculty.uci.edu/profile.cfm?faculty_id=5602
+http://fortinlab.bio.uci.edu/FortinLab/Home.html
+http://www.stat.uci.edu/
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-grant-to-develop-novel-models-for-neural-data-analysis/
+https://www.stat.uci.edu/the-center-for-statistical-consultings-new-director-envisions-a-one-stop-shop-for-data-analysis-needs/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.nih.gov/
+
+INVALID DOMAIN: https://www.faculty.uci.edu/profile.cfm?faculty_id=5602
+
+INVALID DOMAIN: http://fortinlab.bio.uci.edu/FortinLab/Home.html
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-grant-to-develop-novel-models-for-neural-data-analysis
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.stat.uci.edu/wp-content/stat/uploads/Babak-Shahbaba-sitting.jpg
+http://www.ics.uci.edu/~babaks/index.html
+https://www.nih.gov/
+https://hombao.ics.uci.edu/hernando.html
+https://www.faculty.uci.edu/profile.cfm?faculty_id=5602
+http://fortinlab.bio.uci.edu/FortinLab/Home.html
+http://www.stat.uci.edu/
+https://www.stat.uci.edu/minin-co-edits-special-section-on-infectious-diseases-in-statistical-science/
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-neural-data-analysis-grant/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.nih.gov/
+
+INVALID DOMAIN: https://www.faculty.uci.edu/profile.cfm?faculty_id=5602
+
+INVALID DOMAIN: http://fortinlab.bio.uci.edu/FortinLab/Home.html
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/minin-co-edits-special-section-on-infectious-diseases-in-statistical-science
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://vnminin.github.io/
+https://projecteuclid.org/current/euclid.ss
+http://www.imstat.org/sts/
+http://vnminin.github.io/papers/KypraiosMinin2018.pdf
+https://www.stat.uci.edu/lakeland-times-autism-numbers-spike-the-latest-call-to-action-stern-quoted/
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-grant-to-develop-novel-models-for-neural-data-analysis/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://vnminin.github.io/
+
+INVALID DOMAIN: https://projecteuclid.org/current/euclid.ss
+
+INVALID DOMAIN: http://www.imstat.org/sts/
+
+INVALID DOMAIN: http://vnminin.github.io/papers/KypraiosMinin2018.pdf
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/lakeland-times-autism-numbers-spike-the-latest-call-to-action-stern-quoted
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.lakelandtimes.com/main.asp?SectionID=10&SubSectionID=10&ArticleID=39618
+https://www.stat.uci.edu/utts-discusses-statistics-for-good-governance-at-international-conference-in-sri-lanka/
+https://www.stat.uci.edu/minin-co-edits-special-section-on-infectious-diseases-in-statistical-science/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://www.lakelandtimes.com/main.asp?SectionID=10&SubSectionID=10&ArticleID=39618
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/utts-discusses-statistics-for-good-governance-at-international-conference-in-sri-lanka
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.ics.uci.edu/~jutts/
+http://www.amstat.org/
+https://www.iappstat.lk/home/images/ICAS2017/IASSL_IC/index.html
+http://www.ft.lk/business/Amunugama-highlights-need-for-good-statistics-and-statisticians/34-646069
+https://www.stat.uci.edu/2018-ics-projects-and-predictions/
+https://www.stat.uci.edu/lakeland-times-autism-numbers-spike-the-latest-call-to-action-stern-quoted/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://www.amstat.org/
+
+INVALID DOMAIN: https://www.iappstat.lk/home/images/ICAS2017/IASSL_IC/index.html
+
+INVALID DOMAIN: http://www.ft.lk/business/Amunugama-highlights-need-for-good-statistics-and-statisticians/34-646069
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/2018-ics-projects-and-predictions
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.ics.uci.edu/
+http://www.informatics.uci.edu/explore/faculty-profiles/kurt-squire/
+https://hevga.org/
+http://ngs.ics.uci.edu/
+http://futurehealth.ics.uci.edu/
+http://vnminin.github.io/
+http://news.ihsmarkit.com/press-release/technology/digital-assistants-reach-more-4-billion-devices-2017-google-set-take-lead-i
+https://www.forbes.com/sites/bernardmarr/2017/09/15/blockchain-bitcoin-cryptocurrency-and-icos-all-you-need-to-know-in-10-minutes/
+https://www.fastcompany.com/40449268/will-blockchain-revolutionize-global-real-estate-next
+http://www.ics.uci.edu/community/news/view_news?id=1267
+http://datascience.uci.edu/
+https://www.opengovpartnership.org/about/about-ogp
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5201402/
+https://www.denverpost.com/2017/07/07/colorado-earth-flat-gravity-hoax/
+https://www.engadget.com/2017/12/20/vr-and-ar-in-2018/
+http://ivecg.uci.edu/about/
+http://futurehealth.ics.uci.edu/about/
+http://futurehealth.ics.uci.edu/health/
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-vladimir-minin-is-pleased-to-join-growing-community/
+https://www.stat.uci.edu/utts-discusses-statistics-for-good-governance-at-international-conference-in-sri-lanka/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://hevga.org/
+
+INVALID DOMAIN: http://vnminin.github.io/
+
+INVALID DOMAIN: http://news.ihsmarkit.com/press-release/technology/digital-assistants-reach-more-4-billion-devices-2017-google-set-take-lead-i
+
+INVALID DOMAIN: https://www.forbes.com/sites/bernardmarr/2017/09/15/blockchain-bitcoin-cryptocurrency-and-icos-all-you-need-to-know-in-10-minutes/
+
+INVALID DOMAIN: https://www.fastcompany.com/40449268/will-blockchain-revolutionize-global-real-estate-next
+
+INVALID DOMAIN: http://datascience.uci.edu/
+
+INVALID DOMAIN: https://www.opengovpartnership.org/about/about-ogp
+
+INVALID DOMAIN: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5201402/
+
+INVALID DOMAIN: https://www.denverpost.com/2017/07/07/colorado-earth-flat-gravity-hoax/
+
+INVALID DOMAIN: https://www.engadget.com/2017/12/20/vr-and-ar-in-2018/
+
+INVALID DOMAIN: http://ivecg.uci.edu/about/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-vladimir-minin-is-pleased-to-join-growing-community
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://onu.edu.ua/en/
+http://www.uidaho.edu/
+http://www.biomath.ucla.edu/
+https://www.washington.edu/
+http://www.hup.harvard.edu/catalog.php?isbn=9780674009790&content=reviews
+https://www.stat.uci.edu/uci-well-represented-at-women-in-statistics-data-science-conference/
+https://www.stat.uci.edu/2018-ics-projects-and-predictions/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://onu.edu.ua/en/
+
+INVALID DOMAIN: http://www.uidaho.edu/
+
+INVALID DOMAIN: http://www.biomath.ucla.edu/
+
+INVALID DOMAIN: https://www.washington.edu/
+
+INVALID DOMAIN: http://www.hup.harvard.edu/catalog.php?isbn=9780674009790&content=reviews
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/uci-well-represented-at-women-in-statistics-data-science-conference
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://ww2.amstat.org/meetings/wsds/2017/
+http://www.stat.uci.edu/wp-content/stat/uploads/StatisticsWomen-Conference.jpg
+https://www.stat.uci.edu/zhu-wins-2017-newcomb-graduate-award-in-statistics/
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-vladimir-minin-is-pleased-to-join-growing-community/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://ww2.amstat.org/meetings/wsds/2017/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/zhu-wins-2017-newcomb-graduate-award-in-statistics
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.stat.uci.edu/alexandra-peterson-named-outstanding-ta-in-statistics/
+https://www.stat.uci.edu/uci-well-represented-at-women-in-statistics-data-science-conference/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/alexandra-peterson-named-outstanding-ta-in-statistics
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-bin-nan-welcomes-collaboration/
+https://www.stat.uci.edu/zhu-wins-2017-newcomb-graduate-award-in-statistics/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-bin-nan-welcomes-collaboration
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-047136357X.html
+https://www.stat.uci.edu/uci-news-uci-neurobiologists-aim-to-identify-biomarkers-for-alzheimers-disease-dan-gillen-mentioned/
+https://www.stat.uci.edu/alexandra-peterson-named-outstanding-ta-in-statistics/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://www.wiley.com/WileyCDA/WileyTitle/productCd-047136357X.html
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/uci-news-uci-neurobiologists-aim-to-identify-biomarkers-for-alzheimers-disease-dan-gillen-mentioned
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.nia.nih.gov/
+https://news.uci.edu/2017/10/23/uci-neurobiologists-aim-to-identify-biomarkers-for-alzheimers-disease/
+https://www.stat.uci.edu/statistics-department-welcomes-two-new-faculty-for-2017/
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-bin-nan-welcomes-collaboration/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: https://www.nia.nih.gov/
+
+INVALID DOMAIN: https://news.uci.edu/2017/10/23/uci-neurobiologists-aim-to-identify-biomarkers-for-alzheimers-disease/
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/statistics-department-welcomes-two-new-faculty-for-2017
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+https://www.stat.uci.edu/ucis-data-science-program-ranked-18th-in-nation-by-bcss/
+https://www.stat.uci.edu/uci-news-uci-neurobiologists-aim-to-identify-biomarkers-for-alzheimers-disease-dan-gillen-mentioned/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://uci.edu/privacy/
+https://www.stat.uci.edu/ucis-data-science-program-ranked-18th-in-nation-by-bcss
+
+#########
+
+https://www.stat.uci.edu/
+
+https://www.stat.uci.edu/chairs-message/
+https://www.stat.uci.edu/what-is-statistics/
+https://www.stat.uci.edu/contact-the-department/
+https://www.stat.uci.edu/tutoring-resources/
+
+https://www.stat.uci.edu/faculty/
+https://recruit.ap.uci.edu/apply
+https://www.stat.uci.edu/research/
+
+https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+https://www.stat.uci.edu/grad-student-directory/
+https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+https://www.stat.uci.edu/slider/b-s-in-data-science/
+https://www.stat.uci.edu/minor-in-statistics/
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+http://www.stat.uci.edu/news/
+https://www.stat.uci.edu/seminar-series/
+https://statconsulting.ics.uci.edu/
+http://www.bestcomputerscienceschools.net/best-big-data-degrees/
+http://www.stat.uci.edu/slider/b-s-in-data-science/
+https://nces.ed.gov/
+http://www.payscale.com/
+https://www.usnews.com/best-colleges
+https://www.stat.uci.edu/gillen-furthers-healthcare-research-with-two-nih-grants/
+https://www.stat.uci.edu/statistics-department-welcomes-two-new-faculty-for-2017/
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+www.stat.uci.edu/news/
+http://www.ics.uci.edu/
+mailto:communications@ics.uci.edu
+http://uci.edu/privacy/
+
+#########
+
+
+INVALID DOMAIN: https://recruit.ap.uci.edu/apply
+
+INVALID DOMAIN: http://www.bestcomputerscienceschools.net/best-big-data-degrees/
+
+INVALID DOMAIN: https://nces.ed.gov/
+
+INVALID DOMAIN: http://www.payscale.com/
+
+INVALID DOMAIN: https://www.usnews.com/best-colleges
+
+INVALID DOMAIN: http://uci.edu/privacy/
