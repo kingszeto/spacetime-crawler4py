@@ -79,7 +79,7 @@ def record_content(token_dict, token_string, url):
     for token in re.sub('[^A-Za-z0-9\']+', ' ', token_string).split():
         word_count += 1
         if token not in STOP_WORDS:
-            if token in token_dict or token_dict[token] == 0:
+            if token in token_dict:
                 token_dict[token] += 1
             else:
                 token_dict[token] = 1
