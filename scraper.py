@@ -7,13 +7,22 @@ def scraper(url, resp):
 
 def extract_next_links(url, resp):
     # Implementation requred.
+    valid_links = scraper(url, resp)
     return list()
 
 def is_valid(url):
     try:
         parsed = urlparse(url)
+        #check if scheme is valid
         if parsed.scheme not in set(["http", "https"]):
             return False
+        #check for possible domains
+        reg_domain = {r"(\.ics\.uci\.edu)$", r"(\.cs\.uci\.edu)$", r"(\.informatics\.uci\.edu)$", r"(\.stat\.uci\.edu)$"}
+        domain_valid = [re.match(regex_exp, parsed.netloc) for regex_exp in reg_domain]
+        domain_valid.append(parsed.netloc == "today.uci.edu")
+        if not any(domain_valid):
+            return False
+
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
             + r"|png|tiff?|mid|mp2|mp3|mp4"
