@@ -60,7 +60,7 @@ def is_valid(url):
         #the end of a pathname being solely a number
         if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
             return False
-        if re.match(r'(\/\S+)*\/(\d+)$', parsed.path):
+        if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path):
             return False
         #check for valid path
         return not re.match(
