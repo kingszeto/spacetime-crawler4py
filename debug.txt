@@ -17,413 +17,2003 @@ IR W20 59893732, 29328388
 
 {'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-1
-2
-3
-4
-5
-{'ics': 0, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
-
-6
-7
-{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-8
-{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-9
-10
-{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
-
-11
-{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
-
-12
-{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-13
-{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-14
-{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-15
-{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-16
-17
-{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
-
-18
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
-
-19
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
-
-20
-{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
-
-21
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-22
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-23
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-24
-25
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
-
-26
 {'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
-27
 {'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
-28
 {'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
-29
-{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-30
-{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-31
-{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-32
-{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-33
-{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-34
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-35
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-36
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-37
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-38
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-39
-{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
-
-40
-{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-41
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-42
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-43
-{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-44
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-45
 {'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
-46
 {'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
-47
 {'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
-48
 {'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-49
-{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-50
-{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-51
-{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
-
-52
-{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
-
-53
-{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
-
-54
-{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
-
-55
-{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-56
-{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
-
-57
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
-
-58
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-59
-{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-60
-{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-61
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-62
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-63
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-64
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-65
-{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-66
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-67
-{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-68
-{'ics': 2, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
-
-69
-{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
-
-70
-{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-71
-{'ics': 1, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
-
-72
 {'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
 
-73
 {'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
 
-74
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-75
-{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-76
-77
-{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
-
-78
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
-
-79
-{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-80
-{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-81
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-82
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-83
 {'ics': 2, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
 
-84
 {'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
 
-85
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
 {'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
 
-86
-{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-87
-{'ics': 0, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
-
-88
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
-
-89
-{'ics': 0, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
-
-90
-{'ics': 1, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
-
-91
-{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
-
-92
 {'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
-93
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-94
 {'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
 
-95
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-96
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-97
-{'ics': 2, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
-
-98
 {'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
 {'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-99
-100
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
 {'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
 
 {'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
 
-101
-102
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
 {'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
 
-103
-{'ics': 2, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
-
-104
-{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
-
-105
 {'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-106
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-107
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-108
 {'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-109
-{'ics': 2, 'stat': 0, 'cs': 2, 'informatics': 2, 'today': 1}
+{'ics': 0, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
 
-110
-{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
 
-111
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
-
-112
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-113
-{'ics': 2, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
-
-114
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-115
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
-
-116
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
-
-117
-{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
-
-118
 {'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
 
-119
-{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
 
-120
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
 
-121
-{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
 
-122
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
 {'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
 
-123
 {'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
 
-124
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
 {'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-125
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
 {'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
-126
-{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
 
-127
-{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
-
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
-
-128
-129
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
-
-130
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
-
-131
-{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
-
-132
-{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
-
-133
 {'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
 {'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
 
 {'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-134
-135
-136
-{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
 
-137
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
 {'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
 
-138
+{'ics': 2, 'stat': 1, 'cs': 0, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
 {'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
 
-139
 {'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
 
-140
+{'ics': 0, 'stat': 0, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
 {'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
 
-141
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 0, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 2, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 0, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 0, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 0, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 1, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
 {'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
 
-142
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 2, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 0, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
+{'ics': 1, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 0, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 1, 'informatics': 1, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 0, 'today': 1}
+
+{'ics': 2, 'stat': 2, 'cs': 2, 'informatics': 1, 'today': 1}
+
