@@ -38,7 +38,7 @@ def scraper(url, resp):
     #     print()
     # print('\n----------\n', end="")
     with open("subdomains.txt", "w") as file_contents:
-        file_contents.write(ics_subdomains)
+        file_contents.write(str(ics_subdomains))
     return valid_links
 
 def extract_next_links(url, resp):
