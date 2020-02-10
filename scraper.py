@@ -54,7 +54,8 @@ def extract_next_links(url, resp):
         #    link = 'https:' + link
         elif link.startswith('/'):
             link = "https://" + url_parsed.netloc + link
-        link_list.append(link)
+        if link != "" and link != None:
+            link_list.append(link)
     return link_list
 
 def is_valid(url):
@@ -72,17 +73,14 @@ def is_valid(url):
             return False
 
         #check for possible domains
-        # reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
-        reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
+        reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
+        # reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
         domain_valid = [re.match(reg_domains, parsed.netloc)]
         domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
         if not any(domain_valid):
             return False
-        try:
-            if bool(domain_valid[0]) and ((domain_valid[0][1].rstrip('.') == "calendar" or domain_valid[0][1].rstrip('.') == "ngs")):
-                return False
-        except:
-            pass
+        if bool(domain_valid[0]) and domain_valid[0][1] != None and (domain_valid[0][1].rstrip('.') == "calendar"):
+            return False
         #checking for ICS Calendar Web Cralwer Trap and other types of traps
         #using a regex expression detecting for the calendar and
         #the end of a pathname being solely a number
@@ -91,7 +89,7 @@ def is_valid(url):
         if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
             return False
         directory_path = parsed.path.lower().split('/')
-        if "pdf" in directory_path or "faq" in directory_path:
+        if "pdf" in directory_path or "faq" in directory_path or "zip-attachment" in directory_path:
             return False
         #getting rid of low information pages - from Ramesh Jain
         # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
@@ -105,7 +103,7 @@ def is_valid(url):
             + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names"
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
             + r"|epub|dll|cnf|tgz|sha1|php|z|ppsx"
-            + r"|thmx|mso|arff|rtf|jar|csv"
+            + r"|thmx|mso|arff|rtf|jar|csv|war"
             + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower())
 
     except TypeError:
