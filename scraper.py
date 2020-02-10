@@ -62,7 +62,7 @@ def is_valid(url):
         result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
         if bool(result):
             subdomain = result[1]
-            with open("subdomains.json", "r") as file_contents:
+            with open("subdomains.txt", "r") as file_contents:
                 data = file_contents.read()
             #turn text file contents into a dictionary
             data = eval(data)
@@ -74,7 +74,7 @@ def is_valid(url):
             #turn dictionary back into a string
             data = str(data)
 
-            with open("words.json", "w") as file_contents:
+            with open("subdomain.txt", "w") as file_contents:
                 file_contents.write(data)
                     
         #checking for ICS Calendar Web Cralwer Trap and other types of traps
