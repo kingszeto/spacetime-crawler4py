@@ -60,8 +60,7 @@ def extract_next_links(url, resp):
             if link.startswith('//'):
                 link = 'https:' + link
             elif link.startswith('/'):
-                if link not in url:
-                    link = url + link
+                link = url + link
             link_list.append(link)
     return link_list
 
