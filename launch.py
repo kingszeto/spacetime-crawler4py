@@ -26,6 +26,10 @@ def main(config_file, restart):
     with open("data.json", "w") as file_contents:
         json.dump({"url_count": 0, "largest_word_count": 0, "largest_url": "", "words": {}}, file_contents)
     #end of changes to launch.py
+
+    #create subdomains.txt
+    with open("subdomains.txt", "w") as file_contents:
+                file_contents.write("{}")
     
     cparser = ConfigParser()
     cparser.read(config_file)

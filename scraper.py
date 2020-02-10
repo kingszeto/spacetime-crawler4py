@@ -74,7 +74,7 @@ def is_valid(url):
             #turn dictionary back into a string
             data = str(data)
 
-            with open("subdomain.txt", "w") as file_contents:
+            with open("subdomains.txt", "w") as file_contents:
                 file_contents.write(data)
                     
         #checking for ICS Calendar Web Cralwer Trap and other types of traps
