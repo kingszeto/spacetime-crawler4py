@@ -1,1 +1,1528 @@
 IR W20 59893732, 29328388
+CURRENT URL:	https://www.stat.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://www.stat.uci.edu/chairs-message/
+CURRENT URL:	https://www.stat.uci.edu/what-is-statistics/
+CURRENT URL:	https://www.stat.uci.edu/contact-the-department/
+CURRENT URL:	https://www.stat.uci.edu/tutoring-resources/
+CURRENT URL:	
+CURRENT URL:	https://www.stat.uci.edu/faculty/
+CURRENT URL:	https://recruit.ap.uci.edu/apply
+CURRENT URL:	https://www.stat.uci.edu/research/
+CURRENT URL:	
+CURRENT URL:	https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+CURRENT URL:	http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+CURRENT URL:	https://www.stat.uci.edu/grad-student-directory/
+CURRENT URL:	https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+CURRENT URL:	https://www.stat.uci.edu/employers-of-statistics-grad-students/
+CURRENT URL:	
+CURRENT URL:	https://www.stat.uci.edu/slider/b-s-in-data-science/
+CURRENT URL:	https://www.stat.uci.edu/minor-in-statistics/
+CURRENT URL:	http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+CURRENT URL:	
+CURRENT URL:	http://www.stat.uci.edu/news/
+CURRENT URL:	https://www.stat.uci.edu/seminar-series/
+CURRENT URL:	https://statconsulting.ics.uci.edu/
+CURRENT URL:	https://www.stat.uci.edu/faculty/
+CURRENT URL:	https://www.stat.uci.edu/faculty/
+CURRENT URL:	https://www.stat.uci.edu/research/
+CURRENT URL:	https://www.stat.uci.edu/research/
+CURRENT URL:	https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+CURRENT URL:	https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+CURRENT URL:	https://recruit.ap.uci.edu/apply
+CURRENT URL:	https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship/
+CURRENT URL:	https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba/
+CURRENT URL:	https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond/
+CURRENT URL:	https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed/
+CURRENT URL:	https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted/
+CURRENT URL:	//www.stat.uci.edu/news/
+CURRENT URL:	http://www.ics.uci.edu/
+CURRENT URL:	mailto:communications@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://statconsulting.uci.edu
+CURRENT URL:	
+CURRENT URL:	https://statconsulting.uci.edu/personnel/
+CURRENT URL:	https://statconsulting.uci.edu/affiliations/
+CURRENT URL:	https://statconsulting.uci.edu/icts-berd-unit/
+CURRENT URL:	https://statconsulting.uci.edu/consulting-with-us/
+CURRENT URL:	https://statconsulting.uci.edu/rates/
+CURRENT URL:	https://statconsulting.uci.edu/consulting-with-us/publication-and-authorship/
+CURRENT URL:	https://statconsulting.uci.edu/standard-operating-procedures/
+CURRENT URL:	https://statconsulting.uci.edu/research-highlights/client-testimonials/
+CURRENT URL:	
+CURRENT URL:	https://statconsulting.uci.edu/consulting-with-us/classes-and-training/
+CURRENT URL:	https://statconsulting.uci.edu/consulting-with-us/data-format/
+CURRENT URL:	https://statconsulting.uci.edu/category/events/
+CURRENT URL:	https://statconsulting.uci.edu/request-consultation/
+CURRENT URL:	
+CURRENT URL:	https://statconsulting.uci.edu/chapman-researchers/
+CURRENT URL:	https://statconsulting.uci.edu/contact-us/
+CURRENT URL:	https://statconsulting.uci.edu/contact-us/location/
+CURRENT URL:	https://statconsulting.uci.edu/contact-us/take-a-survey/
+CURRENT URL:	https://statconsulting.uci.edu/?page_id=18
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.informatics.uci.edu/very-top-footer-menu-items/people/
+CURRENT URL:	https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
+CURRENT URL:	https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
+CURRENT URL:	https://www.informatics.uci.edu/very-top-footer-menu-items/news/
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/explore/chairs-welcome/
+CURRENT URL:	https://www.informatics.uci.edu/explore/faculty-profiles/
+CURRENT URL:	https://www.informatics.uci.edu/explore/books-we-read/
+CURRENT URL:	https://www.informatics.uci.edu/explore/history-of-the-department/
+CURRENT URL:	https://www.informatics.uci.edu/explore/department-seminars/
+CURRENT URL:	https://www.informatics.uci.edu/explore/blogs-we-author/
+CURRENT URL:	https://www.informatics.uci.edu/explore/department-vision/
+CURRENT URL:	https://www.informatics.uci.edu/explore/books-we-have-written/
+CURRENT URL:	https://www.informatics.uci.edu/explore/visiting-the-department/
+CURRENT URL:	https://www.informatics.uci.edu/explore/facts-figures/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/grad/overview/
+CURRENT URL:	https://www.informatics.uci.edu/grad/phd-software-engineering/
+CURRENT URL:	https://www.informatics.uci.edu/grad/policies/
+CURRENT URL:	https://www.informatics.uci.edu/grad/phd-informatics/
+CURRENT URL:	https://www.informatics.uci.edu/grad/ms-software-engineering/
+CURRENT URL:	https://www.informatics.uci.edu/grad/diversity-ambassador/
+CURRENT URL:	https://www.informatics.uci.edu/grad/ms-informatics/
+CURRENT URL:	https://www.informatics.uci.edu/grad/mswe/
+CURRENT URL:	https://www.informatics.uci.edu/grad/student-profiles/
+CURRENT URL:	https://www.informatics.uci.edu/grad/mhcid/
+CURRENT URL:	https://www.informatics.uci.edu/grad/courses/
+CURRENT URL:	https://www.informatics.uci.edu/grad/student-groups/
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/grad/upcoming-course-schedule/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-informatics/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/policies/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-business-information-management/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/special-opportunities/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/student-profiles/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-computer-game-science/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/minors/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/student-groups/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-software-engineering/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/courses/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/admissions/graduate-application-process/
+CURRENT URL:	https://www.informatics.uci.edu/admissions/coming-from-abroad/
+CURRENT URL:	https://www.informatics.uci.edu/admissions/housing/
+CURRENT URL:	https://www.informatics.uci.edu/admissions/undergraduate-application-process/
+CURRENT URL:	https://www.informatics.uci.edu/admissions/student-life/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/research/labs-centers/
+CURRENT URL:	https://www.informatics.uci.edu/research/phd-research/
+CURRENT URL:	https://www.informatics.uci.edu/research/undergraduate-research/
+CURRENT URL:	https://www.informatics.uci.edu/research/areas-of-expertise/
+CURRENT URL:	https://www.informatics.uci.edu/research/past-dissertations/
+CURRENT URL:	https://www.informatics.uci.edu/research/gifts-grants/
+CURRENT URL:	https://www.informatics.uci.edu/research/example-research-projects/
+CURRENT URL:	https://www.informatics.uci.edu/research/masters-research/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/impact/research-that-matters/
+CURRENT URL:	https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
+CURRENT URL:	https://www.informatics.uci.edu/impact/outreach/
+CURRENT URL:	https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
+CURRENT URL:	https://www.informatics.uci.edu/impact/community-engagement/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/support/champion-research/
+CURRENT URL:	https://www.informatics.uci.edu/support/become-a-corporate-partner/
+CURRENT URL:	https://www.informatics.uci.edu/support/share-your-talent/
+CURRENT URL:	https://www.informatics.uci.edu/support/support-students/
+CURRENT URL:	https://www.informatics.uci.edu/support/provide-projects/
+CURRENT URL:	https://www.informatics.uci.edu/support/set-future-agenda/
+CURRENT URL:	https://www.informatics.uci.edu/support/become-a-mentor/
+CURRENT URL:	https://www.informatics.uci.edu/support/collaborate-on-research/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/explore/chairs-welcome/
+CURRENT URL:	https://www.informatics.uci.edu/explore/history-of-the-department/
+CURRENT URL:	https://www.informatics.uci.edu/explore/department-vision/
+CURRENT URL:	https://www.informatics.uci.edu/explore/facts-figures/
+CURRENT URL:	https://www.informatics.uci.edu/explore/faculty-profiles/
+CURRENT URL:	https://www.informatics.uci.edu/explore/department-seminars/
+CURRENT URL:	https://www.informatics.uci.edu/explore/books-we-have-written/
+CURRENT URL:	https://www.informatics.uci.edu/explore/books-we-read/
+CURRENT URL:	https://www.informatics.uci.edu/explore/blogs-we-author/
+CURRENT URL:	https://www.informatics.uci.edu/explore/visiting-the-department/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/grad/phd-informatics/
+CURRENT URL:	https://www.informatics.uci.edu/grad/ms-informatics/
+CURRENT URL:	https://www.informatics.uci.edu/grad/phd-software-engineering/
+CURRENT URL:	https://www.informatics.uci.edu/grad/ms-software-engineering/
+CURRENT URL:	http://mhcid.ics.uci.edu/
+CURRENT URL:	https://mse.ics.uci.edu/%20
+CURRENT URL:	https://www.informatics.uci.edu/grad/courses/
+CURRENT URL:	https://www.informatics.uci.edu/grad/policies/
+CURRENT URL:	https://www.informatics.uci.edu/grad/diversity-ambassador/
+CURRENT URL:	https://www.informatics.uci.edu/grad/student-profiles/
+CURRENT URL:	https://www.informatics.uci.edu/grad/student-groups/
+CURRENT URL:	https://www.informatics.uci.edu/grad/upcoming-course-schedule/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-informatics/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-business-information-management/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-computer-game-science/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-software-engineering/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/special-opportunities/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/minors/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/courses/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/policies/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/student-profiles/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/student-groups/
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/admissions/graduate-application-process/
+CURRENT URL:	https://www.informatics.uci.edu/admissions/undergraduate-application-process/
+CURRENT URL:	https://www.informatics.uci.edu/admissions/coming-from-abroad/
+CURRENT URL:	https://www.informatics.uci.edu/admissions/student-life/
+CURRENT URL:	https://www.informatics.uci.edu/admissions/housing/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/research/labs-centers/
+CURRENT URL:	https://www.informatics.uci.edu/research/areas-of-expertise/
+CURRENT URL:	https://www.informatics.uci.edu/research/example-research-projects/
+CURRENT URL:	https://www.informatics.uci.edu/research/phd-research/
+CURRENT URL:	https://www.informatics.uci.edu/research/past-dissertations/
+CURRENT URL:	https://www.informatics.uci.edu/research/masters-research/
+CURRENT URL:	https://www.informatics.uci.edu/research/undergraduate-research/
+CURRENT URL:	https://www.informatics.uci.edu/research/gifts-grants/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/impact/research-that-matters/
+CURRENT URL:	https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
+CURRENT URL:	https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
+CURRENT URL:	https://www.informatics.uci.edu/impact/community-engagement/
+CURRENT URL:	https://www.informatics.uci.edu/impact/outreach/
+CURRENT URL:	
+CURRENT URL:	https://www.informatics.uci.edu/support/champion-research/
+CURRENT URL:	https://www.informatics.uci.edu/support/support-students/
+CURRENT URL:	https://www.informatics.uci.edu/support/become-a-mentor/
+CURRENT URL:	https://www.informatics.uci.edu/support/become-a-corporate-partner/
+CURRENT URL:	https://www.informatics.uci.edu/support/provide-projects/
+CURRENT URL:	https://www.informatics.uci.edu/support/collaborate-on-research/
+CURRENT URL:	https://www.informatics.uci.edu/support/share-your-talent/
+CURRENT URL:	https://www.informatics.uci.edu/support/set-future-agenda/
+CURRENT URL:	https://www.informatics.uci.edu/brochure-tiles/how-we-live
+CURRENT URL:	https://www.informatics.uci.edu/grad/mswe
+CURRENT URL:	https://www.informatics.uci.edu/brochure-tiles/how-we-work
+CURRENT URL:	https://www.informatics.uci.edu/undergrad/student-profiles
+CURRENT URL:	https://www.informatics.uci.edu/explore/books-we-have-written
+CURRENT URL:	https://www.informatics.uci.edu/research/example-research-projects
+CURRENT URL:	https://www.informatics.uci.edu/explore/faculty-profiles/stacy-branham
+CURRENT URL:	https://www.informatics.uci.edu/brochure-tiles/what-we-build
+CURRENT URL:	https://www.informatics.uci.edu/support/champion-research
+CURRENT URL:	https://www.informatics.uci.edu/very-top-footer-menu-items/people/
+CURRENT URL:	https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
+CURRENT URL:	https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
+CURRENT URL:	https://www.informatics.uci.edu/very-top-footer-menu-items/news/
+CURRENT URL:	http://www.ics.uci.edu/
+CURRENT URL:	mailto:ichair@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	https://mse.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mse.ics.uci.edu/faq/
+CURRENT URL:	https://mse.ics.uci.edu/faq/
+CURRENT URL:	https://mse.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mse.ics.uci.edu/faq/
+CURRENT URL:	https://mse.ics.uci.edu/faq/
+CURRENT URL:	https://mse.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	https://www.grad.uci.edu/admissions/applying-to-uci/index.php 
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	https://www.grad.uci.edu/admissions/applying-to-uci/index.php 
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/career/
+CURRENT URL:	https://ic.uci.edu/
+CURRENT URL:	https://ic.uci.edu/about/contactus.php
+CURRENT URL:	https://ic.uci.edu/programs/index.php
+CURRENT URL:	http://www.myvisajobs.com/
+CURRENT URL:	http://visadoor.com/
+CURRENT URL:	https://icert.doleta.gov/
+CURRENT URL:	https://www.nafsa.org/Professional_Resources/Browse_by_Interest/International_Students_and_Scholars/H-1B_Cap_Resource_Page/
+CURRENT URL:	https://www.uscis.gov/news/news-releases/uscis-announces-fy-2020-h-1b-cap-season-start-updates-and-changes
+CURRENT URL:	https://www.uscis.gov/working-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-fiscal-year-fy-2020-cap-season
+CURRENT URL:	http://theinternationaladvantage.com/
+CURRENT URL:	https://courses.theinternationaladvantage.com/p/talk-with-marcelo
+CURRENT URL:	https://www.grammarly.com/
+CURRENT URL:	https://www.grammarly.com/grammar-check
+CURRENT URL:	https://www.hofstede-insights.com/models/national-culture/
+CURRENT URL:	https://www.hofstede-insights.com/product/compare-countries/
+CURRENT URL:	https://resources.interedge.org/
+CURRENT URL:	https://www.internationalstudent.com/
+CURRENT URL:	https://www.amazon.com/Power-Ties-International-Students-Finding/dp/0557097622
+CURRENT URL:	https://www.amazon.com/International-Advantage-Get-Noticed-Hired/dp/0692463151/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=2Z7W4BTYN5KV0GTN6KRY
+CURRENT URL:	https://www.amazon.com/Steps-Your-Job-USA-H-1B/dp/1542656931/ref=pd_bxgy_14_img_3?_encoding=UTF8&psc=1&refRID=CDYG9M9M7MN6TZNKMYK4
+CURRENT URL:	https://www.amazon.com/gp/product/B01151USPE/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1
+CURRENT URL:	https://www.linkedin.com/groups/3819027/profile
+CURRENT URL:	https://www.linkedin.com/groups/8335106/profile
+CURRENT URL:	https://www.linkedin.com/groups/3688509/profile
+CURRENT URL:	https://www.linkedin.com/groups/2757064/profile
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/career/
+CURRENT URL:	https://www.ics.uci.edu/ugrad/resources/ICS_StudentOrgs.php
+CURRENT URL:	http://innovation.uci.edu/
+CURRENT URL:	http://antrepreneur.uci.edu/
+CURRENT URL:	http://sites.uci.edu/zotspeak/
+CURRENT URL:	https://ic.uci.edu/programs/careerdevelopment.php
+CURRENT URL:	https://www.themuse.com/
+CURRENT URL:	https://www.quora.com/
+CURRENT URL:	https://www.mindtools.com/
+CURRENT URL:	https://zety.com/blog/career-advice
+CURRENT URL:	https://www.careercup.com/
+CURRENT URL:	https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/featured
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/career/
+CURRENT URL:	http://career.uci.edu/docs/students/Interview-Techniques.pdf
+CURRENT URL:	http://mcs.ics.uci.edu/wp-content/mcs/uploads/2017/11/MCS-Mock-Interview-Questions.docx
+CURRENT URL:	http://mcs.ics.uci.edu/wp-content/mcs/uploads/2017/11/Interview-Success-Stories-Worksheet.pdf
+CURRENT URL:	https://leetcode.com/
+CURRENT URL:	https://www.hackerrank.com/access-account/
+CURRENT URL:	https://www.geeksforgeeks.org/
+CURRENT URL:	https://app.codility.com/programmers/
+CURRENT URL:	https://www.pramp.com/
+CURRENT URL:	https://www.codechef.com/
+CURRENT URL:	https://www.interviewbit.com/
+CURRENT URL:	https://www.interviewcake.com/
+CURRENT URL:	http://mcs.ics.uci.edu/wp-content/mcs/uploads/2017/11/cracking_the_coding_skills_-_v6.pdf
+CURRENT URL:	https://www.careercup.com/
+CURRENT URL:	https://techdevguide.withgoogle.com/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/career/
+CURRENT URL:	http://www.career.uci.edu/students/handshake.html
+CURRENT URL:	https://www.livecareer.com/
+CURRENT URL:	https://www.wayup.com/
+CURRENT URL:	https://www.linkup.com/
+CURRENT URL:	http://www.internjobs.com/
+CURRENT URL:	http://www.internships.com/
+CURRENT URL:	https://www.internqube.com/websites.html
+CURRENT URL:	https://www.dice.com/
+CURRENT URL:	https://www.indeed.com/
+CURRENT URL:	https://jobs.github.com/positions
+CURRENT URL:	https://www.producthunt.com/jobs
+CURRENT URL:	https://www.themuse.com/
+CURRENT URL:	https://uncubed.com/
+CURRENT URL:	https://powertofly.com/
+CURRENT URL:	https://underdog.io/
+CURRENT URL:	https://triplebyte.com/
+CURRENT URL:	https://www.icrunchdata.com/
+CURRENT URL:	https://www.techcareers.com/
+CURRENT URL:	https://www.linkedin.com/
+CURRENT URL:	https://www.indeed.com/
+CURRENT URL:	https://www.glassdoor.com/index.htm
+CURRENT URL:	https://www.meetup.com/find/tech/
+CURRENT URL:	https://www.linkedin.com/school/university-of-california-irvine/people/
+CURRENT URL:	https://www.linkedin.com/groups/12251563/
+CURRENT URL:	https://www.linkedin.com/groups/159711/profile
+CURRENT URL:	http://www.gayle.com/books/
+CURRENT URL:	https://www.youtube.com/watch?v=lbLZiHvPIKE
+CURRENT URL:	https://www.youtube.com/user/lifeatgoogle
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/career/
+CURRENT URL:	https://en.wikipedia.org/wiki/Applicant_tracking_system
+CURRENT URL:	http://mcs.ics.uci.edu/wp-content/mcs/uploads/2017/11/Resume-Sample-1-Software-Engineer.pdf
+CURRENT URL:	http://mcs.ics.uci.edu/wp-content/mcs/uploads/2017/11/Resume-Sample-2.pdf
+CURRENT URL:	http://mcs.ics.uci.edu/wp-content/mcs/uploads/2017/11/Resume-Sample-3.pdf
+CURRENT URL:	https://carmen.co/
+CURRENT URL:	http://bit.ly/uci_icscode
+CURRENT URL:	http://mcs.ics.uci.edu/wp-content/mcs/uploads/2017/11/Cover-Letter-Template.docx
+CURRENT URL:	https://mcs.ics.uci.edu/career/personal-branding-marketing/LinkedIn
+CURRENT URL:	http://fortune.com/2019/03/28/job-applicants-with-a-comprehensive-linkedin-profile-71-more-likely-to-get-interviews-study-says/
+CURRENT URL:	https://www.linkedin.com/groups/12251563/
+CURRENT URL:	https://university.linkedin.com/content/dam/university/global/en_US/site/pdf/LinkedIn_Sample_Profile_onesheet-David.pdf
+CURRENT URL:	http://career.uci.edu/quick-tip-library/
+CURRENT URL:	https://www.jobscan.co/linkedin-optimization
+CURRENT URL:	https://mangoconnects.com/
+CURRENT URL:	http://career.uci.edu/quick-tip-library/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/career/
+CURRENT URL:	https://www.gallupstrengthscenter.com/Purchase/en-US/ProductDetails/10108/top-5-cliftonstrengths-access
+CURRENT URL:	https://www.mbtionline.com/?utm_source=MBF&utm_medium=link&utm_campaign=online
+CURRENT URL:	https://www.onetonline.org/
+CURRENT URL:	https://www.bls.gov/ooh/
+CURRENT URL:	https://www.mynextmove.org/
+CURRENT URL:	http://www.salary.com/
+CURRENT URL:	https://www.payscale.com/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/career/
+CURRENT URL:	https://www.linkedin.com/groups/12251563/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/
+CURRENT URL:	http://reg.uci.edu/fees/2019-2020/software.html
+CURRENT URL:	https://studentaid.ed.gov/sa/fafsa
+CURRENT URL:	https://www.grad.uci.edu/admissions/financial-support.php
+CURRENT URL:	http://www.ofas.uci.edu/content/GraduateEntering.aspx
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/
+CURRENT URL:	https://apply.grad.uci.edu/apply/
+CURRENT URL:	https://apply.grad.uci.edu/apply/
+CURRENT URL:	https://www.ets.org/
+CURRENT URL:	https://grad.uci.edu/admissions/applying-to-uci/english-proficiency.php
+CURRENT URL:	https://www.ets.org/toefl
+CURRENT URL:	https://www.ielts.org/en-us
+CURRENT URL:	https://grad.uci.edu/admissions/applying-to-uci/letters-of-recommendation.php
+CURRENT URL:	https://grad.uci.edu/admissions/applying-to-uci/index.php
+CURRENT URL:	https://grad.uci.edu/admissions/applying-to-uci/frequently-asked-questions.php
+CURRENT URL:	https://www.informatics.uci.edu/grad/ms-software-engineering/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/program/about-the-program/
+CURRENT URL:	https://mswe.ics.uci.edu/program/curriculum/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/people/faculty-staff/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/admissions-overview/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/information_sessions/
+CURRENT URL:	https://mswe.ics.uci.edu/admissions/cost-and-financial-aid/
+CURRENT URL:	
+CURRENT URL:	https://mswe.ics.uci.edu/career/mswe-career-services-2/
+CURRENT URL:	https://mswe.ics.uci.edu/career/career-planning/
+CURRENT URL:	https://mswe.ics.uci.edu/career/personal-branding-networking/
+CURRENT URL:	https://mswe.ics.uci.edu/career/job-search-sites/
+CURRENT URL:	https://mswe.ics.uci.edu/career/interviewing/
+CURRENT URL:	https://mswe.ics.uci.edu/career/additional-resources/
+CURRENT URL:	https://mswe.ics.uci.edu/career/resources-for-international-students/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/faq/
+CURRENT URL:	https://mswe.ics.uci.edu/contact-us/
+CURRENT URL:	https://mswe.ics.uci.edu
+CURRENT URL:	https://mswe.ics.uci.edu/people/
+CURRENT URL:	https://www.ics.uci.edu/~lopes/
+CURRENT URL:	https://www.ics.uci.edu/~iftekha/
+CURRENT URL:	https://isr.uci.edu/users/matthew-bietz
+CURRENT URL:	https://jgarcia.ics.uci.edu/
+CURRENT URL:	http://jamesajones.com/
+CURRENT URL:	http://malek.ics.uci.edu/
+CURRENT URL:	https://www.ics.uci.edu/~emilyo/index.html
+CURRENT URL:	https://redmiles.ics.uci.edu/
+CURRENT URL:	https://www.ics.uci.edu/~andre/
+CURRENT URL:	https://www.informatics.uci.edu/explore/faculty-profiles/hadar-ziv/
+CURRENT URL:	mailto:mswe@ics.uci.edu
+CURRENT URL:	mailto:malsalib@uci.edu
+CURRENT URL:	mailto:kungj@ics.uci.edu
+CURRENT URL:	mailto:dlennox@uci.edu
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	mailto:mcsdirector@ics.uci.edu
+CURRENT URL:	http://uci.edu/privacy/
+CURRENT URL:	https://www.informatics.uci.edu/
+CURRENT URL:	https://www.facebook.com/UCI.Informatics
+CURRENT URL:	https://twitter.com/UCI_Informatics
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	index.html
+CURRENT URL:	teaching.html
+CURRENT URL:	research.html
+CURRENT URL:	publications.html
+CURRENT URL:	bio.html
+CURRENT URL:	AvdHoek-vita.pdf
+CURRENT URL:	address.html
+CURRENT URL:	mailto:andre@ics.uci.edu
+CURRENT URL:	http://sdcl.ics.uci.edu/research/chatbots/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/knocap-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/linecept/
+CURRENT URL:	http://blog.davidkutas.com/
+CURRENT URL:	https://www.ics.uci.edu/~amezasor/
+CURRENT URL:	http://www.ics.uci.edu/~epaikari/
+CURRENT URL:	http://www.ics.uci.edu/informatics
+CURRENT URL:	http://www.uci.edu
+CURRENT URL:	http://www.eur.nl
+CURRENT URL:	http://www.colorado.edu
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://www.uci.edu/
+CURRENT URL:	http://www.informatics.uci.edu/people
+CURRENT URL:	http://www.informatics.uci.edu/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/
+CURRENT URL:	http://www.ics.uci.edu/informatics/ugrad
+CURRENT URL:	http://www.uci.edu
+CURRENT URL:	https://mitpress.mit.edu/books/software-design-decoded-0
+CURRENT URL:	mailto:andre@ics.uci.edu
+CURRENT URL:	callto://awvanderhoek
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/linecept/
+CURRENT URL:	http://sdcl.ics.uci.edu/reserarch/chatbots/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/knocap-2/
+CURRENT URL:	https://eecs.oregonstate.edu/people/sarma-anita
+CURRENT URL:	http://www.ics.uci.edu/~redmiles/
+CURRENT URL:	http://mcs.open.ac.uk/mp8/
+CURRENT URL:	https://www.sic.ecl.ntt.co.jp/e/researchers/researcher/247.html
+CURRENT URL:	https://cs.gmu.edu/~tlatoza/
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://sdcl.ics.uci.edu/research/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/linecept/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/chatbots/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/knocap-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/lighthouse/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowddesign/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-fault-localization/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/calico/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/codeexchange/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/code-orb-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-development/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/porchlight/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/technical-reports/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/dissertations/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/books/
+CURRENT URL:	http://sdcl.ics.uci.edu/opportunities/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/previous-members/
+CURRENT URL:	http://sdcl.ics.uci.edu/sponsors/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/directions/
+CURRENT URL:	http://www.ics.uci.edu/informatics
+CURRENT URL:	http://www.ics.uci.edu/
+CURRENT URL:	http://www.uci.edu
+CURRENT URL:	http://www.topblogformula.com/wordpress-business-themes/edegree
+CURRENT URL:	http://www.topblogformula.com/
+CURRENT URL:	http://www.wordpress.org
+CURRENT URL:	http://sdcl.ics.uci.edu/wp-login.php
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://sdcl.ics.uci.edu/wp-content/sdcl/uploads/2012/09/SDCL-directions.pdf
+CURRENT URL:	https://eecs.oregonstate.edu/people/sarma-anita
+CURRENT URL:	http://www.ics.uci.edu/~redmiles/
+CURRENT URL:	http://mcs.open.ac.uk/mp8/
+CURRENT URL:	https://www.sic.ecl.ntt.co.jp/e/researchers/researcher/247.html
+CURRENT URL:	https://cs.gmu.edu/~tlatoza/
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://sdcl.ics.uci.edu/research/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/linecept/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/chatbots/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/knocap-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/lighthouse/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowddesign/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-fault-localization/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/calico/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/codeexchange/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/code-orb-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-development/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/porchlight/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/technical-reports/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/dissertations/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/books/
+CURRENT URL:	http://sdcl.ics.uci.edu/opportunities/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/previous-members/
+CURRENT URL:	http://sdcl.ics.uci.edu/sponsors/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/directions/
+CURRENT URL:	http://www.ics.uci.edu/informatics
+CURRENT URL:	http://www.ics.uci.edu/
+CURRENT URL:	http://www.uci.edu
+CURRENT URL:	http://www.topblogformula.com/wordpress-business-themes/edegree
+CURRENT URL:	http://www.topblogformula.com/
+CURRENT URL:	http://www.wordpress.org
+CURRENT URL:	http://sdcl.ics.uci.edu/wp-login.php
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	https://eecs.oregonstate.edu/people/sarma-anita
+CURRENT URL:	http://www.ics.uci.edu/~redmiles/
+CURRENT URL:	http://mcs.open.ac.uk/mp8/
+CURRENT URL:	https://www.sic.ecl.ntt.co.jp/e/researchers/researcher/247.html
+CURRENT URL:	https://cs.gmu.edu/~tlatoza/
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://sdcl.ics.uci.edu/research/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/linecept/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/chatbots/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/knocap-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/lighthouse/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowddesign/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-fault-localization/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/calico/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/codeexchange/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/code-orb-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-development/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/porchlight/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/technical-reports/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/dissertations/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/books/
+CURRENT URL:	http://sdcl.ics.uci.edu/opportunities/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/previous-members/
+CURRENT URL:	http://sdcl.ics.uci.edu/sponsors/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/directions/
+CURRENT URL:	http://www.ics.uci.edu/informatics
+CURRENT URL:	http://www.ics.uci.edu/
+CURRENT URL:	http://www.uci.edu
+CURRENT URL:	http://www.topblogformula.com/wordpress-business-themes/edegree
+CURRENT URL:	http://www.topblogformula.com/
+CURRENT URL:	http://www.wordpress.org
+CURRENT URL:	http://sdcl.ics.uci.edu/wp-login.php
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://www.accenture.com
+CURRENT URL:	http://www.afosr.af.mil
+CURRENT URL:	http://www.boeing.com
+CURRENT URL:	http://www.darpa.mil
+CURRENT URL:	http://www.hp.com
+CURRENT URL:	http://www.hitachi.com
+CURRENT URL:	http://www.intel.com
+CURRENT URL:	http://www.ibm.com
+CURRENT URL:	http://www.microsoft.com
+CURRENT URL:	http://www.jpl.nasa.gov/
+CURRENT URL:	https://www.sic.ecl.ntt.co.jp/e/
+CURRENT URL:	http://www.nsf.gov
+CURRENT URL:	http://www.uci.edu
+CURRENT URL:	http://www.ed.gov
+CURRENT URL:	https://eecs.oregonstate.edu/people/sarma-anita
+CURRENT URL:	http://www.ics.uci.edu/~redmiles/
+CURRENT URL:	http://mcs.open.ac.uk/mp8/
+CURRENT URL:	https://www.sic.ecl.ntt.co.jp/e/researchers/researcher/247.html
+CURRENT URL:	https://cs.gmu.edu/~tlatoza/
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://sdcl.ics.uci.edu/research/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/linecept/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/chatbots/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/knocap-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/lighthouse/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowddesign/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-fault-localization/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/calico/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/codeexchange/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/code-orb-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-development/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/porchlight/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/technical-reports/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/dissertations/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/books/
+CURRENT URL:	http://sdcl.ics.uci.edu/opportunities/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/previous-members/
+CURRENT URL:	http://sdcl.ics.uci.edu/sponsors/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/directions/
+CURRENT URL:	http://www.ics.uci.edu/informatics
+CURRENT URL:	http://www.ics.uci.edu/
+CURRENT URL:	http://www.uci.edu
+CURRENT URL:	http://www.topblogformula.com/wordpress-business-themes/edegree
+CURRENT URL:	http://www.topblogformula.com/
+CURRENT URL:	http://www.wordpress.org
+CURRENT URL:	http://sdcl.ics.uci.edu/wp-login.php
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	mailto:ayushir@uci.edu
+CURRENT URL:	mailto:tariqi@uci.edu
+CURRENT URL:	mailto:josev3@uci.edu
+CURRENT URL:	mailto:ajdeeb@uci.edu
+CURRENT URL:	mailto:shuomanw@uci.edu
+CURRENT URL:	http://www.ics.uci.edu/~lmartie
+CURRENT URL:	mailto:tkwak1@uci.edu
+CURRENT URL:	http://www.ics.uci.edu/~adrianoc
+CURRENT URL:	http://www.ics.uci.edu/~gbortis/
+CURRENT URL:	mailto:consuell@uci.edu
+CURRENT URL:	mailto:eweidema@gmail.com
+CURRENT URL:	mailto:ferspanghero@gmail.com 
+CURRENT URL:	mailto:triplets@uci.edu
+CURRENT URL:	mailto:ixm8202@rit.edu
+CURRENT URL:	http://www.ics.uci.edu/~tlatoza/
+CURRENT URL:	http://www.mengyaozhao.com
+CURRENT URL:	mailto:martin.medina@uci.edu
+CURRENT URL:	mailto:arturodilecce@gmail.com
+CURRENT URL:	mailto:f.ricci89@gmail.com
+CURRENT URL:	https://www.linkedin.com/in/sahandnayebaziz
+CURRENT URL:	mailto:nathanmrtns@gmail.com 
+CURRENT URL:	mailto:gludvigf@uci.edu
+CURRENT URL:	http://www.ics.uci.edu/~nlopezgi/
+CURRENT URL:	mailto:gleiphgh@gmail.com
+CURRENT URL:	mailto:nspuri@uci.edu
+CURRENT URL:	mailto:mardiros129@gmail.com
+CURRENT URL:	mailto:ximielu@gmail.com
+CURRENT URL:	mailto:mickychen@yahoo.com
+CURRENT URL:	mailto:jmpalomo@uci.edu
+CURRENT URL:	mailto:cardoso.nilo@gmail.com
+CURRENT URL:	https://www.linkedin.com/in/nfmangano/
+CURRENT URL:	https://www.linkedin.com/in/lucinda-lim-55387255/
+CURRENT URL:	https://www.linkedin.com/in/janina-paragele-886b6559/
+CURRENT URL:	https://www.linkedin.com/in/eric-chiquillo-6237b938/
+CURRENT URL:	https://www.linkedin.com/in/dastyni-loksa-31a95b68/
+CURRENT URL:	https://www.linkedin.com/in/evelinashabani/
+CURRENT URL:	https://www.linkedin.com/in/mrdempsey/
+CURRENT URL:	https://www.linkedin.com/in/michelebonazza/
+CURRENT URL:	https://www.linkedin.com/in/alfredomotta/
+CURRENT URL:	https://www.linkedin.com/in/wayne-huang-93319a23/
+CURRENT URL:	https://www.linkedin.com/in/tproenca/
+CURRENT URL:	https://www.linkedin.com/in/nilmax/
+CURRENT URL:	https://www.linkedin.com/in/alex-baker-093b5329/
+CURRENT URL:	https://www.linkedin.com/in/naziac/
+CURRENT URL:	mailto://enistor@google.com
+CURRENT URL:	https://www.linkedin.com/in/wouterbuts/
+CURRENT URL:	https://www.linkedin.com/in/fservant/
+CURRENT URL:	http://web.engr.oregonstate.edu/~sarmaa/
+CURRENT URL:	http://www.linkedin.com/profile/view?id=6701021&authType=name&authToken=LerL&pvs=pp&trk=ppro_viewmore
+CURRENT URL:	https://www.linkedin.com/in/isabella-almeida-da-silva-717a42167/
+CURRENT URL:	https://www.linkedin.com/in/emily-navarro-3382a22/
+CURRENT URL:	http://www.linkedin.com/pub/ping-chen/3/79a/b60
+CURRENT URL:	https://www.linkedin.com/in/christopher-van-der-westhuizen/
+CURRENT URL:	http://www.linkedin.com/profile/view?id=8598988&authType=name&authToken=Bmh1&pvs=pp&trk=ppro_viewmore
+CURRENT URL:	http://www.ic.uff.br/~leomurta/
+CURRENT URL:	http://www.facebook.com/profile.php?id=527338069
+CURRENT URL:	https://www.linkedin.com/in/ryan-yasui-6763431/
+CURRENT URL:	https://www.linkedin.com/in/vdlingen/
+CURRENT URL:	https://www.linkedin.com/in/sundi-sowri/
+CURRENT URL:	https://www.linkedin.com/in/mauliko/
+CURRENT URL:	https://www.linkedin.com/in/sumita-rao-5b52871/
+CURRENT URL:	https://eecs.oregonstate.edu/people/sarma-anita
+CURRENT URL:	http://www.ics.uci.edu/~redmiles/
+CURRENT URL:	http://mcs.open.ac.uk/mp8/
+CURRENT URL:	https://www.sic.ecl.ntt.co.jp/e/researchers/researcher/247.html
+CURRENT URL:	https://cs.gmu.edu/~tlatoza/
+CURRENT URL:	http://sdcl.ics.uci.edu
+CURRENT URL:	http://sdcl.ics.uci.edu/research/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/linecept/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/chatbots/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/knocap-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/lighthouse/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowddesign/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-fault-localization/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/calico/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/codeexchange/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/code-orb-2/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/crowd-development/
+CURRENT URL:	http://sdcl.ics.uci.edu/research/past-projects/porchlight/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/technical-reports/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/dissertations/
+CURRENT URL:	http://sdcl.ics.uci.edu/papers/books/
+CURRENT URL:	http://sdcl.ics.uci.edu/opportunities/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/
+CURRENT URL:	http://sdcl.ics.uci.edu/people/previous-members/
+CURRENT URL:	http://sdcl.ics.uci.edu/sponsors/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/
+CURRENT URL:	http://sdcl.ics.uci.edu/contact/directions/
+CURRENT URL:	http://www.ics.uci.edu/informatics
+CURRENT URL:	http://www.ics.uci.edu/
+CURRENT URL:	http://www.uci.edu
+CURRENT URL:	http://www.topblogformula.com/wordpress-business-themes/edegree
+CURRENT URL:	http://www.topblogformula.com/
+CURRENT URL:	http://www.wordpress.org
+CURRENT URL:	http://sdcl.ics.uci.edu/wp-login.php
+CURRENT URL:	http://www.ics.uci.edu/~gbortis/
+CURRENT URL:	
+CURRENT URL:	
+CURRENT URL:	http://ics.uci.edu/
