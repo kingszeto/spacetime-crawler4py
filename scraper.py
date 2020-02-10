@@ -58,6 +58,7 @@ def extract_next_links(url, resp):
     return link_list
 
 def is_valid(url):
+    print("CURRENT URL:\t" + str(url))
     try:
         if url in visited_urls or url in traps:
             return False
