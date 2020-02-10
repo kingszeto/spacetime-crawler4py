@@ -95,7 +95,7 @@ def is_valid(url):
         if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
             return False
         directory_path = parsed.path.lower().split('/')
-        if "pdf" in directory_path or len(directory_path) != len(set(directory_path)):
+        if "pdf" in directory_path:
             return False
         #getting rid of low information pages - from Ramesh Jain
         # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
