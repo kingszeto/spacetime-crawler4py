@@ -1,10 +1,5 @@
 IR W20 59893732, 29328388
 
-https://statconsulting.ics.uci.edu/
-statconsulting.ics.uci.edu
-statconsulting
-
-
 http://calendar.ics.uci.edu/calendar.php
 calendar.ics.uci.edu
 calendar

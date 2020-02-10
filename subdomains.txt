@@ -1,1 +1,1 @@
-{'statconsulting': {'/'}, 'calendar': {'/calendar.php'}, 'intranet': {'/'}}
+{'calendar': {'/calendar.php'}, 'intranet': {'/'}}
