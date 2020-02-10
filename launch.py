@@ -11,10 +11,10 @@ import os
 
 
 def main(config_file, restart):
+    file_count = 1
     #reads words.json if it has data and moves it to a different file
     if os.path.exists("data.json") and os.path.getsize("data.json") > 2:
         #generate a new file
-        file_count = 1
         while os.path.exists("records/data_record" + str(file_count) + ".json"):
             file_count += 1
         
@@ -22,14 +22,21 @@ def main(config_file, restart):
             with open("records/data_record" + str(file_count) + ".json", "w") as outfile:
                 json.dump(json.load(infile), outfile)
 
-    #reset and initialize the data in the json file
+    #create or overwite the data in the json file
     with open("data.json", "w") as file_contents:
         json.dump({"url_count": 0, "largest_word_count": 0, "largest_url": "", "words": {}}, file_contents)
     #end of changes to launch.py
 
-    #create subdomains.txt
+    #reads subdomains.txt if it has data and moves it to a different file
+    if os.path.exists("subdomains.txt") and os.path.getsize("subdomains.txt") > 2:
+        #generate a new file
+        with open("subdomains.txt", "r") as infile:
+            with open("records/subdomains_record" + str(file_count) + ".txt", "w") as outfile:
+                outfile.write(infile.read())
+
+    #create or overwrite subdomains.txt
     with open("subdomains.txt", "w") as file_contents:
-                file_contents.write("{}")
+        file_contents.write("{}")
     
     cparser = ConfigParser()
     cparser.read(config_file)
