@@ -17,39 +17,38 @@ def scraper(url, resp):
     global tracker
     tracker += 1
     valid_links = []
-    if 200 <= resp.status <= 299 and resp.status != 204:
-        visited_urls.add(url)
-        process_content(url, resp)
-        links = extract_next_links(url, resp)
-        for link in links:
-            if link != None  and link != "" and is_valid(link):
-                #records the url if it is a subdomain of ics.uci.edu
-                valid_links.append(link)
-                parsed = urlparse(link)
-                result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-                if bool(result) and result[1] != "" and result[1] != None and result[1].rstrip('.') != 'www':
-                    subdomain = result[1]
-                    if subdomain in ics_subdomains:
-                        ics_subdomains[subdomain].add(parsed.path)
-                    else:
-                        ics_subdomains[subdomain] = {parsed.path}
-                visited_urls.add(link)
-
-    # ----------------------------------------------------------------------------------------------
-    #write shared values to .txt
-    if tracker % 8 == 0:
-        with open("subdomains.txt", "w") as file_contents:
-            file_contents.write(str(ics_subdomains))
-        with open("data.txt", "w") as file_contents:
-            file_contents.write(str(data_dict))
-    # ----------------------------------------------------------------------------------------------
+    try:
+        if 200 <= resp.status <= 299 and resp.status != 204:
+            visited_urls.add(url)
+            process_content(url, resp)
+            links = extract_next_links(url, resp)
+            for link in links:
+                if link != None  and link != "" and is_valid(link):
+                    #records the url if it is a subdomain of ics.uci.edu
+                    valid_links.append(link)
+                    parsed = urlparse(link)
+                    result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
+                    if bool(result) and result[1] != "" and result[1] != None and result[1].rstrip('.') != 'www':
+                        subdomain = result[1]
+                        if subdomain in ics_subdomains:
+                            ics_subdomains[subdomain].add(parsed.path)
+                        else:
+                            ics_subdomains[subdomain] = {parsed.path}
+                    visited_urls.add(link)
+        #write shared values to .txt
+        if tracker % 8 == 0:
+            with open("subdomains.txt", "w") as file_contents:
+                file_contents.write(str(ics_subdomains))
+            with open("data.txt", "w") as file_contents:
+                file_contents.write(str(data_dict))
+        except:
+            pass
     return valid_links
 
 def extract_next_links(url, resp):
     #list of all the links found in the url
     url = url.replace(' ', '%')
     link_list = []
-    #check HTTP Status
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler)
     url_parsed = urlparse(url)
