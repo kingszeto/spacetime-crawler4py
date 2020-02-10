@@ -15,11 +15,11 @@ def main(config_file, restart):
     if os.path.exists("data.json") and os.path.getsize("data.json") > 2:
         #generate a new file
         file_count = 1
-        while os.path.exists("data_record" + str(file_count) + ".json"):
+        while os.path.exists("records/data_record" + str(file_count) + ".json"):
             file_count += 1
         
         with open("data.json", "r") as infile:
-            with open("data_record" + str(file_count) + ".json", "w") as outfile:
+            with open("records/data_record" + str(file_count) + ".json", "w") as outfile:
                 json.dump(json.load(infile), outfile)
 
     #reset and initialize the data in the json file

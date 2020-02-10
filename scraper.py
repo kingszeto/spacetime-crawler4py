@@ -61,7 +61,7 @@ def is_valid(url):
         #records the url if it is a subdomain of ics.uci.edu
         result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
         if bool(result):
-            subdomain = result[1].split(".")[1]
+            subdomain = result[1]
             with open("data.json", "r") as file_contents:
                 data = json.load(file_contents)
 
