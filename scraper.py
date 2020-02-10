@@ -93,10 +93,10 @@ def is_valid(url):
         # which our crawler already covers ^^
 
         #returns false if the url content is a pdf
-        r = requests.get(url)
-        content_type = r.headers.get('content-type')
-        if 'application/pdf' in content_type:
-            return False
+        # r = requests.get(url)
+        # content_type = r.headers.get('content-type')
+        # if 'application/pdf' in content_type:
+        #     return False
 
         #check for valid path
         return not re.match(
