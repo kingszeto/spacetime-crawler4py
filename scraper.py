@@ -16,6 +16,7 @@ def scraper(url, resp):
     valid_links = []
     if 200 <= resp.status <= 299 and resp.status != 204:
         visited_urls.add(url)
+        print(visited_urls)
         #process_content(url, resp)
         links = extract_next_links(url, resp)
         for link in links:
