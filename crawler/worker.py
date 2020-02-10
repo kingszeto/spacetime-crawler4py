@@ -34,11 +34,11 @@ class Worker(Thread):
 
             #check what domain the worker wants to download
             url_comp = urlparse(tbd_url)
-            url_domain = re.match(r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu', url_comp.netloc):
+            url_domain = re.match(r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu', url_comp.netloc)
             assign_domain = ""
             if bool(url_domain):
                 assign_domain = url_domain[2]
-            else if url_comp.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_comp.path):
+            elif url_comp.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_comp.path):
                 assign_domain = "today"
             #then, check if that domain is full or not
             if len(Worker.WORKER_LOCATION_DOMAINS[assign_domain]) <= 2:
