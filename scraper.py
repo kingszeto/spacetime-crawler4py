@@ -16,7 +16,7 @@ def scraper(url, resp):
     valid_links = []
     if 200 <= resp.status <= 299 and resp.status != 204:
         visited_urls.add(url)
-        process_content(url, resp)
+        #process_content(url, resp)
         links = extract_next_links(url, resp)
         for link in links:
             if link != None  and link != "" and is_valid(link):
@@ -32,8 +32,8 @@ def scraper(url, resp):
                         ics_subdomains[subdomain] = {parsed.path}
                 visited_urls.add(link)
 
-    with open("subdomains.txt", "w") as file_contents:
-        file_contents.write(str(ics_subdomains))
+    #with open("subdomains.txt", "w") as file_contents:
+    #    file_contents.write(str(ics_subdomains))
     return valid_links
 
 def extract_next_links(url, resp):
