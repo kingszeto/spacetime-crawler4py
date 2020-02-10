@@ -1,1 +1,1 @@
-{'statconsulting': {'/consulting-with-us/upcoming-events/', '/category/events/', '/research-highlights/client-testimonials/', '/request-consultation/', '/'}, 'aiclub': {'/'}, 'hombao': {'/hernando.html'}, 'ngs': {'/'}, 'futurehealth': {'/health/', '/about/', '/'}}
+{'mse': {'/%20'}, 'swiki': {'/doku.php'}}
