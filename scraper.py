@@ -18,7 +18,7 @@ def scraper(url, resp):
             valid_links.append(link)
             parsed = urlparse(link)
             result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-            if bool(result) and result[1] != 'www.':
+            if bool(result) and result[1] != 'www':
                 print()
                 print(link)
                 print(result[0])
@@ -37,8 +37,10 @@ def scraper(url, resp):
     #     print("\tQUERY:\t" + str(parsedurl.query))
     #     print()
     # print('\n----------\n', end="")
-    with open("subdomains.txt", "w") as file_contents:
-        file_contents.write(str(ics_subdomains))
+
+    #uncomment later
+    # with open("subdomains.txt", "w") as file_contents:
+    #     file_contents.write(str(ics_subdomains))
     return valid_links
 
 def extract_next_links(url, resp):
@@ -58,7 +60,7 @@ def extract_next_links(url, resp):
             if link.startswith('//'):
                 link = 'https:' + link
             link_list.append(link)
-        process_content(url)
+        #process_content(url)
     return link_list
 
 def is_valid(url):
