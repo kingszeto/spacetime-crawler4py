@@ -11,8 +11,17 @@ STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'
 
 def scraper(url, resp):
     links = extract_next_links(url, resp)
-    valid_links = [link for link in links if is_valid(link)]
-
+    valid_links = []
+    for link in links:
+        if is_valid(link):
+            #records the url if it is a subdomain of ics.uci.edu
+            result = re.match(r'(.+)\.ics\.uci\.edu', urlparse(link).netloc)
+            if bool(result):
+                subdomain = result[1]
+                if subdomain in ics_subdomains:
+                    ics_subdomains[subdomain].add(parsed.path)
+                else:
+                    ics_subdomains[subdomain] = {parsed.path}
     # print("VALID LINKS:\n----------\n", end = "")
     # for link in valid_links:
     #     parsedurl = urlparse(link)
@@ -60,15 +69,6 @@ def is_valid(url):
         domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
         if not any(domain_valid):
             return False
-        
-        #records the url if it is a subdomain of ics.uci.edu
-        result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-        if bool(result):
-            subdomain = result[1]
-            if subdomain in ics_subdomains:
-                ics_subdomains[subdomain].add(parsed.path)
-            else:
-                ics_subdomains[subdomain] = {parsed.path}
                     
         #checking for ICS Calendar Web Cralwer Trap and other types of traps
         #using a regex expression detecting for the calendar and
