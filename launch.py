@@ -24,7 +24,7 @@ def main(config_file, restart):
 
     #reset and initialize the data in the json file
     with open("data.json", "w") as file_contents:
-        json.dump({"url_count": 0, "largest_word_count": 0, "largest_url": "", "ics_subdomains": {}, "words": {}}, file_contents)
+        json.dump({"url_count": 0, "largest_word_count": 0, "largest_url": "", "words": {}}, file_contents)
     #end of changes to launch.py
     
     cparser = ConfigParser()
