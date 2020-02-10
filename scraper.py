@@ -16,7 +16,8 @@ def scraper(url, resp):
         if is_valid(link):
             #records the url if it is a subdomain of ics.uci.edu
             valid_links.append(link)
-            result = re.match(r'(.+)\.ics\.uci\.edu', urlparse(link).netloc)
+            parsed = urlparse(link)
+            result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
             if bool(result):
                 subdomain = result[1]
                 if subdomain in ics_subdomains:
