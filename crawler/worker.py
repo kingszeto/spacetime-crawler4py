@@ -12,6 +12,7 @@ class Worker(Thread):
         self.config = config
         self.frontier = frontier
         super().__init__(daemon=True)
+        self.start()
         
     def run(self):
         while True:
