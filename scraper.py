@@ -59,23 +59,23 @@ def is_valid(url):
             return False
         
         #records the url if it is a subdomain of ics.uci.edu
-        # result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-        # if bool(result):
-        #     subdomain = result[1]
-        #     with open("subdomains.txt", "r") as file_contents:
-        #         data = file_contents.read()
-        #     #turn text file contents into a dictionary
-        #     data = eval(data)
+        result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
+        if bool(result):
+            subdomain = result[1]
+            with open("subdomains.txt", "r") as file_contents:
+                data = file_contents.read()
+            #turn text file contents into a dictionary
+            data = eval(data)
 
-        #     if subdomain in data:
-        #         data[subdomain].add(parsed.path)
-        #     else:
-        #         data[subdomain] = {parsed.path}
-        #     #turn dictionary back into a string
-        #     data = str(data)
+            if subdomain in data:
+                data[subdomain].add(parsed.path)
+            else:
+                data[subdomain] = {parsed.path}
+            #turn dictionary back into a string
+            data = str(data)
 
-        #     with open("subdomains.txt", "w") as file_contents:
-        #         file_contents.write(data)
+            with open("subdomains.txt", "w") as file_contents:
+                file_contents.write(data)
                     
         #checking for ICS Calendar Web Cralwer Trap and other types of traps
         #using a regex expression detecting for the calendar and
