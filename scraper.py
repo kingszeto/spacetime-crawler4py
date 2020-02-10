@@ -19,6 +19,11 @@ def scraper(url, resp):
             parsed = urlparse(link)
             result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
             if bool(result):
+                print()
+                print(link)
+                print(result[0])
+                print(result[1])
+                print()
                 subdomain = result[1]
                 if subdomain in ics_subdomains:
                     ics_subdomains[subdomain].add(parsed.path)
