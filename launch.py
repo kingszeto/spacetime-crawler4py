@@ -28,8 +28,8 @@ def main(config_file, restart):
     #end of changes to launch.py
 
     #create subdomains.txt
-    with open("subdomains.txt", "w") as file_contents:
-                file_contents.write("{}")
+    #with open("subdomains.txt", "w") as file_contents:
+    #            file_contents.write("{}")
     
     cparser = ConfigParser()
     cparser.read(config_file)
