@@ -49,7 +49,7 @@ class Frontier(object):
 
     def get_tbd_url(self):
         try:
-            return self.to_be_downloaded.pop()
+            return self.to_be_downloaded.task_done()
         except IndexError:
             return None
 
