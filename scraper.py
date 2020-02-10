@@ -18,7 +18,7 @@ def scraper(url, resp):
         process_content(url, resp)
         links = extract_next_links(url, resp)
         for link in links:
-            if is_valid(link):
+            if link != None and is_valid(link):
                 #records the url if it is a subdomain of ics.uci.edu
                 valid_links.append(link)
                 parsed = urlparse(link)
