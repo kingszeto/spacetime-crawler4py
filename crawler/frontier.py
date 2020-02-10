@@ -62,6 +62,8 @@ class Frontier(object):
             f"total urls discovered.")
 
     def get_tbd_url(self):
+        print(self.workers_in_dom)
+        print()
         worker_tracker = sorted([worker for worker in self.workers_in_dom if self.workers_in_dom[worker] < 2], key=lambda x: self.workers_in_dom[x])
         put_in = worker_tracker[0]
         try:
