@@ -60,7 +60,8 @@ def extract_next_links(url, resp):
             link = link_tag.get('href')
             link = link.split('#')[0]
             #checks if href contains a link like '/about' or '//www.stat.uci.edu'
-            #if link.startswith('//'):
+            if link.startswith('//'):
+                pass
             #    link = 'https:' + link
             if link.startswith('/'):
                 link = url + link
