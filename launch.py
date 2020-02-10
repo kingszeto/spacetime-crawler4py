@@ -20,7 +20,8 @@ def main(config_file, restart):
         
         with open("data.json", "r") as infile:
             with open("records/data_record" + str(file_count) + ".json", "w") as outfile:
-                json.dump(json.load(infile), outfile)
+                #json.dump(json.load(infile), outfile)
+                pass
 
     #create or overwite the data in the json file
     with open("data.json", "w") as file_contents:
@@ -32,11 +33,12 @@ def main(config_file, restart):
         #generate a new file
         with open("subdomains.txt", "r") as infile:
             with open("records/subdomains_record" + str(file_count) + ".txt", "w") as outfile:
-                outfile.write(infile.read())
+                #outfile.write(infile.read())
+                pass
 
     #create or overwrite subdomains.txt
-    with open("subdomains.txt", "w") as file_contents:
-        file_contents.write("{}")
+    # with open("subdomains.txt", "w") as file_contents:
+    #     file_contents.write("{}")
     
     cparser = ConfigParser()
     cparser.read(config_file)
