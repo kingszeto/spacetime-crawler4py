@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import os
 import requests
 
-data_dict = {"url_count": 0, "largest_word_count": 0, "largest_url": ""}
+data_dict = {"url_count": 0, "largest_word_count": 0, "largest_url": "", "words": {}}
 visited_urls = set()
 ics_subdomains = {}
 tracker = 0
