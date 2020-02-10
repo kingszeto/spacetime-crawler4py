@@ -41,6 +41,7 @@ def extract_next_links(url, resp):
     #check HTTP Status
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler)
+    url_parsed = urlparse(url)
 
     #retrieve all the links found in the parsed url
     #parse the url contents  
@@ -52,7 +53,7 @@ def extract_next_links(url, resp):
             pass
         #    link = 'https:' + link
         elif link.startswith('/'):
-            link = "https://" + parsed.netloc + link
+            link = "https://" + url_parsed.netloc + link
         link_list.append(link)
     return link_list
 
