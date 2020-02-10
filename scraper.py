@@ -60,11 +60,10 @@ def extract_next_links(url, resp):
             link = link_tag.get('href')
             link = link.split('#')[0]
             #checks if href contains a link like '/about' or '//www.stat.uci.edu'
-            if link.startswith('//'):
-                link = 'https:' + link
+            #if link.startswith('//'):
+            #    link = 'https:' + link
             elif link.startswith('/'):
-                if link not in url:
-                    link = url + link
+                link = url + link
             link_list.append(link)
     return link_list
 
@@ -95,17 +94,11 @@ def is_valid(url):
         if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
             return False
         directory_path = parsed.path.lower().split('/')
-        if "pdf" in directory_path or len(directory_path) != len(set(directory_path)):
+        if "pdf" in directory_path:# or len(directory_path) != len(set(directory_path)):
             return False
         #getting rid of low information pages - from Ramesh Jain
         # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
         # which our crawler already covers ^^
-        
-        #returns false if the url content is a pdf
-        # r = requests.get(url)
-        # content_type = r.headers.get('content-type')
-        # if 'application/pdf' in content_type:
-        #     return False
 
         #check for valid path
         return not re.match(
