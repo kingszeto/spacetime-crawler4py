@@ -41,8 +41,8 @@ def scraper(url, resp):
                 file_contents.write(str(ics_subdomains))
             with open("data.txt", "w") as file_contents:
                 file_contents.write(str(data_dict))
-        except:
-            pass
+    except:
+        pass
     return valid_links
 
 def extract_next_links(url, resp):
