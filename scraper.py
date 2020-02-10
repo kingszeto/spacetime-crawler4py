@@ -11,6 +11,7 @@ STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'
 def scraper(url, resp):
     links = extract_next_links(url, resp)
     valid_links = [link for link in links if is_valid(link)]
+
     # print("VALID LINKS:\n----------\n", end = "")
     # for link in valid_links:
     #     parsedurl = urlparse(link)
@@ -68,7 +69,7 @@ def is_valid(url):
         #the end of a pathname being solely a number
         if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
             return False
-        if re.match(r'(\/\S+)*\/(\d+\/?)$' + r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
+        if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
             return False
         #getting rid of low information pages - from Ramesh Jain
         # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
