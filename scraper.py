@@ -9,20 +9,20 @@ STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'
 def scraper(url, resp):
     links = extract_next_links(url, resp)
     valid_links = [link for link in links if is_valid(link)]
-    print("VALID LINKS:\n----------\n", end = "")
-    for link in valid_links:
-        parsedurl = urlparse(link)
-        print("\tNETLOC:\t" + str(parsedurl.netloc))
-        print("\tPATH:\t" + str(parsedurl.path))
-        print("\tQUERY:\t" + str(parsedurl.query))
-        print()
-    print('\n----------\n', end="")
+    # print("VALID LINKS:\n----------\n", end = "")
+    # for link in valid_links:
+    #     parsedurl = urlparse(link)
+    #     print("\tNETLOC:\t" + str(parsedurl.netloc))
+    #     print("\tPATH:\t" + str(parsedurl.path))
+    #     print("\tQUERY:\t" + str(parsedurl.query))
+    #     print()
+    # print('\n----------\n', end="")
     return valid_links
 
 def extract_next_links(url, resp):
     #list of all the links found in the url
     link_list = []
-    print('\nUUUUUUUUUUU\n\t' + str(url) + '\nUUUUUUUUUUU\n')
+    #print('\nUUUUUUUUUUU\n\t' + str(url) + '\nUUUUUUUUUUU\n')
     #check HTTP Status
     if 200 <= resp.status <= 399 and resp.status != 204:
         file_handler = urlopen(url)
@@ -60,8 +60,12 @@ def is_valid(url):
         #the end of a pathname being solely a number
         if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
             return False
-        if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path):
+        if re.match(r'(\/\S+)*\/(\d+\/?)$' + r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
             return False
+        #getting rid of low information pages - from Ramesh Jain
+        # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
+        # which our crawler already covers ^^
+
         #check for valid path
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
