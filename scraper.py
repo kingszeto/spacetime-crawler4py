@@ -18,7 +18,7 @@ def scraper(url, resp):
             valid_links.append(link)
             parsed = urlparse(link)
             result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-            if bool(result):
+            if bool(result) and result[1] != 'www.':
                 print()
                 print(link)
                 print(result[0])
