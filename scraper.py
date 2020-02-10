@@ -52,7 +52,7 @@ def extract_next_links(url, resp):
             pass
         #    link = 'https:' + link
         elif link.startswith('/'):
-            link = url + link
+            link = "https://" + parsed.netloc + link
         link_list.append(link)
     return link_list
 
