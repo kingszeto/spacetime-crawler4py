@@ -15,6 +15,7 @@ def scraper(url, resp):
         print("\tNETLOC:\t" + str(parsedurl.netloc))
         print("\tPATH:\t" + str(parsedurl.path))
         print("\tQUERY:\t" + str(parsedurl.query))
+        print()
     print('\n----------\n', end="")
     return valid_links
 
@@ -54,10 +55,13 @@ def is_valid(url):
         if not any(domain_valid):
             return False
                     
-        #checking for ICS Calendar Web Cralwer Trap
+        #checking for ICS Calendar Web Cralwer Trap and other types of traps
+        #using a regex expression detecting for the calendar and
+        #the end of a pathname being solely a number
         if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
             return False
-
+        if re.match(r'(\/\S+)*\/(\d+)$', parsed.path):
+            return False
         #check for valid path
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
