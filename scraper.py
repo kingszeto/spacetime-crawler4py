@@ -14,6 +14,7 @@ STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'
         # "https://mswe.ics.uci.edu/contact-us/faq/"}
 traps = set()
 def scraper(url, resp):
+    global tracker
     tracker += 1
     print(tracker)
     valid_links = []
