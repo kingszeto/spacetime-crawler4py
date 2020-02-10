@@ -1,21 +1,13 @@
 from threading import Thread
+
 from utils.download import download
 from utils import get_logger
 from scraper import scraper
 import time
 
-import re
-from urllib.parse import urlparse
 
 
 class Worker(Thread):
-    WORKER_LOCATION_DOMAINS = {
-        'ics': [],
-        'stat': [],
-        'cs': [],
-        'informatics': [],
-        'today': []
-    }
     def __init__(self, worker_id, config, frontier):
         self.logger = get_logger(f"Worker-{worker_id}", "Worker")
         self.config = config
@@ -37,4 +29,3 @@ class Worker(Thread):
                 self.frontier.add_url(scraped_url)
             self.frontier.mark_url_complete(tbd_url)
             time.sleep(self.config.time_delay)
-            
