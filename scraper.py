@@ -11,28 +11,29 @@ ics_subdomains = {"https://www.ics.uci.edu/community/involved/"}
 STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'an' ,'and' ,'any' ,'are' ,'aren\'t' ,'as' ,'at' ,'be' ,'because' ,'been' ,'before' ,'being' ,'below' ,'between' ,'both' ,'but' ,'by' ,'can\'t' ,'cannot' ,'could' ,'couldn\'t' ,'did' ,'didn\'t' ,'do' ,'does' ,'doesn\'t' ,'doing' ,'don\'t' ,'down' ,'during' ,'each' ,'few' ,'for' ,'from' ,'further' ,'had' ,'hadn\'t' ,'has' ,'hasn\'t' ,'have' ,'haven\'t' ,'having' ,'he' ,'he\'d' ,'he\'ll' ,'he\'s' ,'her' ,'here' ,'here\'s' ,'hers' ,'herself' ,'him' ,'himself' ,'his' ,'how' ,'how\'s' ,'i' ,'i\'d' ,'i\'ll' ,'i\'m' ,'i\'ve' ,'if' ,'in' ,'into' ,'is' ,'isn\'t' ,'it' ,'it\'s' ,'its' ,'itself' ,'let\'s' ,'me' ,'more' ,'most' ,'mustn\'t' ,'my' ,'myself' ,'no' ,'nor' ,'not' ,'of' ,'off' ,'on' ,'once' ,'only' ,'or' ,'other' ,'ought' ,'our' ,'ours', 'ourselves' ,'out' ,'over' ,'own' ,'same' ,'shan\'t' ,'she' ,'she\'d' ,'she\'ll' ,'she\'s' ,'should' ,'shouldn\'t' ,'so' ,'some' ,'such' ,'than' ,'that' ,'that\'s' ,'the' ,'their' ,'theirs' ,'them' ,'themselves' ,'then' ,'there' ,'there\'s' ,'these' ,'they' ,'they\'d' ,'they\'ll' ,'they\'re' ,'they\'ve' ,'this' ,'those' ,'through' ,'to' ,'too' ,'under' ,'until' ,'up' ,'very' ,'was' ,'wasn\'t' ,'we' ,'we\'d' ,'we\'ll' ,'we\'re' ,'we\'ve' ,'were' ,'weren\'t' ,'what' ,'what\'s' ,'when' ,'when\'s' ,'where' ,'where\'s' ,'which' ,'while' ,'who' ,'who\'s' ,'whom' ,'why' ,'why\'s' ,'with' ,'won\'t' ,'would' ,'wouldn\'t' ,'you' ,'you\'d' ,'you\'ll' ,'you\'re' ,'you\'ve' ,'your' ,'yours' ,'yourself' ,'yourselves'}
 traps = {""}
 def scraper(url, resp):
-    visited_urls.add(url)
-    process_content(url, resp)
-    links = extract_next_links(url, resp)
-    valid_links = []
-    for link in links:
-        if is_valid(link):
-            #records the url if it is a subdomain of ics.uci.edu
-            valid_links.append(link)
-            parsed = urlparse(link)
-            result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-            if bool(result) and result[1] != 'www':
-                print()
-                print(link)
-                print(result[0])
-                print(result[1])
-                print()
-                subdomain = result[1]
-                if subdomain in ics_subdomains:
-                    ics_subdomains[subdomain].add(parsed.path)
-                else:
-                    ics_subdomains[subdomain] = {parsed.path}
-            visited_urls.add(link)
+    if 200 <= resp.status <= 299 and resp.status != 204:
+        visited_urls.add(url)
+        process_content(url, resp)
+        links = extract_next_links(url, resp)
+        valid_links = []
+        for link in links:
+            if is_valid(link):
+                #records the url if it is a subdomain of ics.uci.edu
+                valid_links.append(link)
+                parsed = urlparse(link)
+                result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
+                if bool(result) and result[1] != 'www':
+                    print()
+                    print(link)
+                    print(result[0])
+                    print(result[1])
+                    print()
+                    subdomain = result[1]
+                    if subdomain in ics_subdomains:
+                        ics_subdomains[subdomain].add(parsed.path)
+                    else:
+                        ics_subdomains[subdomain] = {parsed.path}
+                visited_urls.add(link)
     # print("VALID LINKS:\n----------\n", end = "")
     # for link in valid_links:
     #     parsedurl = urlparse(link)
@@ -51,21 +52,20 @@ def extract_next_links(url, resp):
     link_list = []
     #print('\nUUUUUUUUUUU\n\t' + str(url) + '\nUUUUUUUUUUU\n')
     #check HTTP Status
-    if 200 <= resp.status <= 299 and resp.status != 204:
-        file_handler = urlopen(url)
-        parsed = BeautifulSoup(file_handler)
+    file_handler = urlopen(url)
+    parsed = BeautifulSoup(file_handler)
     #retrieve all the links found in the parsed url
     #parse the url contents  
-        for link_tag in parsed.find_all('a', href=True):
-            link = link_tag.get('href')
-            link = link.split('#')[0]
-            #checks if href contains a link like '/about' or '//www.stat.uci.edu'
-            if link.startswith('//'):
-                pass
-            #    link = 'https:' + link
-            elif link.startswith('/'):
-                link = url + link
-            link_list.append(link)
+    for link_tag in parsed.find_all('a', href=True):
+        link = link_tag.get('href')
+        link = link.split('#')[0]
+        #checks if href contains a link like '/about' or '//www.stat.uci.edu'
+        if link.startswith('//'):
+            pass
+        #    link = 'https:' + link
+        elif link.startswith('/'):
+            link = url + link
+        link_list.append(link)
     return link_list
 
 def is_valid(url):
