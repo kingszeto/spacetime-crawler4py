@@ -38,6 +38,7 @@ def scraper(url, resp):
 
 def extract_next_links(url, resp):
     #list of all the links found in the url
+    url = url.replace(' ', '%')
     link_list = []
     #check HTTP Status
     file_handler = urlopen(url)
