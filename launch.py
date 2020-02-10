@@ -6,35 +6,27 @@ from utils.config import Config
 from crawler import Crawler
 
 #imports for changes
-import json
 import os
 
 
 def main(config_file, restart):
     file_count = 1
-    #reads words.json if it has data and moves it to a different file
-    if os.path.exists("data.json") and os.path.getsize("data.json") > 2:
+    #reads data.txt to check if it has data and moves it to a different file
+    if os.path.exists("data.txt") and os.path.getsize("data.txt") > 2:
         #generate a new file
-        while os.path.exists("records/data_record" + str(file_count) + ".json"):
+        while os.path.exists("records/data_record" + str(file_count) + ".txt"):
             file_count += 1
         
-        with open("data.json", "r") as infile:
-            with open("records/data_record" + str(file_count) + ".json", "w") as outfile:
-                #json.dump(json.load(infile), outfile)
-                pass
+        with open("data.txt", "r") as infile:
+            with open("records/data_record" + str(file_count) + ".txt", "w") as outfile:
+                outfile.write(infile.read())
 
-    #create or overwite the data in the json file
-    with open("data.json", "w") as file_contents:
-        json.dump({"url_count": 0, "largest_word_count": 0, "largest_url": "", "words": {}}, file_contents)
-    #end of changes to launch.py
-
-    #reads subdomains.txt if it has data and moves it to a different file
+    #reads subdomains.txt to check if it has data and moves it to a different file
     if os.path.exists("subdomains.txt") and os.path.getsize("subdomains.txt") > 2:
         #generate a new file
         with open("subdomains.txt", "r") as infile:
             with open("records/subdomains_record" + str(file_count) + ".txt", "w") as outfile:
-                #outfile.write(infile.read())
-                pass
+                outfile.write(infile.read())
 
     #create or overwrite subdomains.txt
     # with open("subdomains.txt", "w") as file_contents:

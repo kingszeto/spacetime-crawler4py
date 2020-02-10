@@ -2,10 +2,10 @@ import re
 from urllib.parse import urlparse
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-import json
 import os
 import requests
 
+data_dict = {"url_count": 0, "largest_word_count": 0, "largest_url": ""}
 visited_urls = set()
 ics_subdomains = {}
 tracker = 0
@@ -36,8 +36,14 @@ def scraper(url, resp):
                         ics_subdomains[subdomain] = {parsed.path}
                 visited_urls.add(link)
 
-    #with open("subdomains.txt", "w") as file_contents:
-    #    file_contents.write(str(ics_subdomains))
+    # ----------------------------------------------------------------------------------------------
+    #write shared values to .txt
+    if tracker % 50 == 0:
+        with open("subdomains.txt", "w") as file_contents:
+            file_contents.write(str(ics_subdomains))
+        with open("data.txt", "w") as file_contents:
+            file_contents.write(str(data_dict))
+    # ----------------------------------------------------------------------------------------------
     return valid_links
 
 def extract_next_links(url, resp):
@@ -116,7 +122,7 @@ def is_valid(url):
         print ("TypeError for ", parsed)
         raise
 
-def record_content(data_dict, token_string, url):
+def record_content(token_string, url):
     word_count = 0
     data_dict["url_count"] += 1
 
@@ -136,18 +142,11 @@ def record_content(data_dict, token_string, url):
 
 def process_content(url, resp):
     if 200 <= resp.status <= 299 and resp.status != 204:
-        #open and load the json file
-        with open("data.json", "r") as file_contents:
-            data = json.load(file_contents)
-
         #parse the url contents
         file_handler = urlopen(url)
         parsed = BeautifulSoup(file_handler)
 
         #gets the webpage content and records the words found in it
         content = parsed.get_text()
-        record_content(data, content, url)
+        record_content(content, url)
 
-        #dump the new dictionary into the json file
-        with open("data.json", "w") as file_contents:
-            json.dump(data, file_contents)
