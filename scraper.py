@@ -16,14 +16,14 @@ def scraper(url, resp):
         if is_valid(link):
             #records the url if it is a subdomain of ics.uci.edu
             valid_links.append(link)
-            parsed = urlparse(link)
-            result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-            if bool(result):
-                subdomain = result[1]
-                if subdomain in ics_subdomains:
-                    ics_subdomains[subdomain].add(parsed.path)
-                else:
-                    ics_subdomains[subdomain] = {parsed.path}
+            # parsed = urlparse(link)
+            # result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
+            # if bool(result):
+            #     subdomain = result[1]
+            #     if subdomain in ics_subdomains:
+            #         ics_subdomains[subdomain].add(parsed.path)
+            #     else:
+            #         ics_subdomains[subdomain] = {parsed.path}
     # print("VALID LINKS:\n----------\n", end = "")
     # for link in valid_links:
     #     parsedurl = urlparse(link)
@@ -32,9 +32,9 @@ def scraper(url, resp):
     #     print("\tQUERY:\t" + str(parsedurl.query))
     #     print()
     # print('\n----------\n', end="")
-    with open("subdomains.txt", "w") as file_contents:
-        file_contents.write(str(ics_subdomains))
-    return valid_links
+    # with open("subdomains.txt", "w") as file_contents:
+    #     file_contents.write(str(ics_subdomains))
+    # return valid_links
 
 def extract_next_links(url, resp):
     #list of all the links found in the url
