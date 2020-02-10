@@ -2,21 +2,23 @@ import re
 from urllib.parse import urlparse
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-import json
 import os
 import requests
 
+data_dict = {"url_count": 0, "largest_word_count": 0, "largest_url": "", "words": {}}
 visited_urls = set()
 ics_subdomains = {}
 tracker = 0
 STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'an' ,'and' ,'any' ,'are' ,'aren\'t' ,'as' ,'at' ,'be' ,'because' ,'been' ,'before' ,'being' ,'below' ,'between' ,'both' ,'but' ,'by' ,'can\'t' ,'cannot' ,'could' ,'couldn\'t' ,'did' ,'didn\'t' ,'do' ,'does' ,'doesn\'t' ,'doing' ,'don\'t' ,'down' ,'during' ,'each' ,'few' ,'for' ,'from' ,'further' ,'had' ,'hadn\'t' ,'has' ,'hasn\'t' ,'have' ,'haven\'t' ,'having' ,'he' ,'he\'d' ,'he\'ll' ,'he\'s' ,'her' ,'here' ,'here\'s' ,'hers' ,'herself' ,'him' ,'himself' ,'his' ,'how' ,'how\'s' ,'i' ,'i\'d' ,'i\'ll' ,'i\'m' ,'i\'ve' ,'if' ,'in' ,'into' ,'is' ,'isn\'t' ,'it' ,'it\'s' ,'its' ,'itself' ,'let\'s' ,'me' ,'more' ,'most' ,'mustn\'t' ,'my' ,'myself' ,'no' ,'nor' ,'not' ,'of' ,'off' ,'on' ,'once' ,'only' ,'or' ,'other' ,'ought' ,'our' ,'ours', 'ourselves' ,'out' ,'over' ,'own' ,'same' ,'shan\'t' ,'she' ,'she\'d' ,'she\'ll' ,'she\'s' ,'should' ,'shouldn\'t' ,'so' ,'some' ,'such' ,'than' ,'that' ,'that\'s' ,'the' ,'their' ,'theirs' ,'them' ,'themselves' ,'then' ,'there' ,'there\'s' ,'these' ,'they' ,'they\'d' ,'they\'ll' ,'they\'re' ,'they\'ve' ,'this' ,'those' ,'through' ,'to' ,'too' ,'under' ,'until' ,'up' ,'very' ,'was' ,'wasn\'t' ,'we' ,'we\'d' ,'we\'ll' ,'we\'re' ,'we\'ve' ,'were' ,'weren\'t' ,'what' ,'what\'s' ,'when' ,'when\'s' ,'where' ,'where\'s' ,'which' ,'while' ,'who' ,'who\'s' ,'whom' ,'why' ,'why\'s' ,'with' ,'won\'t' ,'would' ,'wouldn\'t' ,'you' ,'you\'d' ,'you\'ll' ,'you\'re' ,'you\'ve' ,'your' ,'yours' ,'yourself' ,'yourselves'}
+
+traps = set()
 def scraper(url, resp):
     global tracker
     tracker += 1
     valid_links = []
     if 200 <= resp.status <= 299 and resp.status != 204:
         visited_urls.add(url)
-        #process_content(url, resp)
+        process_content(url, resp)
         links = extract_next_links(url, resp)
         for link in links:
             if link != None  and link != "" and is_valid(link):
@@ -24,7 +26,7 @@ def scraper(url, resp):
                 valid_links.append(link)
                 parsed = urlparse(link)
                 result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-                if bool(result) and result[1] != 'www':
+                if bool(result) and result[1] != "" and result[1] != None and result[1].rstrip('.') != 'www':
                     subdomain = result[1]
                     if subdomain in ics_subdomains:
                         ics_subdomains[subdomain].add(parsed.path)
@@ -32,8 +34,14 @@ def scraper(url, resp):
                         ics_subdomains[subdomain] = {parsed.path}
                 visited_urls.add(link)
 
-    #with open("subdomains.txt", "w") as file_contents:
-    #    file_contents.write(str(ics_subdomains))
+    # ----------------------------------------------------------------------------------------------
+    #write shared values to .txt
+    if tracker % 8 == 0:
+        with open("subdomains.txt", "w") as file_contents:
+            file_contents.write(str(ics_subdomains))
+        with open("data.txt", "w") as file_contents:
+            file_contents.write(str(data_dict))
+    # ----------------------------------------------------------------------------------------------
     return valid_links
 
 def extract_next_links(url, resp):
@@ -53,7 +61,6 @@ def extract_next_links(url, resp):
         #checks if href contains a link like '/about' or '//www.stat.uci.edu'
         if link.startswith('//'):
             pass
-        #    link = 'https:' + link
         elif link.startswith('/'):
             link = "https://" + url_parsed.netloc + link
         if link != "" and link != None:
@@ -63,7 +70,6 @@ def extract_next_links(url, resp):
 def is_valid(url):
     if url == None or url == "":
         return False
-    #print("CURRENT URL:\t" + str(url))
     try:
         if url in visited_urls:
             return False
@@ -112,7 +118,7 @@ def is_valid(url):
         print ("TypeError for ", parsed)
         raise
 
-def record_content(data_dict, token_string, url):
+def record_content(token_string, url):
     word_count = 0
     data_dict["url_count"] += 1
 
@@ -132,18 +138,10 @@ def record_content(data_dict, token_string, url):
 
 def process_content(url, resp):
     if 200 <= resp.status <= 299 and resp.status != 204:
-        #open and load the json file
-        with open("data.json", "r") as file_contents:
-            data = json.load(file_contents)
-
         #parse the url contents
         file_handler = urlopen(url)
         parsed = BeautifulSoup(file_handler)
 
         #gets the webpage content and records the words found in it
         content = parsed.get_text()
-        record_content(data, content, url)
-
-        #dump the new dictionary into the json file
-        with open("data.json", "w") as file_contents:
-            json.dump(data, file_contents)
+        record_content(content, url)
