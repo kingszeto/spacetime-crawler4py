@@ -9,10 +9,15 @@ from scraper import is_valid
 from urllib.parse import urlparse
 import re
 
+#changes have been made so that self.to_be_downloaded implements a dictionary of Queues. Every single enqueue/put
+#function and dequeue/get is preceded by the key, which is a domain
+
 class Frontier(object):
     def __init__(self, config, restart):
         self.logger = get_logger("FRONTIER")
         self.config = config
+        
+        #dictionary of Queues, organized by their domains
         self.to_be_downloaded = {
             'ics': Queue(),
             'stat': Queue(),
@@ -20,6 +25,7 @@ class Frontier(object):
             'informatics': Queue(),
             'today': Queue()
         }
+        #limiter for how many workers can go into a domain
         self.workers_in_dom = {
             'ics': 0,
             'stat': 0,
@@ -64,10 +70,12 @@ class Frontier(object):
     def get_tbd_url(self):
         print(self.workers_in_dom)
         print()
+        #sort the domains based on how little workers they have (least to greatest) then take the domain with the
+        #least amount of workers and assign the url based on that domain
         worker_tracker = sorted([worker for worker in self.workers_in_dom if self.workers_in_dom[worker] < 2], key=lambda x: self.workers_in_dom[x])
-        put_in = worker_tracker[0]
+        put_in = worker_tracker[0]              
         try:
-            self.workers_in_dom[put_in] += 1
+            self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
             return self.to_be_downloaded[put_in].get()
         except IndexError:
             return None
@@ -82,7 +90,7 @@ class Frontier(object):
     
     def mark_url_complete(self, url):
         domain = Frontier.place_url_in_dom(url)
-        self.workers_in_dom[domain] -= 1
+        self.workers_in_dom[domain] -= 1            #remove one worker from the proper domain so another worker can go to it
         urlhash = get_urlhash(url)
         if urlhash not in self.save:
             # This should not happen.
@@ -92,6 +100,7 @@ class Frontier(object):
         self.save[urlhash] = (url, True)
         self.save.sync()
 
+    #determines what domain to use based on the url, special case with today.uci.edu/...
     @staticmethod
     def place_url_in_dom(url):
         url_comp = urlparse(url)

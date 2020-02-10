@@ -13,6 +13,7 @@ STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'
 
 traps = set()
 def scraper(url, resp):
+    print('\nURL' + str(url))
     global tracker
     tracker += 1
     valid_links = []
