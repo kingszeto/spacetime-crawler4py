@@ -49,12 +49,11 @@ class Frontier(object):
 
     def get_tbd_url(self):
         try:
-            return self.to_be_downloaded.task_done()
+            return self.to_be_downloaded.get()
         except IndexError:
             return None
 
     def add_url(self, url):
-        raise
         url = normalize(url)
         urlhash = get_urlhash(url)
         if urlhash not in self.save:
