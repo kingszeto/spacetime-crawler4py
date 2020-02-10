@@ -11,6 +11,17 @@ import os
 
 
 def main(config_file, restart):
+    #reads words.json if it has data and moves it to a different file
+    if os.path.getsize("words.json") > 2:
+        #generate a new file
+        file_count = 1
+        while os.path.exists("words_record" + str(file_count) + ".json"):
+            file_count += 1
+        
+        with open("words.json", "r") as infile:
+            with open("words_record" + str(file_count) + ".json", "w") as outfile:
+                json.dump(json.load(infile), outfile)
+
     #reset and initialize the data in the json file
     with open("words.json", "w") as file_contents:
         json.dump({"url_count": 0, "largest_word_count": 0, "largest_url": ""}, file_contents)
