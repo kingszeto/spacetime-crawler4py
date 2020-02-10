@@ -24,25 +24,12 @@ def scraper(url, resp):
                 parsed = urlparse(link)
                 result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
                 if bool(result) and result[1] != 'www':
-                    print()
-                    print(link)
-                    print(result[0])
-                    print(result[1])
-                    print()
                     subdomain = result[1]
                     if subdomain in ics_subdomains:
                         ics_subdomains[subdomain].add(parsed.path)
                     else:
                         ics_subdomains[subdomain] = {parsed.path}
                 visited_urls.add(link)
-    # print("VALID LINKS:\n----------\n", end = "")
-    # for link in valid_links:
-    #     parsedurl = urlparse(link)
-    #     print("\tNETLOC:\t" + str(parsedurl.netloc))
-    #     print("\tPATH:\t" + str(parsedurl.path))
-    #     print("\tQUERY:\t" + str(parsedurl.query))
-    #     print()
-    # print('\n----------\n', end="")
 
     with open("subdomains.txt", "w") as file_contents:
         file_contents.write(str(ics_subdomains))
@@ -51,10 +38,10 @@ def scraper(url, resp):
 def extract_next_links(url, resp):
     #list of all the links found in the url
     link_list = []
-    #print('\nUUUUUUUUUUU\n\t' + str(url) + '\nUUUUUUUUUUU\n')
     #check HTTP Status
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler)
+
     #retrieve all the links found in the parsed url
     #parse the url contents  
     for link_tag in parsed.find_all('a', href=True):
@@ -97,7 +84,7 @@ def is_valid(url):
         if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
             return False
         directory_path = parsed.path.lower().split('/')
-        if "pdf" in directory_path:
+        if "pdf" in directory_path or "faq" in directory_path:
             return False
         #getting rid of low information pages - from Ramesh Jain
         # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
