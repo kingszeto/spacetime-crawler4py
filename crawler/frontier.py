@@ -106,7 +106,7 @@ class Frontier(object):
     #determines what domain to use based on the url, special case with today.uci.edu/...
     @staticmethod
     def place_url_in_dom(url):
-        print(url)
+        print("GETTING CALLED\t" + url)
         url_comp = urlparse(url)
         url_domain = re.search(r'(?:\S+\.)*(?P<domain>ics|cs|informatics|stat)\.uci\.edu', url_comp.netloc)
         assign_domain = ""
