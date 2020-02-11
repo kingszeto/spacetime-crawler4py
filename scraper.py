@@ -7,9 +7,11 @@ import os
 import requests
 
 data_dict = {"url_count": 0, "largest_word_count": 0, "largest_url": "", "words": {}}
-ics_subdomains = {}
+ics_subdomains = {}         #subdomains of ics.uci.edu
+robots = {}                 #robots: key - parsedurl's netloc, value: RobotFileParser Instance
 STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'an' ,'and' ,'any' ,'are' ,'aren\'t' ,'as' ,'at' ,'be' ,'because' ,'been' ,'before' ,'being' ,'below' ,'between' ,'both' ,'but' ,'by' ,'can\'t' ,'cannot' ,'could' ,'couldn\'t' ,'did' ,'didn\'t' ,'do' ,'does' ,'doesn\'t' ,'doing' ,'don\'t' ,'down' ,'during' ,'each' ,'few' ,'for' ,'from' ,'further' ,'had' ,'hadn\'t' ,'has' ,'hasn\'t' ,'have' ,'haven\'t' ,'having' ,'he' ,'he\'d' ,'he\'ll' ,'he\'s' ,'her' ,'here' ,'here\'s' ,'hers' ,'herself' ,'him' ,'himself' ,'his' ,'how' ,'how\'s' ,'i' ,'i\'d' ,'i\'ll' ,'i\'m' ,'i\'ve' ,'if' ,'in' ,'into' ,'is' ,'isn\'t' ,'it' ,'it\'s' ,'its' ,'itself' ,'let\'s' ,'me' ,'more' ,'most' ,'mustn\'t' ,'my' ,'myself' ,'no' ,'nor' ,'not' ,'of' ,'off' ,'on' ,'once' ,'only' ,'or' ,'other' ,'ought' ,'our' ,'ours', 'ourselves' ,'out' ,'over' ,'own' ,'same' ,'shan\'t' ,'she' ,'she\'d' ,'she\'ll' ,'she\'s' ,'should' ,'shouldn\'t' ,'so' ,'some' ,'such' ,'than' ,'that' ,'that\'s' ,'the' ,'their' ,'theirs' ,'them' ,'themselves' ,'then' ,'there' ,'there\'s' ,'these' ,'they' ,'they\'d' ,'they\'ll' ,'they\'re' ,'they\'ve' ,'this' ,'those' ,'through' ,'to' ,'too' ,'under' ,'until' ,'up' ,'very' ,'was' ,'wasn\'t' ,'we' ,'we\'d' ,'we\'ll' ,'we\'re' ,'we\'ve' ,'were' ,'weren\'t' ,'what' ,'what\'s' ,'when' ,'when\'s' ,'where' ,'where\'s' ,'which' ,'while' ,'who' ,'who\'s' ,'whom' ,'why' ,'why\'s' ,'with' ,'won\'t' ,'would' ,'wouldn\'t' ,'you' ,'you\'d' ,'you\'ll' ,'you\'re' ,'you\'ve' ,'your' ,'yours' ,'yourself' ,'yourselves'}
 visited_urls = set()
+
 tracker = 0
 
 traps = set()
@@ -25,11 +27,11 @@ def scraper(url, resp):
             process_content(url, resp)
             links = extract_next_links(url, resp)
             for link in links:
-                if string_not_none(link):
+                if string_not_none(link) and is_valid(link):
                     #records the url if it is a subdomain of ics.uci.edu
                     valid_links.append(link)
                     parsed = urlparse(link)
-                    
+                    #move below to is_valid
                     result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
                     if result and string_not_none(result[1]) and result[1].rstrip('.') != 'www':
                         subdomain = result[1]
@@ -57,9 +59,7 @@ def extract_next_links(url, resp):
         link = link_tag.get('href')
         link = link.split('#')[0]
         #checks for link formats that is_valid cannot check properly
-        if link.startswith('//'):
-            pass
-        elif link.startswith('/'):
+        if  not link.startswith('//') and link.startswith('/'):
             link = "https://" + url_parsed.netloc + link
         if link != "" and link != None:
             link_list.append(link)
@@ -72,7 +72,6 @@ def is_valid(url):
         #checks if url has already been visited
         if url in visited_urls:
             return False
-
         parsed = urlparse(url)
 
         #check if scheme is valid
@@ -175,8 +174,14 @@ def string_not_none(url: str) -> bool:
 
 #write shared global values to .txt files
 def write_data_to_files(tracking_num: int):
-    if tracker % 8 == 0:
+    if tracking_num % 8 == 0:
         with open("subdomains.txt", "w") as file_contents:
             file_contents.write(str(ics_subdomains))
         with open("data.txt", "w") as file_contents:
             file_contents.write(str(data_dict))
+
+#create a new RobotFileParser for every domain and subdomain
+#places the subdomain robot into `robots` dictionary
+def create_sdomain_robot(url_netloc: str):
+    robot = RobotFileParser()
+    robot.set_url(url_netloc + "/robots.txt")

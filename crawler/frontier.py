@@ -86,9 +86,11 @@ class Frontier(object):
         if urlhash not in self.save:
             self.save[urlhash] = (url, False)
             self.save.sync()
+            #added by student writers
             self.to_be_downloaded[Frontier.place_url_in_dom(url)].put(url)
     
     def mark_url_complete(self, url):
+        #added by student writers
         domain = Frontier.place_url_in_dom(url)
         self.workers_in_dom[domain] -= 1            #remove one worker from the proper domain so another worker can go to it
         urlhash = get_urlhash(url)
@@ -100,6 +102,7 @@ class Frontier(object):
         self.save[urlhash] = (url, True)
         self.save.sync()
 
+    #student-added-method
     #determines what domain to use based on the url, special case with today.uci.edu/...
     @staticmethod
     def place_url_in_dom(url):
