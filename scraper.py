@@ -166,7 +166,7 @@ def track_num_word(url_path: list, splitter: str) -> dict:
 
 #checks if a string is not None and not an empty string
 def string_not_none(url: str) -> bool:
-    return url != None and url != ""
+    return type(url) == str and url != ""
 
 #write shared global values to .txt files
 def write_data_to_files(tracking_num: int):
