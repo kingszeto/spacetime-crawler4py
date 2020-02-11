@@ -65,46 +65,46 @@ def is_valid(url):
     if not string_not_none(url):
         return False
     try:
-        # #checks if url has already been visited
-        # if url in visited_urls:
-        #     return False
-        # parsed = urlparse(url)
-
-        # #check if scheme is valid
-        # if parsed.scheme not in set(["http", "https"]):
-        #     return False
-        # if not parsed.query == '':
-        #     return False
-            
-        # #check for possible domains
-        # reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
-        # # reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
-        # domain_valid = [re.match(reg_domains, parsed.netloc) or parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path)]
-        # if not domain_valid:
-        #     return False
-        # #trap detection
-        # if re.match(r'^.*calendar.*$', url):
-        #     return False    
-        # #check for hidden calendars - e.g. WICS.ICS.UCI.EDU
-        # if re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path):
-        #     return False
-        # #checking that we only crawl files with that subdomain and path
-        # if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
-        #     return False
-        # #disallow tags and numbered end paths and tags from being in the url path
-        # if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
-        #     return False
-
-        # #checks for webpages that contain content that is not text or a webpage
-        # directory_path = parsed.path.lower().split('/')
-        # pathwords_count = track_num_word(parsed.path, '/')
-        # if len([word for word in pathwords_count if pathwords_count[word] >= 2]):
-        #     return False
-        # if "pdf" in directory_path or "faq" in directory_path or "zip-attachment" in directory_path:
-        #     return False
-        parsed = urlparse(url)
-        if ban_hammer(url, parsed):
+        #checks if url has already been visited
+        if url in visited_urls:
             return False
+        parsed = urlparse(url)
+
+        #check if scheme is valid
+        if parsed.scheme not in set(["http", "https"]):
+            return False
+        if not parsed.query == '':
+            return False
+            
+        #check for possible domains
+        reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
+        # reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
+        domain_valid = [re.match(reg_domains, parsed.netloc) or parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path)]
+        if not domain_valid:
+            return False
+        #trap detection
+        if re.match(r'^.*calendar.*$', url):
+            return False    
+        #check for hidden calendars - e.g. WICS.ICS.UCI.EDU
+        if re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path):
+            return False
+        #checking that we only crawl files with that subdomain and path
+        if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
+            return False
+        #disallow tags and numbered end paths and tags from being in the url path
+        if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
+            return False
+
+        #checks for webpages that contain content that is not text or a webpage
+        directory_path = parsed.path.lower().split('/')
+        pathwords_count = track_num_word(parsed.path, '/')
+        if len([word for word in pathwords_count if pathwords_count[word] >= 2]):
+            return False
+        if "pdf" in directory_path or "faq" in directory_path or "zip-attachment" in directory_path:
+            return False
+        # parsed = urlparse(url)
+        # if ban_hammer(url, parsed):
+        #     return False
         #check for valid file extension
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
