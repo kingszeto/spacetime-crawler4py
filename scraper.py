@@ -28,17 +28,13 @@ def scraper(url, resp):
             links = extract_next_links(url, resp)
             for link in links:
                 if string_not_none(link) and is_valid(link):
-                    #records the url if it is a subdomain of ics.uci.edu
+                    #add the valid link to list of links returned by scraper
                     valid_links.append(link)
+                    #records the url if it is a subdomain of ics.uci.edu
                     parsed = urlparse(link)
-                    #move below to is_valid
                     result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
                     if result and string_not_none(result[1]) and result[1].rstrip('.') != 'www':
-                        subdomain = result[1]
-                        if subdomain in ics_subdomains:
-                            ics_subdomains[subdomain].add(parsed.path)
-                        else:
-                            ics_subdomains[subdomain] = {parsed.path}
+                        add_to_dict_set(ics_subdomains, result[1], parsed.path)
                     visited_urls.add(link)
         write_data_to_files(tracker)
     except:
@@ -47,7 +43,7 @@ def scraper(url, resp):
 
 def extract_next_links(url, resp):
     #list of all the links found in the url
-    url = url.replace(' ', '%')
+    url = url.replace(' ', '%')             #replace blankspcaes in URLS with %
     link_list = []
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler)
@@ -69,47 +65,46 @@ def is_valid(url):
     if not string_not_none(url):
         return False
     try:
-        #checks if url has already been visited
-        if url in visited_urls:
-            return False
-        parsed = urlparse(url)
-
-        #check if scheme is valid
-        if parsed.scheme not in set(["http", "https"]):
-            return False
-        if not parsed.query == '':
-            return False
-            
-        #check for possible domains
-        reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu',
-        # reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
-        domain_valid = [re.match(reg_domains, parsed.netloc)]
-        domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
-        if not any(domain_valid):
-            return False
-
-        #trap detection
-        if re.match(r'^.*calendar.*$', url):
-            return False    
-        #check for hidden calendars - e.g. WICS.ICS.UCI.EDU
-        if re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path):
-            return False
-        #CURRENTLY TESTING: NEW CALENDAR IF STATMENT LINE 90
-        # if bool(domain_valid[0]) and domain_valid[0][1] != None and (domain_valid[0][1].rstrip('.') == "calendar" ):
+        # #checks if url has already been visited
+        # if url in visited_urls:
         #     return False
-        if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
-            return False
-        if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
-            return False
+        # parsed = urlparse(url)
 
-        #checks for webpages that contain content that is not text or a webpage
-        directory_path = parsed.path.lower().split('/')
-        pathwords_count = track_num_word(parsed.path, '/')
-        if len([word for word in pathwords_count if pathwords_count[word] >= 2]):
-            return False
-        if "pdf" in directory_path or "faq" in directory_path or "zip-attachment" in directory_path:
-            return False
+        # #check if scheme is valid
+        # if parsed.scheme not in set(["http", "https"]):
+        #     return False
+        # if not parsed.query == '':
+        #     return False
+            
+        # #check for possible domains
+        # reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
+        # # reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
+        # domain_valid = [re.match(reg_domains, parsed.netloc) or parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path)]
+        # if not domain_valid:
+        #     return False
+        # #trap detection
+        # if re.match(r'^.*calendar.*$', url):
+        #     return False    
+        # #check for hidden calendars - e.g. WICS.ICS.UCI.EDU
+        # if re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path):
+        #     return False
+        # #checking that we only crawl files with that subdomain and path
+        # if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
+        #     return False
+        # #disallow tags and numbered end paths and tags from being in the url path
+        # if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
+        #     return False
 
+        # #checks for webpages that contain content that is not text or a webpage
+        # directory_path = parsed.path.lower().split('/')
+        # pathwords_count = track_num_word(parsed.path, '/')
+        # if len([word for word in pathwords_count if pathwords_count[word] >= 2]):
+        #     return False
+        # if "pdf" in directory_path or "faq" in directory_path or "zip-attachment" in directory_path:
+        #     return False
+        parsed = urlparse(url)
+        if ban_hammer(url, parsed):
+            return False
         #check for valid file extension
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
@@ -182,6 +177,49 @@ def write_data_to_files(tracking_num: int):
 
 #create a new RobotFileParser for every domain and subdomain
 #places the subdomain robot into `robots` dictionary
+#places a function (which returns a boolean saying
+# something is poltely retrievable) into the dictionary
 def create_sdomain_robot(url_netloc: str):
     robot = RobotFileParser()
     robot.set_url(url_netloc + "/robots.txt")
+    robot.read()
+    def polite_fetch(url):
+        return robot.can_fetch("*", url)
+    robots[str] = polite_fetch
+
+#helper method to add an item to a dictionary of sets
+def add_to_dict_set(dict_set: dict, item_key, added_item):
+    if item_key in dict_set:
+        dict_set[item_key].add(added_item)
+    else:
+        dict_set[item_key] = {added_item}
+
+#!!!    UNDER CONSTRUCTION  !!!
+#deny validity if any of these are violated
+def ban_hammer(url: str, parsed) -> bool:
+    reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
+    directory_path = parsed.path.lower().split('/')
+    pathwords_count = track_num_word(parsed.path, '/')
+    #if any of the below are true, return False:
+    return any([
+        #do not visit another url twice, ignore not http/https, ignore queries
+        url in visited_urls,
+        parsed.scheme not in {"http", "https"},
+        parsed.query == '',
+
+        #check for invalid domain
+        not (re.match(reg_domains, parsed.netloc) or 
+        (parsed.netloc == "today.uci.edu" and 
+        re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))),
+        
+        #check for traps - filtering out:
+        re.match(r'^.*calendar.*$', url),                                           #calendars
+        re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path),    #dates
+        re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path),                              #numbers (page nums)
+        re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path),                           #tags
+        len([word for word in pathwords_count if pathwords_count[word] >= 2]) > 2,  #duplicated words in path
+        "pdf" in directory_path,
+        "faq" in directory_path,
+        "zip-attachment" in directory_path,
+        "calendar" in directory_path
+    ])
