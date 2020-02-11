@@ -63,6 +63,7 @@ def extract_next_links(url, resp):
     return link_list
 
 def is_valid(url):
+    print("VALIDIFYING URL\t" + url)
     if not string_not_none(url):
         return False
     try:
