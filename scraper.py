@@ -27,6 +27,7 @@ def scraper(url, resp):
             process_content(url, resp)
             links = extract_next_links(url, resp)
             for link in links:
+                print("WE ARE HERE IN THE CODE :) \t" + link)
                 if string_not_none(link) and is_valid(link):
                     #add the valid link to list of links returned by scraper
                     valid_links.append(link)
