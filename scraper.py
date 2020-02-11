@@ -125,11 +125,13 @@ def record_content(token_string, url):
     #records the contents of the string 
     for token in re.sub('[^A-Za-z\']+', ' ', token_string.lower()).split():
         word_count += 1
-        if token not in STOP_WORDS:
-            if token in data_dict["words"]:
-                data_dict["words"][token] += 1
+        #turns 'token' into token (removes apostrophes that aren't there for contractions)
+        strip_token = re.sub('^[^a-z]+|[^a-z]+$', '', token)
+        if strip_token not in STOP_WORDS:
+            if strip_token in data_dict["words"]:
+                data_dict["words"][strip_token] += 1
             else:
-                data_dict["words"][token] = 1
+                data_dict["words"][strip_token] = 1
 
     #checks if the current parsed url is larger than the largest recorded parsed url
     if 'largest_word_count' not in data_dict or word_count > data_dict['largest_word_count']:
