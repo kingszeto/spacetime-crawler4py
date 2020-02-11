@@ -20,6 +20,7 @@ def scraper(url, resp):
     try:
         if 200 <= resp.status <= 299 and resp.status != 204:
             visited_urls.add(url)
+            #process content adds filepage contents into data_dict
             process_content(url, resp)
             links = extract_next_links(url, resp)
             for link in links:
@@ -59,7 +60,7 @@ def extract_next_links(url, resp):
     for link_tag in parsed.find_all('a', href=True):
         link = link_tag.get('href')
         link = link.split('#')[0]
-        #checks if href contains a link like '/about' or '//www.stat.uci.edu'
+        #checks for link formats that is_valid cannot check properly
         if link.startswith('//'):
             pass
         elif link.startswith('/'):
@@ -72,21 +73,28 @@ def is_valid(url):
     if url == None or url == "":
         return False
     try:
+        #checks if url has already been visited
         if url in visited_urls:
             return False
+
         parsed = urlparse(url)
+
         #check if scheme is valid
         if parsed.scheme not in set(["http", "https"]):
             return False
         if not parsed.query == '':
             return False
+            
         #check for possible domains
         #reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu',
         reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
+        reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
         domain_valid = [re.match(reg_domains, parsed.netloc)]
         domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
         if not any(domain_valid):
             return False
+
+        #trap detection
         if re.match(r'^.*calendar.*$', url):
             return False    
         #check for hidden calendars - e.g. WICS.ICS.UCI.EDU
@@ -99,6 +107,8 @@ def is_valid(url):
             return False
         if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
             return False
+
+        #checks for webpages that contain content that is not text or a webpage
         directory_path = parsed.path.lower().split('/')
         pathwords_count = track_num_word(parsed.path, '/')
         if len([word for word in pathwords_count if pathwords_count[word] >= 2]):
@@ -106,9 +116,7 @@ def is_valid(url):
         if "pdf" in directory_path or "faq" in directory_path or "zip-attachment" in directory_path:
             return False
 
-        # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
-        # which our crawler already covers ^^
-        #check for valid path
+        #check for valid file extension
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
             + r"|png|tiff?|mid|mp2|mp3|mp4"
