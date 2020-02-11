@@ -145,7 +145,7 @@ def record_content(token_string, url):
 def process_content(url, resp):
     #parse the url contents
     file_handler = urlopen(url)
-    parsed = BeautifulSoup(file_handler)
+    parsed = BeautifulSoup(file_handler, "lxml")
 
     #gets the webpage content and records the words found in it
     content = parsed.get_text()
