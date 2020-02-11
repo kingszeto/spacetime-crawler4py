@@ -79,7 +79,7 @@ def is_valid(url):
         #check for possible domains
         reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
         # reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
-        domain_valid = [re.match(reg_domains, parsed.netloc) or parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path)]
+        domain_valid = re.match(reg_domains, parsed.netloc) or parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path)
         if not domain_valid:
             return False
         #trap detection
