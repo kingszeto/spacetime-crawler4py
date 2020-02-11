@@ -167,6 +167,6 @@ def track_num_word(url_path: list, splitter: str) -> dict:
     for word in words:
         if word in counter_dict:
             counter_dict[word] += 1
-        else
+        else:
             counter_dict[word] = 1
     return counter_dict
