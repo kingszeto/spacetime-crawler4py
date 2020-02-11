@@ -108,7 +108,7 @@ class Frontier(object):
     def place_url_in_dom(url):
         print(url)
         url_comp = urlparse(url)
-        url_domain = re.search(r'(?:\S+\.)*(?P<domain>ics|cs|informatics|stat)\.uci\.edu, url_comp.netloc)
+        url_domain = re.search(r'(?:\S+\.)*(?P<domain>ics|cs|informatics|stat)\.uci\.edu', url_comp.netloc)
         assign_domain = ""
         if bool(url_domain):
             assign_domain = url_domain.group('domain')
