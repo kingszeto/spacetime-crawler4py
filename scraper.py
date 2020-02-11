@@ -81,8 +81,8 @@ def is_valid(url):
         if not parsed.query == '':
             return False
         #check for possible domains
-        reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu',
-        #reg_domains = r'(\S+\.)*(stat)\.uci\.edu'
+        #reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu',
+        reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
         domain_valid = [re.match(reg_domains, parsed.netloc)]
         domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
         if not any(domain_valid):
