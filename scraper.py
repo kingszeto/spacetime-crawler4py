@@ -79,30 +79,13 @@ def is_valid(url):
             return False
         if not parsed.query == '':
             return False
-
-        #check for possible domains
-        reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
-        #reg_domains = r'(\S+\.)*(stat)\.uci\.edu'
-        domain_valid = re.match(reg_domains, parsed.netloc) or (parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
-        if not domain_valid:
+        if not valid_netloc(url.netloc, parsed.path):
             return False
-        if url.netloc in robots:
-            create_sdomain_robot(url.netloc)
-        if not robots[url.netloc](url):
+        if time_in_url(url, parsed.path):
             return False
-        if re.match(r'^.*calendar.*$', url):
-            return False    
-        if re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path):
+        if navigation_page(parsed.path):
             return False
-        #checking for ICS Calendar Web Cralwer Trap and other types of traps
-        #using a regex expression detecting for the calendar and
-        #the end of a pathname being solely a number
-        if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
-            return False
-        if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
-            return False
-        directory_path = parsed.path.lower().split('/')
-        if "pdf" in directory_path or "faq" in directory_path or "zip-attachment" in directory_path:
+        if banned_words_in_url(parsed.path):
             return False
         #getting rid of low information pages - from Ramesh Jain
         # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
@@ -188,3 +171,36 @@ def create_sdomain_robot(url_netloc: str):
         def can_crawl(url_with_path: str):
             return robot.can_fetch('*', url_with_path)
         robots[url_netloc] = can_crawl
+
+#returns true if it is a valid domain and the url adheres to
+#robots.txt politeness, uses the global robots dictionary and
+#udpates it at the same time.
+def valid_netloc(url_netloc: str, url_path: str) -> bool:
+    #check for possible domains
+    reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
+    #reg_domains = r'(\S+\.)*(stat)\.uci\.edu'
+    domain_valid = re.match(reg_domains, url_netloc) or (url_netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_path))
+    if not domain_valid:
+        return False
+    if not url.netloc in robots:
+        create_sdomain_robot(url.netloc)
+    if not robots[url.netloc](url):
+        return False
+    return True
+
+#returns True if there are date-like strings in url path
+#and an instance of calendar captured by regex in the url
+def time_in_url(url: str, urlpath: str) -> bool:
+    return re.match(r'^.*calendar.*$', url) or re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', urlpath)
+
+#returns True if the url seems to be for navigation's sake
+#--meaning there are page/1/ ... /100/ or tags
+def navigation_page(url_path: str) -> bool:
+    return re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path)
+
+#returns True if some defined, hardcoded words are within the paths of the url
+def banned_words_in_url(urlpath: str) -> bool:
+    words = set(urlpath.lower().split('/'))
+    if "pdf" in words or "faq" in words or "zip-attachment" in words
+        return True
+    return False

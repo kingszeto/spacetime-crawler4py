@@ -54,7 +54,7 @@ class Frontier(object):
             if not self.save:
                 for url in self.config.seed_urls:
                     self.add_url(url)
-
+                    
     def _parse_save_file(self):
         ''' This function can be overridden for alternate saving techniques. '''
         total_count = len(self.save)
