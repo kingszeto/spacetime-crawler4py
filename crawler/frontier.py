@@ -68,7 +68,6 @@ class Frontier(object):
             return None
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
-        current_time = time.time()
         non_empty = []
         while non_empty == []:
             non_empty = [domain for domain in sorted(self.to_be_downloaded,
@@ -93,7 +92,6 @@ class Frontier(object):
             self.to_be_downloaded[domain].put(url)
     
     def mark_url_complete(self, url):
-        domain = Frontier.place_url_in_dom(url)
         urlhash = get_urlhash(url)
         if urlhash not in self.save:
             # This should not happen.
