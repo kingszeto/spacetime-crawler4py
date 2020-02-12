@@ -78,9 +78,11 @@ class Frontier(object):
         # worker_tracker = sorted([domain for domain in self.workers_in_dom if self.workers_in_dom[domain] < self.worker_limit], key=lambda x: self.workers_in_dom[x])
         # put_in = worker_tracker[0]
         current_time = time.time()
-        non_empty = [domain for domain in self.to_be_downloaded
-        if not self.to_be_downloaded[domain].empty() and 
-        current_time - self.delay_tracker[domain] >= 0.5]
+        non_empty = []
+        while non_empty == []:
+            non_empty = [domain for domain in self.to_be_downloaded
+            if not self.to_be_downloaded[domain].empty() and 
+            current_time - self.delay_tracker[domain] >= 0.5]
         domain = non_empty[0]
         try:
             self.delay_tracker[domain] = time.time()
