@@ -167,15 +167,14 @@ def write_data_to_files(tracking_num: int):
 def create_sdomain_robot(url: str):
     url = urlparse(url)
     robot = RobotFileParser()
+    robot.set_url(url.scheme + '://' + url.netloc + "/robots.txt")
+    def can_crawl(url_with_path: str):
+        return robot.can_fetch('*', url_with_path)
     try:
-        robot.set_url(url.scheme + url.netloc + "/robots.txt")
         robot.read()
-        def can_crawl(url_with_path: str):
-            return robot.can_fetch('*', url_with_path)
         robots[url.netloc] = can_crawl
-    except:
-        pass
-
+    except: 
+        print("ROBOT ERROR\t" + url)
 
 #returns true if it is a valid domain and the url adheres to
 #robots.txt politeness, uses the global robots dictionary and
