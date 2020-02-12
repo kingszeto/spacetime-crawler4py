@@ -117,7 +117,7 @@ def process_content(url, resp):
             return False
         #gets the webpage content and records the words found in it
         record_content(content, url)
-        return True
+        return Trueass
     except:
         #returns false if urlopen does not work
         return False
@@ -131,7 +131,7 @@ def check_similar(content, url):
         print("####################################")
         print(url)
         print(dupes)
-        print("####################################")
+        print("####################`################")
         return True
     else:
         hashed.add(url, fingerprint)
@@ -163,6 +163,8 @@ def create_sdomain_robot(url: str):
     robot.set_url(url.scheme + '://' + url.netloc + "/robots.txt")
     def can_crawl(url_with_path: str):
         return robot.can_fetch('*', url_with_path)
+    #may not be able to read a file, if so we will just not have a robot for that
+    #subdomain. Assumes all pages can be crawled 
     try:
         robot.read()
         robots[url.netloc] = can_crawl
