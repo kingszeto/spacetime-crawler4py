@@ -184,7 +184,7 @@ def valid_netloc(url: str, url_netloc: str, url_path: str) -> bool:
 #returns True if there are date-like strings in url path
 #and an instance of calendar captured by regex in the url
 def time_in_url(url: str, urlpath: str) -> bool:
-    return re.match(r'^.*calendar.*$', url) or re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', urlpath)
+    return re.match(r'^.*calendar.*$', url) or re.match(r'\S*\/(?:\d{1,2}|\d{4})-(?:\d{1,2})(?:-\d{2}|\d{4})?\/?', urlpath)
 
 #returns True if the url seems to be for navigation's sake
 #--meaning there are page/1/ ... /100/ or tags
