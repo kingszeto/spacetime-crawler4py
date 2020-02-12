@@ -79,7 +79,7 @@ def is_valid(url):
             return False
         if not parsed.query == '':
             return False
-        if not valid_netloc(url.netloc, parsed.path):
+        if not valid_netloc(parsed.netloc, parsed.path):
             return False
         if time_in_url(url, parsed.path):
             return False
