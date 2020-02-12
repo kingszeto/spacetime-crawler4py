@@ -112,8 +112,9 @@ def process_content(url, resp):
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler, "lxml")
     content = parsed.get_text()
-    if check_similar(content, url):
-        return False
+    # if check_similar(content, url):
+    #     return False
+    
     #gets the webpage content and records the words found in it
     record_content(content, url)
     return True
