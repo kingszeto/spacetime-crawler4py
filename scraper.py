@@ -172,7 +172,7 @@ def create_sdomain_robot(url: str):
     try:
         robot.read()
         robots[url.netloc] = can_crawl
-    except: print("ROBOT ERROR\t" + url)
+    except: print("ROBOT ERROR\t" + url.netloc)
 
 #returns true if it is a valid domain and the url adheres to
 #robots.txt politeness, uses the global robots dictionary and
