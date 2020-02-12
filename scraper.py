@@ -13,11 +13,8 @@ robots = {}                 #robots: key - parsedurl's netloc, value: RobotFileP
 STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'an' ,'and' ,'any' ,'are' ,'aren\'t' ,'as' ,'at' ,'be' ,'because' ,'been' ,'before' ,'being' ,'below' ,'between' ,'both' ,'but' ,'by' ,'can\'t' ,'cannot' ,'could' ,'couldn\'t' ,'did' ,'didn\'t' ,'do' ,'does' ,'doesn\'t' ,'doing' ,'don\'t' ,'down' ,'during' ,'each' ,'few' ,'for' ,'from' ,'further' ,'had' ,'hadn\'t' ,'has' ,'hasn\'t' ,'have' ,'haven\'t' ,'having' ,'he' ,'he\'d' ,'he\'ll' ,'he\'s' ,'her' ,'here' ,'here\'s' ,'hers' ,'herself' ,'him' ,'himself' ,'his' ,'how' ,'how\'s' ,'i' ,'i\'d' ,'i\'ll' ,'i\'m' ,'i\'ve' ,'if' ,'in' ,'into' ,'is' ,'isn\'t' ,'it' ,'it\'s' ,'its' ,'itself' ,'let\'s' ,'me' ,'more' ,'most' ,'mustn\'t' ,'my' ,'myself' ,'no' ,'nor' ,'not' ,'of' ,'off' ,'on' ,'once' ,'only' ,'or' ,'other' ,'ought' ,'our' ,'ours', 'ourselves' ,'out' ,'over' ,'own' ,'same' ,'shan\'t' ,'she' ,'she\'d' ,'she\'ll' ,'she\'s' ,'should' ,'shouldn\'t' ,'so' ,'some' ,'such' ,'than' ,'that' ,'that\'s' ,'the' ,'their' ,'theirs' ,'them' ,'themselves' ,'then' ,'there' ,'there\'s' ,'these' ,'they' ,'they\'d' ,'they\'ll' ,'they\'re' ,'they\'ve' ,'this' ,'those' ,'through' ,'to' ,'too' ,'under' ,'until' ,'up' ,'very' ,'was' ,'wasn\'t' ,'we' ,'we\'d' ,'we\'ll' ,'we\'re' ,'we\'ve' ,'were' ,'weren\'t' ,'what' ,'what\'s' ,'when' ,'when\'s' ,'where' ,'where\'s' ,'which' ,'while' ,'who' ,'who\'s' ,'whom' ,'why' ,'why\'s' ,'with' ,'won\'t' ,'would' ,'wouldn\'t' ,'you' ,'you\'d' ,'you\'ll' ,'you\'re' ,'you\'ve' ,'your' ,'yours' ,'yourself' ,'yourselves'}
 visited_urls = set()
 hashed = SimhashIndex([])
-
 tracker = 0
-
 traps = set()
-
 
 def scraper(url, resp):
     global tracker
@@ -27,27 +24,17 @@ def scraper(url, resp):
         #process content returns false if the content was found to be similar to an already crawled url
         if process_content(url, resp):
             links = extract_next_links(url, resp)
+            tracker += 1
             for link in links:
-                if type(link) == str and link != "" and is_valid(link):
-                    #records the url if it is a subdomain of ics.uci.edu
+                if string_not_none(link) and is_valid(link):
+                    #records the url if it is a subdomain of ics.uci.edu for analytics
                     valid_links.append(link)
                     parsed = urlparse(link)
-                    result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-                    if bool(result) and result[1] != "" and result[1] != None and result[1].rstrip('.') != 'www':
-                        subdomain = result[1]
-                        if subdomain in ics_subdomains:
-                            ics_subdomains[subdomain].add(parsed.path)
-                        else:
-                            ics_subdomains[subdomain] = {parsed.path}
                     visited_urls.add(link)
-        tracker += 1
-
-    #write shared values to .txt
-    if tracker % 8 == 0:
-        with open("subdomains.txt", "w") as file_contents:
-            file_contents.write(str(ics_subdomains))
-        with open("data.txt", "w") as file_contents:
-            file_contents.write(str(data_dict))
+                    result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
+                    if result and string_not_none(result[1]) and result[1].rstrip('.') != 'www':
+                        add_to_dict_set(result[1], parsed.path, ics_subdomains)       
+    write_data_to_files(tracker)
     return valid_links
 
 def extract_next_links(url, resp):
@@ -65,21 +52,20 @@ def extract_next_links(url, resp):
         #checks for link formats that is_valid cannot check properly
         if  not link.startswith('//') and link.startswith('/'):
             link = "https://" + url_parsed.netloc + link
-        if link != "" and link != None:
+        if string_not_none(link):
             link_list.append(link)
+    #returns a set to avoid duplicates within the link_list
     return set(link_list)
 
 def is_valid(url):
-    if url == None or url == "":
+    if string_not_none(url):
         return False
     try:
         if url in visited_urls:
             return False
         parsed = urlparse(url)
         #check if scheme is valid
-        if parsed.scheme not in set(["http", "https"]):
-            return False
-        if not parsed.query == '':
+        if not good_format(parsed.scheme, parsed.query)
             return False
         if not valid_netloc(url, parsed.netloc, parsed.path):
             return False
@@ -93,7 +79,7 @@ def is_valid(url):
         # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages
         # which our crawler already covers ^^
 
-        #check for valid path
+        #check for valid path and validify URL
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
             + r"|png|tiff?|mid|mp2|mp3|mp4"
@@ -117,27 +103,21 @@ def record_content(token_string, url):
         #turns 'token' into token (removes apostrophes that aren't there for contractions)
         strip_token = re.sub('^[^a-z]+|[^a-z]+$', '', token)
         if strip_token not in STOP_WORDS:
-            if strip_token in data_dict["words"]:
-                data_dict["words"][strip_token] += 1
-            else:
-                data_dict["words"][strip_token] = 1
-
+            update_counter_dict(strip_token, 1, data_dict[words])
     #checks if the current parsed url is larger than the largest recorded parsed url
     if 'largest_word_count' not in data_dict or word_count > data_dict['largest_word_count']:
         data_dict['largest_word_count'] = word_count
         data_dict['largest_url'] = url
 
 #go though the file and extract data to put into .txt files
-#data put in through the `write_data_to_files` function
+#important for write_data_to_files function
 def process_content(url, resp):
     #parse the url contents
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler, "lxml")
-
     content = parsed.get_text()
     if check_similar(content, url):
         return False
-
     #gets the webpage content and records the words found in it
     record_content(content, url)
     return True
@@ -163,17 +143,14 @@ def track_num_word(url_path: list, splitter: str) -> dict:
     url_path = url_path.split(splitter)
     counter_dict = {}
     for word in url_path:
-        if word in counter_dict:
-            counter_dict[word] += 1
-        else:
-            counter_dict[word] = 1
+        update_counter_dict(word, 1, counter_dict)
     return counter_dict
 
 #checks if a string is not None and not an empty string
 def string_not_none(url: str) -> bool:
     return url != None and url != ""
 
-#write shared global values to .txt files
+#write shared values to .txt based on tracker, so we can avoid collisions of writing to file
 def write_data_to_files(tracking_num: int):
     if tracking_num % 8 == 0:
         with open("subdomains.txt", "w") as file_contents:
@@ -225,3 +202,26 @@ def navigation_page(url_path: str) -> bool:
 def banned_words_in_url(urlpath: str) -> bool:
     words = set(urlpath.lower().split('/'))
     return "pdf" in words or "faq" in words or "zip-attachment" in words
+
+#helper function returns true if a url is not an empty string
+def string_not_none(url: str) -> bool:
+    return type(url) == str and url != ""
+
+#helper function adds an element to a set in a dictionary
+def add_to_dict_set(key: str, added_item: str, setdict: dict):
+    if key in setdict:
+        setdict[key].add(added_item)
+    else:
+        setdict[key] = {added_item}
+
+#makes sure scheme is in http/https and no queries
+def good_format(url_scheme, url_query):
+    return url_scheme in {"http", "https"} or url_query == ''
+
+#updates a dictionary that counts numver of instances of keys, increment_value
+#shoudl usually be 1
+def update_counter_dict(key: string, increment_value: int, counting: dict):
+    if key in counting:
+        counting[key] += increment_value
+    else:
+        counting[key] = increment_value
