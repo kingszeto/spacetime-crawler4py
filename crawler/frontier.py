@@ -27,7 +27,7 @@ class Frontier(object):
             'informatics': Queue(),
             'today': Queue()
         }
-        self.set_delay = 5    #unit in seconds, 500ms = 1 ms
+        self.set_delay = .125    #unit in seconds, 500ms = 1 ms
         self.delay_tracker = {domain: -0.5 for domain in self.to_be_downloaded}
         if not os.path.exists(self.config.save_file) and not restart:
             # Save file does not exist, but request to load save.
