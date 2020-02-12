@@ -65,7 +65,7 @@ def extract_next_links(url, resp):
         if link != "" and link != None:
             link_list.append(link)
     print("EXTRACTED LINKS:\t" + str(link_list))
-    return link_list
+    return set(link_list)
 
 def is_valid(url):
     if not string_not_none(url):
@@ -75,7 +75,6 @@ def is_valid(url):
         if url in visited_urls:
             return False
         parsed = urlparse(url)
-
         #check if scheme is valid
         if parsed.scheme not in set(["http", "https"]):
             return False
