@@ -72,9 +72,7 @@ class Frontier(object):
         print()
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
-        if all([self.to_be_downloaded[domain].empty() for domain in self.to_be_downloaded]):
-            return None
-        worker_tracker = sorted([domain for domain in self.workers_in_dom if self.workers_in_dom[domain] <= 4 and not self.to_be_downloaded[domain].empty()], key=lambda x: self.workers_in_dom[x])
+        worker_tracker = sorted([worker for worker in self.workers_in_dom if self.workers_in_dom[worker] < 5], key=lambda x: self.workers_in_dom[x])
         put_in = worker_tracker[0]              
         try:
             self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
@@ -88,11 +86,9 @@ class Frontier(object):
         if urlhash not in self.save:
             self.save[urlhash] = (url, False)
             self.save.sync()
-            #added by student writers
             self.to_be_downloaded[Frontier.place_url_in_dom(url)].put(url)
     
     def mark_url_complete(self, url):
-        #added by student writers
         domain = Frontier.place_url_in_dom(url)
         self.workers_in_dom[domain] -= 1            #remove one worker from the proper domain so another worker can go to it
         urlhash = get_urlhash(url)
@@ -104,17 +100,14 @@ class Frontier(object):
         self.save[urlhash] = (url, True)
         self.save.sync()
 
-    #student-added-method
     #determines what domain to use based on the url, special case with today.uci.edu/...
     @staticmethod
     def place_url_in_dom(url):
-        print("GETTING CALLED\t" + url)
         url_comp = urlparse(url)
-        url_domain = re.search(r'(?:\S+\.)*(?P<domain>ics|cs|informatics|stat)\.uci\.edu', url_comp.netloc)
-        print(url_domain.group('domain'))
+        url_domain = re.match(r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu', url_comp.netloc)
         assign_domain = ""
-        if bool(url_domain.group):
-            assign_domain = url_domain.group('domain')
+        if bool(url_domain):
+            assign_domain = url_domain[2]
         elif url_comp.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_comp.path):
             assign_domain = "today"
         return assign_domain
