@@ -53,7 +53,7 @@ def extract_next_links(url, resp):
         if  not link.startswith('//') and link.startswith('/'):
             link = "https://" + url_parsed.netloc + link
         if string_not_none(link):
-            link_list.append(link)
+            link_list.append(link.replace(' ', '%'))
     #returns a set to avoid duplicates within the link_list
     return set(link_list)
 
