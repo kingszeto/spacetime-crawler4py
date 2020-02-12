@@ -3,6 +3,7 @@ from urllib.parse import urlparse
 from urllib.request import urlopen
 from urllib.robotparser import RobotFileParser
 from bs4 import BeautifulSoup
+from simhash import Simhash, SimhashIndex
 import os
 import requests
 
@@ -172,6 +173,8 @@ def create_sdomain_robot(url: str):
         def can_crawl(url_with_path: str):
             return robot.can_fetch('*', url_with_path)
         robots[url.netloc] = can_crawl
+    except:
+        pass
 
 
 #returns true if it is a valid domain and the url adheres to
