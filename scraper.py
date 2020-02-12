@@ -185,7 +185,7 @@ def valid_netloc(url_netloc: str, url_path: str) -> bool:
     if not domain_valid:
         return False
     if not url_netloc in robots:
-        create_sdomain_robot(url_netloc)
+        robots[url_netloc] = create_sdomain_robot(url_netloc)
     if not robots[url_netloc](url):
         return False
     return True
