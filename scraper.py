@@ -20,26 +20,22 @@ def scraper(url, resp):
     global tracker
     tracker += 1
     valid_links = []
-    try:
-        if 200 <= resp.status <= 299 and resp.status != 204:
-            visited_urls.add(url)
-            #process content adds filepage contents into data_dict
-            process_content(url, resp)
-            links = extract_next_links(url, resp)
-            for link in links:
-                print("WE ARE HERE IN THE CODE :) \t" + link)
-                if string_not_none(link) and is_valid(link):
-                    #add the valid link to list of links returned by scraper
-                    valid_links.append(link)
-                    #records the url if it is a subdomain of ics.uci.edu
-                    parsed = urlparse(link)
-                    result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-                    if result and string_not_none(result[1]) and result[1].rstrip('.') != 'www':
-                        add_to_dict_set(ics_subdomains, result[1], parsed.path)
-                    visited_urls.add(link)
-        write_data_to_files(tracker)
-    except:
-        pass
+    if 200 <= resp.status <= 299 and resp.status != 204:
+        visited_urls.add(url)
+        #process content adds filepage contents into data_dict
+        process_content(url, resp)
+        links = extract_next_links(url, resp)
+        for link in links:
+            if string_not_none(link) and is_valid(link):
+                #add the valid link to list of links returned by scraper
+                valid_links.append(link)
+                #records the url if it is a subdomain of ics.uci.edu
+                parsed = urlparse(link)
+                result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
+                if result and string_not_none(result[1]) and result[1].rstrip('.') != 'www':
+                    add_to_dict_set(ics_subdomains, result[1], parsed.path)
+                visited_urls.add(link)
+    write_data_to_files(tracker)
     return valid_links
 
 def extract_next_links(url, resp):
