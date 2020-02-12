@@ -56,7 +56,7 @@ def extract_next_links(url, resp):
     url = url.replace(' ', '%')
     link_list = []
     file_handler = urlopen(url)
-    parsed = BeautifulSoup(file_handler)
+    parsed = BeautifulSoup(file_handler, "lxml")
     url_parsed = urlparse(url)
     #retrieve all the links found in the parsed url
     #parse the url contents  
