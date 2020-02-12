@@ -65,7 +65,7 @@ def is_valid(url):
             return False
         parsed = urlparse(url)
         #check if scheme is valid
-        if not good_format(parsed.scheme, parsed.query)
+        if not good_format(parsed.scheme, parsed.query):
             return False
         if not valid_netloc(url, parsed.netloc, parsed.path):
             return False
@@ -103,7 +103,7 @@ def record_content(token_string, url):
         #turns 'token' into token (removes apostrophes that aren't there for contractions)
         strip_token = re.sub('^[^a-z]+|[^a-z]+$', '', token)
         if strip_token not in STOP_WORDS:
-            update_counter_dict(strip_token, 1, data_dict[words])
+            update_counter_dict(strip_token, 1, data_dict['words'])
     #checks if the current parsed url is larger than the largest recorded parsed url
     if 'largest_word_count' not in data_dict or word_count > data_dict['largest_word_count']:
         data_dict['largest_word_count'] = word_count
@@ -145,10 +145,6 @@ def track_num_word(url_path: list, splitter: str) -> dict:
     for word in url_path:
         update_counter_dict(word, 1, counter_dict)
     return counter_dict
-
-#checks if a string is not None and not an empty string
-def string_not_none(url: str) -> bool:
-    return url != None and url != ""
 
 #write shared values to .txt based on tracker, so we can avoid collisions of writing to file
 def write_data_to_files(tracking_num: int):
@@ -220,7 +216,7 @@ def good_format(url_scheme, url_query):
 
 #updates a dictionary that counts numver of instances of keys, increment_value
 #shoudl usually be 1
-def update_counter_dict(key: string, increment_value: int, counting: dict):
+def update_counter_dict(key: str, increment_value: int, counting: dict):
     if key in counting:
         counting[key] += increment_value
     else:
