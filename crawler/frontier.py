@@ -71,7 +71,8 @@ class Frontier(object):
         current_time = time.time()
         non_empty = []
         while non_empty == []:
-            non_empty = [domain for domain in self.to_be_downloaded
+            non_empty = [domain for domain in sorted(self.to_be_downloaded,
+             key=lambda x: self.delay_tracker[x])
             if not self.to_be_downloaded[domain].empty() and 
             time.time() - self.delay_tracker[domain] >= self.set_delay]
         domain = non_empty[0]
@@ -93,7 +94,6 @@ class Frontier(object):
     
     def mark_url_complete(self, url):
         domain = Frontier.place_url_in_dom(url)
-        # self.workers_in_dom[domain] -= 1            #remove one worker from the proper domain so another worker can go to it
         urlhash = get_urlhash(url)
         if urlhash not in self.save:
             # This should not happen.
