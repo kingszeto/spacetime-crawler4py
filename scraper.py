@@ -108,16 +108,19 @@ def record_content(token_string, url):
 #go though the file and extract data to put into .txt files
 #important for write_data_to_files function
 def process_content(url, resp):
-    #parse the url contents
-    file_handler = urlopen(url)
-    parsed = BeautifulSoup(file_handler, "lxml")
-    content = parsed.get_text()
-    # if check_similar(content, url):
-    #     return False
-    
-    #gets the webpage content and records the words found in it
-    record_content(content, url)
-    return True
+    try:
+        #parse the url contents
+        file_handler = urlopen(url)
+        parsed = BeautifulSoup(file_handler, "lxml")
+        content = parsed.get_text()
+        if check_similar(content, url):
+            return False
+        #gets the webpage content and records the words found in it
+        record_content(content, url)
+        return True
+    except:
+        #returns false if urlopen does not work
+        return False
 
 #takes the content and checks if similar content has been found already
 #uses simhash
