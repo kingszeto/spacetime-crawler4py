@@ -67,12 +67,10 @@ def is_valid(url):
         if url in visited_urls:
              return False
 
-         parsed = urlparse(url)
+        parsed = urlparse(url)
 
          #check if scheme is valid
-        if parsed.scheme not in set(["http", "https"]):
-            return False
-        if not parsed.query == '':
+        if parsed.scheme not in set(["http", "https"]) or parsed.query != '':
             return False
             
         #check for possible domains
