@@ -112,8 +112,9 @@ def process_content(url, resp):
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler, "lxml")
     content = parsed.get_text()
-    if check_similar(content, url):
-        return False
+    # if check_similar(content, url):
+    #     return False
+    
     #gets the webpage content and records the words found in it
     record_content(content, url)
     return True
@@ -121,7 +122,6 @@ def process_content(url, resp):
 #takes the content and checks if similar content has been found already
 #uses simhash
 def check_similar(content, url):
-    return True
     fingerprint = Simhash(content)
     dupes = hashed.get_near_dups(fingerprint)
     if len(dupes) > 0:
