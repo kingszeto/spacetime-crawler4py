@@ -1,364 +1,343 @@
 IR W20 59893732, 29328388
 QUEUE STATUSES:
+	ics:	True
+	stat:	True
+	cs:	True
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	False
+	stat:	True
+	cs:	True
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	False
+	stat:	False
+	cs:	True
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	False
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
 	ics:	False
 	stat:	False
 	cs:	False
 	informatics:	False
-	today:	True
+	today:	False
 QUEUE STATUSES:
-	ics:	True
+	ics:	False
 	stat:	False
 	cs:	False
 	informatics:	False
-	today:	True
+	today:	False
 QUEUE STATUSES:
-	ics:	True
-	stat:	True
+	ics:	False
+	stat:	False
 	cs:	False
 	informatics:	False
-	today:	True
+	today:	False
 QUEUE STATUSES:
-	ics:	True
-	stat:	True
-	cs:	True
+	ics:	False
+	stat:	False
+	cs:	False
 	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	True
-	stat:	True
-	cs:	True
-	informatics:	True
-	today:	True
-QUEUE STATUSES:
-	ics:	True
-	stat:	True
-	cs:	True
-	informatics:	True
-	today:	True
-QUEUE STATUSES:
-	ics:	True
-	stat:	True
-	cs:	True
-	informatics:	True
-	today:	True
-QUEUE STATUSES:
-	ics:	True
-	stat:	True
-	cs:	True
-	informatics:	True
-	today:	True
+	today:	False
 VALID LINKS: 	['https://www.ics.uci.edu/grad/admissions/index', 'https://www.ics.uci.edu/grad/degrees/index', 'https://www.ics.uci.edu/grad/courses/index-course', 'https://www.ics.uci.edu/grad/forms/index', 'https://www.ics.uci.edu/grad/policies/index', 'https://www.ics.uci.edu/grad/funding/index', 'https://www.ics.uci.edu/grad/resources', 'https://www.ics.uci.edu/about/visit/index', 'https://www.ics.uci.edu/grad/index', 'https://www.ics.uci.edu/ugrad/index', 'https://www.ics.uci.edu/ugrad/sao/index', 'https://www.ics.uci.edu/ugrad/sao/Course_updates', 'https://www.ics.uci.edu/ugrad/courses/index-course', 'https://www.ics.uci.edu/ugrad/QA_Petitions', 'https://www.ics.uci.edu/ugrad/degrees/Minors', 'https://www.ics.uci.edu/ugrad/policies/Academic_Honesty', 'https://www.ics.uci.edu/ugrad/policies/Academic_Standing', 'https://www.ics.uci.edu/ugrad/policies/Add_Drop_ChangeOption', 'https://www.ics.uci.edu/ugrad/policies/Course_Outside_UCI', 'https://www.ics.uci.edu/ugrad/policies/Grade_Options', 'https://www.ics.uci.edu/ugrad/policies/Laptop_ComputerUse', 'https://www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission', 'https://www.ics.uci.edu/ugrad/policies/CS199_IN4MATX199', 'https://www.ics.uci.edu/ugrad/QA_Graduation', 'https://www.ics.uci.edu/ugrad/resources/index', 'https://www.ics.uci.edu/community/scholarships/index', 'https://www.ics.uci.edu/involved/leadership_council', 'https://www.ics.uci.edu/involved/corporate_partner']
 VALID LINKS: 	['http://mcs.ics.uci.edu']
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	False
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	False
+	today:	False
 VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	True
-	today:	True
 VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	True
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	True
-	today:	True
 VALID LINKS: 	[]
 VALID LINKS: 	['https://mse.ics.uci.edu/%20', 'https://www.informatics.uci.edu/brochure-tiles/how-we-live', 'https://www.informatics.uci.edu/grad/mswe', 'https://www.informatics.uci.edu/brochure-tiles/how-we-work', 'https://www.informatics.uci.edu/undergrad/student-profiles', 'https://www.informatics.uci.edu/explore/books-we-have-written', 'https://www.informatics.uci.edu/research/example-research-projects', 'https://www.informatics.uci.edu/explore/faculty-profiles/stacy-branham', 'https://www.informatics.uci.edu/brochure-tiles/what-we-build', 'https://www.informatics.uci.edu/support/champion-research']
 QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
 VALID LINKS: 	[]
 QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
 QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
 QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
 VALID LINKS: 	[]
 VALID LINKS: 	['https://www.cs.uci.edu/news']
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-VALID LINKS: 	[]
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-VALID LINKS: 	[]
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	['http://www.ics.uci.edu/ugrad/QA_Petitions']
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	['https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index']
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-QUEUE STATUSES:
-	ics:	False
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
 QUEUE STATUSES:
 	ics:	True
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	True
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	True
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	True
-	stat:	True
-	cs:	True
-	informatics:	False
-	today:	True
-VALID LINKS: 	[]
-QUEUE STATUSES:
-	ics:	True
-	stat:	True
+	stat:	False
 	cs:	True
 	informatics:	True
-	today:	True
+	today:	False
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	['http://www.ics.uci.edu/ugrad/QA_Petitions']
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+VALID LINKS: 	['https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index']
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	True
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	False
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	False
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+VALID LINKS: 	[]
+VALID LINKS: 	[]
+QUEUE STATUSES:
+	ics:	False
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
+QUEUE STATUSES:
+	ics:	False
+	stat:	False
+	cs:	False
+	informatics:	True
+	today:	False
