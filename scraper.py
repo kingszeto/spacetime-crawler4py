@@ -172,7 +172,7 @@ def create_sdomain_robot(url: str):
         def can_crawl(url_with_path: str):
             return robot.can_fetch('*', url_with_path)
         robots[url.netloc] = can_crawl
-
+    except: print("PASSING")
 
 #returns true if it is a valid domain and the url adheres to
 #robots.txt politeness, uses the global robots dictionary and
