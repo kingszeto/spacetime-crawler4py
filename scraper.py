@@ -20,7 +20,6 @@ traps = set()
 
 def scraper(url, resp):
     global tracker
-    tracker += 1
     valid_links = []
     if 200 <= resp.status <= 299 and resp.status != 204:
         visited_urls.add(url)
@@ -41,6 +40,7 @@ def scraper(url, resp):
                 visited_urls.add(link)
     #write shared values to .txt
     print("VALID LINKS: \t" + str(valid_links))
+    tracker += 1
     if tracker % 8 == 0:
         with open("subdomains.txt", "w") as file_contents:
             file_contents.write(str(ics_subdomains))
