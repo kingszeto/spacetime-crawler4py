@@ -22,7 +22,6 @@ traps = set()
 
 
 def scraper(url, resp):
-    print('\nURL' + str(url))
     global tracker
     tracker += 1
     valid_links = []
