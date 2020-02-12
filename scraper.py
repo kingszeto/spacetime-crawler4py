@@ -166,13 +166,11 @@ def write_data_to_files(tracking_num: int):
 def create_sdomain_robot(url: str):
     url = urlparse(url)
     robot = RobotFileParser()
-    try:
-        robot.set_url(url.scheme + url.netloc + "/robots.txt")
-        robot.read()
-        def can_crawl(url_with_path: str):
-            return robot.can_fetch('*', url_with_path)
-        robots[url.netloc] = can_crawl
-    except: print("PASSING")
+    robot.set_url(url.scheme + url.netloc + "/robots.txt")
+    robot.read()
+    def can_crawl(url_with_path: str):
+        return robot.can_fetch('*', url_with_path)
+    robots[url.netloc] = can_crawl
 
 #returns true if it is a valid domain and the url adheres to
 #robots.txt politeness, uses the global robots dictionary and
@@ -184,7 +182,6 @@ def valid_netloc(url: str, url_netloc: str, url_path: str) -> bool:
     domain_valid = re.match(reg_domains, url_netloc) or (url_netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_path))
     if not domain_valid:
         return False
-    print(robots)
     if not url_netloc in robots:
         create_sdomain_robot(url)
     if not robots[url_netloc](url):
