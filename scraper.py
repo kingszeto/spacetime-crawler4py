@@ -86,6 +86,10 @@ def is_valid(url):
         domain_valid = re.match(reg_domains, parsed.netloc) or (parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
         if not domain_valid:
             return False
+        if url.netloc in robots:
+            create_sdomain_robot(url.netloc)
+        if not robots[url.netloc](url):
+            return False
         if re.match(r'^.*calendar.*$', url):
             return False    
         if re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path):
@@ -175,6 +179,12 @@ def write_data_to_files(tracking_num: int):
 
 #create a new RobotFileParser for every domain and subdomain
 #places the subdomain robot into `robots` dictionary
+#creates a function where robot returns whether or not a url can be crawled
 def create_sdomain_robot(url_netloc: str):
     robot = RobotFileParser()
-    robot.set_url(url_netloc + "/robots.txt")
+    try:
+        robot.set_url(url_netloc + "/robots.txt")
+        robot.read()
+        def can_crawl(url_with_path: str):
+            return robot.can_fetch('*', url_with_path)
+        robots[url_netloc] = can_crawl
