@@ -86,7 +86,7 @@ def is_valid(url):
             return False
             
         #check for possible domains
-        reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu',
+        reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
         # reg_domains = r'(\S+\.)*(ics)\.uci\.edu'
         domain_valid = [re.match(reg_domains, parsed.netloc)]
         domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
@@ -158,9 +158,9 @@ def process_content(url, resp):
         record_content(content, url)
 
 def track_num_word(url_path: list, splitter: str) -> dict:
-    words = words.split(splitter)
+    url_path = url_path.split(splitter)
     counter_dict = {}
-    for word in words:
+    for word in url_path:
         if word in counter_dict:
             counter_dict[word] += 1
         else:
