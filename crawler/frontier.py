@@ -80,6 +80,7 @@ class Frontier(object):
         current_time = time.time()
         non_empty = []
         while non_empty == []:
+            current_time = time.time()
             non_empty = [domain for domain in self.to_be_downloaded
             if not self.to_be_downloaded[domain].empty() and 
             current_time - self.delay_tracker[domain] >= 1]
