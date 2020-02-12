@@ -72,7 +72,10 @@ class Frontier(object):
         print()
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
-        worker_tracker = sorted([worker for worker in self.workers_in_dom if self.workers_in_dom[worker] < 5], key=lambda x: self.workers_in_dom[x])
+        if all([self.to_be_downloaded[domain].empty() for domain in self.to_be_downloaded]):
+            return None
+        non_empty_queues = {domain: self.to_be_downloaded[domain] for domain in self.to_be_downloaded if not self.to_be_downloaded[domain].empty()}
+        worker_tracker = sorted([domain for domain in non_empty_queues if self.workers_in_dom[domain] < 5], key=lambda x: self.workers_in_dom[x])
         put_in = worker_tracker[0]              
         try:
             self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
