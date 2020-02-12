@@ -68,7 +68,7 @@ def is_valid(url):
          or not good_format(parsed.scheme, parsed.query) \
          or not valid_netloc(url, parsed.netloc, parsed.path) \
          or time_in_url(url, parsed.path) \
-         or navication_page(parsed.path) \
+         or navigation_page(parsed.path) \
          or banned_words_in_url(parsed.path):
             return False
         #getting rid of low information pages - from Ramesh Jain
