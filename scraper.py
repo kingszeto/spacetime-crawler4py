@@ -40,7 +40,7 @@ def scraper(url, resp):
 
 def extract_next_links(url, resp):
     #list of all the links found in the url
-    url = url.replace(' ', '%')
+    url = url.replace(' ', '%')                         #replace spaces with %
     link_list = []
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler, "lxml")
@@ -62,19 +62,15 @@ def is_valid(url):
     if not string_not_none(url):
         return False
     try:
-        if url in visited_urls:
-            return False
+        #designate url as invalid if it does not meet certain requirements
+        #as seen in this big if statement
         parsed = urlparse(url)
-        #check if scheme is valid
-        if not good_format(parsed.scheme, parsed.query):
-            return False
-        if not valid_netloc(url, parsed.netloc, parsed.path):
-            return False
-        if time_in_url(url, parsed.path):
-            return False
-        if navigation_page(parsed.path):
-            return False
-        if banned_words_in_url(parsed.path):
+        if url in visited_urls
+         or not good_format(parsed.scheme, parsed.query)
+         or not valid_netloc(url, parsed.netloc, parsed.path)
+         or time_in_url(url, parsed.path) 
+         or navication_page(parsed.path) 
+         or banned_words_in_url(parsed.path):
             return False
         #getting rid of low information pages - from Ramesh Jain
         # note: these pages are simply pages that link to his other blog posts, their main information is just links to other pages

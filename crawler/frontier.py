@@ -72,12 +72,16 @@ class Frontier(object):
         self.counter += 1
         non_empty = []
         while non_empty == []:
+            #filter out domain queues which are empty and have not yet gone past
+            #the pinging timer. Repeat until one is found (as we have already tested
+            #for all queues to be empty.
             non_empty = [domain for domain in sorted(self.to_be_downloaded,
              key=lambda x: self.delay_tracker[x])
             if (not self.to_be_downloaded[domain].empty()) and 
             time.time() - self.delay_tracker[domain] >= self.set_delay]
         domain = non_empty[0]
         try:
+            #get the item and set the current time for that domain
             self.delay_tracker[domain] = time.time()
             return self.to_be_downloaded[domain].get()
         except:
