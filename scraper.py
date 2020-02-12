@@ -39,6 +39,7 @@ def scraper(url, resp):
                         ics_subdomains[subdomain] = {parsed.path}
                 visited_urls.add(link)
     #write shared values to .txt
+    print("VALID LINKS: \t" + str(valid_links))
     if tracker % 8 == 0:
         with open("subdomains.txt", "w") as file_contents:
             file_contents.write(str(ics_subdomains))
