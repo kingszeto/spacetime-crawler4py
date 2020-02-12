@@ -166,7 +166,7 @@ def write_data_to_files(tracking_num: int):
 def create_sdomain_robot(url: str):
     url = urlparse(url)
     robot = RobotFileParser()
-    robot.set_url(url.scheme + url.netloc + "/robots.txt")
+    robot.set_url(url.scheme + '//' + url.netloc + "/robots.txt")
     robot.read()
     def can_crawl(url_with_path: str):
         return robot.can_fetch('*', url_with_path)
