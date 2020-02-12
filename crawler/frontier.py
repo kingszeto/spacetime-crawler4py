@@ -76,7 +76,7 @@ class Frontier(object):
         put_in = worker_tracker[0]              
         try:
             self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
-            print_queue_statuses()
+            self.print_queue_statuses()
             return self.to_be_downloaded[put_in].get()
         except IndexError:
             return None
@@ -105,7 +105,7 @@ class Frontier(object):
         print("QUEUE STATUSES:")
         for queue in self.to_be_downloaded:
             print("\t" + queue + ":\t" + str(self.to_be_downloaded.empty()))
-            
+
     #determines what domain to use based on the url, special case with today.uci.edu/...
     @staticmethod
     def place_url_in_dom(url):
