@@ -171,8 +171,7 @@ def create_sdomain_robot(url_netloc: str):
         def can_crawl(url_with_path: str):
             return robot.can_fetch('*', url_with_path)
         robots[url_netloc] = can_crawl
-    except:
-        pass
+
 
 #returns true if it is a valid domain and the url adheres to
 #robots.txt politeness, uses the global robots dictionary and
@@ -186,6 +185,7 @@ def valid_netloc(url: str, url_netloc: str, url_path: str) -> bool:
         return False
     if not url_netloc in robots:
         create_sdomain_robot(url_netloc)
+    print(robots)
     if not robots[url_netloc](url):
         return False
     return True
