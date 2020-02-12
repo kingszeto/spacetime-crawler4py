@@ -79,7 +79,7 @@ def is_valid(url):
             return False
         if not parsed.query == '':
             return False
-        if not valid_netloc(parsed.netloc, parsed.path):
+        if not valid_netloc(url, parsed.netloc, parsed.path):
             return False
         if time_in_url(url, parsed.path):
             return False
@@ -177,7 +177,7 @@ def create_sdomain_robot(url_netloc: str):
 #returns true if it is a valid domain and the url adheres to
 #robots.txt politeness, uses the global robots dictionary and
 #udpates it at the same time.
-def valid_netloc(url_netloc: str, url_path: str) -> bool:
+def valid_netloc(url: str, url_netloc: str, url_path: str) -> bool:
     #check for possible domains
     reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
     #reg_domains = r'(\S+\.)*(stat)\.uci\.edu'
