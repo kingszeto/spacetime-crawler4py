@@ -203,6 +203,4 @@ def navigation_page(url_path: str) -> bool:
 #returns True if some defined, hardcoded words are within the paths of the url
 def banned_words_in_url(urlpath: str) -> bool:
     words = set(urlpath.lower().split('/'))
-    if "pdf" in words or "faq" in words or "zip-attachment" in words
-        return True
-    return False
+    return "pdf" in words or "faq" in words or "zip-attachment" in words
