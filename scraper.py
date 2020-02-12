@@ -184,6 +184,7 @@ def valid_netloc(url: str, url_netloc: str, url_path: str) -> bool:
     domain_valid = re.match(reg_domains, url_netloc) or (url_netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_path))
     if not domain_valid:
         return False
+    print(robots)
     if not url_netloc in robots:
         create_sdomain_robot(url)
     if not robots[url_netloc](url):
