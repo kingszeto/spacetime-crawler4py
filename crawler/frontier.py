@@ -104,10 +104,10 @@ class Frontier(object):
     @staticmethod
     def place_url_in_dom(url):
         url_comp = urlparse(url)
-        url_domain = re.match(r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu', url_comp.netloc)
+        url_domain = re.search(r'(?:\S+\.)*(?P<domain>ics|cs|informatics|stat)\.uci\.edu', url_comp.netloc)
         assign_domain = ""
-        if bool(url_domain):
-            assign_domain = url_domain[2]
+        if bool(url_domain.group):
+            assign_domain = url_domain.group('domain')
         elif url_comp.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_comp.path):
             assign_domain = "today"
         return assign_domain
