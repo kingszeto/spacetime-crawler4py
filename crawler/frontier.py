@@ -76,6 +76,7 @@ class Frontier(object):
         put_in = worker_tracker[0]              
         try:
             self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
+            Frontier.print_queue_statuses()
             return self.to_be_downloaded[put_in].get()
         except IndexError:
             return None
@@ -111,3 +112,9 @@ class Frontier(object):
         elif url_comp.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_comp.path):
             assign_domain = "today"
         return assign_domain
+
+    @staticmethod
+    def print_queue_statuses():
+        print("QUEUE STATUSES:")
+        for queue in self.to_be_downloaded:
+            print("\t" + queue + ":\t" + str(self.to_be_downloaded.empty()))
