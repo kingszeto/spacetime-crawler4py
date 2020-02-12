@@ -79,7 +79,7 @@ class Frontier(object):
         # put_in = worker_tracker[0]
         current_time = time.time()
         non_empty = [domain for domain in sorted(self.get_tbd_url, key=lambda x:
-             self.get_tbd_url[x]) if not self.get_tbd_url[domain].empty() and 
+             self.get_tbd_url) if not self.get_tbd_url[domain].empty() and 
              current_time - self.delay_tracker[domain] >= 0.5]
         domain = non_empty[0]
         try:
