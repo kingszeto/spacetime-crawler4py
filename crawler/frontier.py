@@ -101,6 +101,11 @@ class Frontier(object):
         self.save[urlhash] = (url, True)
         self.save.sync()
 
+    def print_queue_statuses(self):
+        print("QUEUE STATUSES:")
+        for queue in self.to_be_downloaded:
+            print("\t" + queue + ":\t" + str(self.to_be_downloaded.empty()))
+            
     #determines what domain to use based on the url, special case with today.uci.edu/...
     @staticmethod
     def place_url_in_dom(url):
@@ -113,7 +118,3 @@ class Frontier(object):
             assign_domain = "today"
         return assign_domain
 
-    def print_queue_statuses(self):
-        print("QUEUE STATUSES:")
-        for queue in self.to_be_downloaded:
-            print("\t" + queue + ":\t" + str(self.to_be_downloaded.empty()))
