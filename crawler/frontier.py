@@ -71,7 +71,7 @@ class Frontier(object):
         def print_queue_statuses():
             print("QUEUE STATUSES:")
             for queue in self.to_be_downloaded:
-                print("\t" + queue + ":\t" + str(self.to_be_downloaded[queue].empty()))
+                print("\t" + queue + ":\t" + str(not self.to_be_downloaded[queue].empty()))
     
         print_queue_statuses()
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the

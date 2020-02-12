@@ -54,19 +54,16 @@ def extract_next_links(url, resp):
     file_handler = urlopen(url)
     parsed = BeautifulSoup(file_handler)
     url_parsed = urlparse(url)
-
     #retrieve all the links found in the parsed url
     #parse the url contents  
     for link_tag in parsed.find_all('a', href=True):
-        try:
-            link = link_tag.get('href')
-            link = link.split('#')[0]
-            #checks for link formats that is_valid cannot check properly
-            if  not link.startswith('//') and link.startswith('/'):
-                link = "https://" + url_parsed.netloc + link
-            if link != "" and link != None:
-                link_list.append(link)
-        except: pass
+        link = link_tag.get('href')
+        link = link.split('#')[0]
+        #checks for link formats that is_valid cannot check properly
+        if  not link.startswith('//') and link.startswith('/'):
+            link = "https://" + url_parsed.netloc + link
+        if link != "" and link != None:
+            link_list.append(link)
     return link_list
 
 def is_valid(url):
