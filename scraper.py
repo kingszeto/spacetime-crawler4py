@@ -64,11 +64,11 @@ def is_valid(url):
         #designate url as invalid if it does not meet certain requirements
         #as seen in this big if statement
         parsed = urlparse(url)
-        if url in visited_urls
-         or not good_format(parsed.scheme, parsed.query)
-         or not valid_netloc(url, parsed.netloc, parsed.path)
-         or time_in_url(url, parsed.path) 
-         or navication_page(parsed.path) 
+        if url in visited_urls \
+         or not good_format(parsed.scheme, parsed.query) \
+         or not valid_netloc(url, parsed.netloc, parsed.path) \
+         or time_in_url(url, parsed.path) \
+         or navication_page(parsed.path) \
          or banned_words_in_url(parsed.path):
             return False
         #getting rid of low information pages - from Ramesh Jain
