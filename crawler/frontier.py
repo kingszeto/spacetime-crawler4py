@@ -68,15 +68,18 @@ class Frontier(object):
             f"total urls discovered.")
 
     def get_tbd_url(self):
-        print(self.workers_in_dom)
-        print()
+        def print_queue_statuses():
+            print("QUEUE STATUSES:")
+            for queue in self.to_be_downloaded:
+                print("\t" + queue + ":\t" + str(self.to_be_downloaded.empty()))
+    
+        self.print_queue_statuses()
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
         worker_tracker = sorted([domain for domain in self.workers_in_dom if self.workers_in_dom[domain] < 2], key=lambda x: self.workers_in_dom[x])
         put_in = worker_tracker[0]              
         try:
             self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
-            self.print_queue_statuses()
             return self.to_be_downloaded[put_in].get()
         except IndexError:
             return None
@@ -100,11 +103,6 @@ class Frontier(object):
 
         self.save[urlhash] = (url, True)
         self.save.sync()
-
-    def print_queue_statuses(self):
-        print("QUEUE STATUSES:")
-        for queue in self.to_be_downloaded:
-            print("\t" + queue + ":\t" + str(self.to_be_downloaded.empty()))
 
     #determines what domain to use based on the url, special case with today.uci.edu/...
     @staticmethod
