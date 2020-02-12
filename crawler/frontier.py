@@ -26,13 +26,13 @@ class Frontier(object):
             'today': Queue()
         }
         #limiter for how many workers can go into a domain
-        # self.workers_in_dom = {
-        #     'ics': 0,
-        #     'stat': 0,
-        #     'cs': 0,
-        #     'informatics': 0,
-        #     'today': 0
-        # }
+        self.workers_in_dom = {
+            'ics': 0,
+            'stat': 0,
+            'cs': 0,
+            'informatics': 0,
+            'today': 0
+        }
         if not os.path.exists(self.config.save_file) and not restart:
             # Save file does not exist, but request to load save.
             self.logger.info(
@@ -68,15 +68,14 @@ class Frontier(object):
             f"total urls discovered.")
 
     def get_tbd_url(self):
-        # print(self.workers_in_dom)
-        # print()
+        print(self.workers_in_dom)
+        print()
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
-        # worker_tracker = sorted([worker for worker in self.workers_in_dom if self.workers_in_dom[worker] < 5], key=lambda x: self.workers_in_dom[x])
-        worker_tracker = sorted([worker for worker in self.to_be_downloaded]) #if self.workers_in_dom[worker] < 5], key=lambda x: self.workers_in_dom[x])
+        worker_tracker = sorted([worker for worker in self.workers_in_dom if self.workers_in_dom[worker] < 5], key=lambda x: self.workers_in_dom[x])
         put_in = worker_tracker[0]              
         try:
-            # self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
+            self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
             return self.to_be_downloaded[put_in].get()
         except IndexError:
             return None
