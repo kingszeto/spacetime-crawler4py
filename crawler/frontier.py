@@ -87,7 +87,8 @@ class Frontier(object):
         try:
             self.delay_tracker[domain] = time.time()
             return self.to_be_downloaded[domain].get()
-        except IndexError:
+        except:
+            print("INDEXING ERROR")
             return None
 
     def add_url(self, url):
