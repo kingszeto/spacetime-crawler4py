@@ -82,7 +82,6 @@ class Frontier(object):
         domain = non_empty[0]
         try:
             #get the item and set the current time for that domain
-            print("Time Elapsed from Domain:\t" + domain + " " + str(time.time() - self.delay_tracker[domain]))
             self.delay_tracker[domain] = time.time()
             return self.to_be_downloaded[domain].get()
         except:
