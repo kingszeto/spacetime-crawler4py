@@ -11,13 +11,9 @@ ics_subdomains = {}         #subdomains of ics.uci.edu
 robots = {}                 #robots: key - parsedurl's netloc, value: RobotFileParser Instance
 STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'an' ,'and' ,'any' ,'are' ,'aren\'t' ,'as' ,'at' ,'be' ,'because' ,'been' ,'before' ,'being' ,'below' ,'between' ,'both' ,'but' ,'by' ,'can\'t' ,'cannot' ,'could' ,'couldn\'t' ,'did' ,'didn\'t' ,'do' ,'does' ,'doesn\'t' ,'doing' ,'don\'t' ,'down' ,'during' ,'each' ,'few' ,'for' ,'from' ,'further' ,'had' ,'hadn\'t' ,'has' ,'hasn\'t' ,'have' ,'haven\'t' ,'having' ,'he' ,'he\'d' ,'he\'ll' ,'he\'s' ,'her' ,'here' ,'here\'s' ,'hers' ,'herself' ,'him' ,'himself' ,'his' ,'how' ,'how\'s' ,'i' ,'i\'d' ,'i\'ll' ,'i\'m' ,'i\'ve' ,'if' ,'in' ,'into' ,'is' ,'isn\'t' ,'it' ,'it\'s' ,'its' ,'itself' ,'let\'s' ,'me' ,'more' ,'most' ,'mustn\'t' ,'my' ,'myself' ,'no' ,'nor' ,'not' ,'of' ,'off' ,'on' ,'once' ,'only' ,'or' ,'other' ,'ought' ,'our' ,'ours', 'ourselves' ,'out' ,'over' ,'own' ,'same' ,'shan\'t' ,'she' ,'she\'d' ,'she\'ll' ,'she\'s' ,'should' ,'shouldn\'t' ,'so' ,'some' ,'such' ,'than' ,'that' ,'that\'s' ,'the' ,'their' ,'theirs' ,'them' ,'themselves' ,'then' ,'there' ,'there\'s' ,'these' ,'they' ,'they\'d' ,'they\'ll' ,'they\'re' ,'they\'ve' ,'this' ,'those' ,'through' ,'to' ,'too' ,'under' ,'until' ,'up' ,'very' ,'was' ,'wasn\'t' ,'we' ,'we\'d' ,'we\'ll' ,'we\'re' ,'we\'ve' ,'were' ,'weren\'t' ,'what' ,'what\'s' ,'when' ,'when\'s' ,'where' ,'where\'s' ,'which' ,'while' ,'who' ,'who\'s' ,'whom' ,'why' ,'why\'s' ,'with' ,'won\'t' ,'would' ,'wouldn\'t' ,'you' ,'you\'d' ,'you\'ll' ,'you\'re' ,'you\'ve' ,'your' ,'yours' ,'yourself' ,'yourselves'}
 visited_urls = set()
-<<<<<<< HEAD
 
 tracker = 0
 
-=======
-tracker = 0
->>>>>>> 6bc53c2afc8f9bd9776b1d32937b5dd9784a0444
 traps = set()
 
 
@@ -25,31 +21,6 @@ def scraper(url, resp):
     global tracker
     tracker += 1
     valid_links = []
-<<<<<<< HEAD
-    try:
-        if 200 <= resp.status <= 299 and resp.status != 204:
-            visited_urls.add(url)
-            #process content adds filepage contents into data_dict
-            process_content(url, resp)
-            links = extract_next_links(url, resp)
-            for link in links:
-                if string_not_none(link) and is_valid(link):
-                    #records the url if it is a subdomain of ics.uci.edu
-                    valid_links.append(link)
-                    parsed = urlparse(link)
-                    #move below to is_valid
-                    result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-                    if result and string_not_none(result[1]) and result[1].rstrip('.') != 'www':
-                        subdomain = result[1]
-                        if subdomain in ics_subdomains:
-                            ics_subdomains[subdomain].add(parsed.path)
-                        else:
-                            ics_subdomains[subdomain] = {parsed.path}
-                    visited_urls.add(link)
-        write_data_to_files(tracker)
-    except:
-        pass
-=======
     if 200 <= resp.status <= 299 and resp.status != 204:
         visited_urls.add(url)
         process_content(url, resp)
@@ -73,7 +44,6 @@ def scraper(url, resp):
             file_contents.write(str(ics_subdomains))
         with open("data.txt", "w") as file_contents:
             file_contents.write(str(data_dict))
->>>>>>> 6bc53c2afc8f9bd9776b1d32937b5dd9784a0444
     return valid_links
 
 def extract_next_links(url, resp):
