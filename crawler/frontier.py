@@ -72,7 +72,7 @@ class Frontier(object):
         while non_empty == []:
             non_empty = [domain for domain in sorted(self.to_be_downloaded,
              key=lambda x: self.delay_tracker[x])
-            if not self.to_be_downloaded[domain].empty() and 
+            if (not self.to_be_downloaded[domain].empty()) and 
             time.time() - self.delay_tracker[domain] >= self.set_delay]
         domain = non_empty[0]
         try:
