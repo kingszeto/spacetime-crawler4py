@@ -27,15 +27,7 @@ class Frontier(object):
             'informatics': Queue(),
             'today': Queue()
         }
-        #limiter for how many workers can go into a domain
-        # self.worker_limit = 4
-        # self.workers_in_dom = {
-        #     'ics': 0,
-        #     'stat': 0,
-        #     'cs': 0,
-        #     'informatics': 0,
-        #     'today': 0
-        # }
+        self.set_delay = 0.5    #unit in seconds, 500ms = 1 ms
         self.delay_tracker = {domain: -0.5 for domain in self.to_be_downloaded}
         if not os.path.exists(self.config.save_file) and not restart:
             # Save file does not exist, but request to load save.
@@ -72,24 +64,21 @@ class Frontier(object):
             f"total urls discovered.")
 
     def get_tbd_url(self):
+        if all([self.to_be_downloaded[domain].empty() for domain in self.to_be_downloaded]):
+            return None
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
-
-        # worker_tracker = sorted([domain for domain in self.workers_in_dom if self.workers_in_dom[domain] < self.worker_limit], key=lambda x: self.workers_in_dom[x])
-        # put_in = worker_tracker[0]
         current_time = time.time()
         non_empty = []
         while non_empty == []:
-            current_time = time.time()
             non_empty = [domain for domain in self.to_be_downloaded
             if not self.to_be_downloaded[domain].empty() and 
-            current_time - self.delay_tracker[domain] >= 1]
+            time.time() - self.delay_tracker[domain] >= self.set_delay]
         domain = non_empty[0]
         try:
             self.delay_tracker[domain] = time.time()
             return self.to_be_downloaded[domain].get()
         except:
-            print("INDEXING ERROR")
             return None
 
     def add_url(self, url):
