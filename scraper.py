@@ -212,7 +212,7 @@ def add_to_dict_set(key: str, added_item: str, setdict: dict):
 
 #makes sure scheme is in http/https and no queries
 def good_format(url_scheme, url_query):
-    return url_scheme in {"http", "https"} and url_query == ''
+    return url_scheme in {"http", "https"} and not url_query == ''
 
 #updates a dictionary that counts numver of instances of keys, increment_value
 #shoudl usually be 1
