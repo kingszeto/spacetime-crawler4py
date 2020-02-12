@@ -83,11 +83,12 @@ def is_valid(url):
         #check for possible domains
         reg_domains = r'(\S+\.)*(ics|cs|informatics|stat)\.uci\.edu'
         #reg_domains = r'(\S+\.)*(stat)\.uci\.edu'
-        domain_valid = [re.match(reg_domains, parsed.netloc)]
-        domain_valid.append(parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
-        if not any(domain_valid):
+        domain_valid = re.match(reg_domains, parsed.netloc) or (parsed.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', parsed.path))
+        if not domain_valid:
             return False
-        if bool(domain_valid[0]) and domain_valid[0][1] != None and (domain_valid[0][1].rstrip('.') == "calendar" ):
+        if re.match(r'^.*calendar.*$', url):
+            return False    
+        if re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path):
             return False
         #checking for ICS Calendar Web Cralwer Trap and other types of traps
         #using a regex expression detecting for the calendar and
