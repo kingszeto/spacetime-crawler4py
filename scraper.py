@@ -3,8 +3,7 @@ from urllib.parse import urlparse
 from urllib.request import urlopen
 from urllib.robotparser import RobotFileParser
 from bs4 import BeautifulSoup
-# from https://github.com/leonsim/simhash
-from simhash import Simhash, SimhashIndex
+from simhash import Simhash, SimhashIndex       #from https://github.com/leonsim/simhash
 import os
 import requests
 
