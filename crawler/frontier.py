@@ -9,6 +9,8 @@ from scraper import is_valid
 from urllib.parse import urlparse
 import re
 
+import time
+
 #changes have been made so that self.to_be_downloaded implements a dictionary of Queues. Every single enqueue/put
 #function and dequeue/get is preceded by the key, which is a domain
 
@@ -26,13 +28,15 @@ class Frontier(object):
             'today': Queue()
         }
         #limiter for how many workers can go into a domain
-        self.workers_in_dom = {
-            'ics': 0,
-            'stat': 0,
-            'cs': 0,
-            'informatics': 0,
-            'today': 0
-        }
+        # self.worker_limit = 4
+        # self.workers_in_dom = {
+        #     'ics': 0,
+        #     'stat': 0,
+        #     'cs': 0,
+        #     'informatics': 0,
+        #     'today': 0
+        # }
+        self.delay_tracker = {domain: -0.5 for domain in self.to_be_downloaded}
         if not os.path.exists(self.config.save_file) and not restart:
             # Save file does not exist, but request to load save.
             self.logger.info(
@@ -54,7 +58,7 @@ class Frontier(object):
             if not self.save:
                 for url in self.config.seed_urls:
                     self.add_url(url)
-                    
+
     def _parse_save_file(self):
         ''' This function can be overridden for alternate saving techniques. '''
         total_count = len(self.save)
@@ -68,19 +72,17 @@ class Frontier(object):
             f"total urls discovered.")
 
     def get_tbd_url(self):
-        def print_queue_statuses():
-            print("QUEUE STATUSES:")
-            for queue in self.to_be_downloaded:
-                print("\t" + queue + ":\t" + str(not self.to_be_downloaded[queue].empty()))
-    
-        print_queue_statuses()
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
-        worker_tracker = sorted([domain for domain in self.workers_in_dom if self.workers_in_dom[domain] < 5], key=lambda x: self.workers_in_dom[x])
-        put_in = worker_tracker[0]              
+
+        # worker_tracker = sorted([domain for domain in self.workers_in_dom if self.workers_in_dom[domain] < self.worker_limit], key=lambda x: self.workers_in_dom[x])
+        # put_in = worker_tracker[0]
+        current_time = time.time()
+        non_empty = [domain for domain in sorted(self.get_tbd_url[domain], key=lambda x: self.get_tbd_url[domain]) if not self.get_tbd_url.empty() and current_time - self.delay_tracker[domain] >= 0.5]
+        domain = non_empty[0]
         try:
-            self.workers_in_dom[put_in] += 1                #put a worker in so we do not go past the limit
-            return self.to_be_downloaded[put_in].get()
+            self.delay_tracker[domain] = time.time()
+            return self.to_be_downloaded[domain].get()
         except IndexError:
             return None
 
@@ -90,11 +92,13 @@ class Frontier(object):
         if urlhash not in self.save:
             self.save[urlhash] = (url, False)
             self.save.sync()
-            self.to_be_downloaded[Frontier.place_url_in_dom(url)].put(url)
+            domain = Frontier.place_url_in_dom(url)
+            self.delay_tracker
+            self.to_be_downloaded[domain].put(url)
     
     def mark_url_complete(self, url):
         domain = Frontier.place_url_in_dom(url)
-        self.workers_in_dom[domain] -= 1            #remove one worker from the proper domain so another worker can go to it
+        # self.workers_in_dom[domain] -= 1            #remove one worker from the proper domain so another worker can go to it
         urlhash = get_urlhash(url)
         if urlhash not in self.save:
             # This should not happen.
