@@ -99,9 +99,6 @@ def is_valid(url):
         #check for hidden calendars - e.g. WICS.ICS.UCI.EDU
         if re.match(r'\/(\d{1,2}|\d{4})-(\d{1,2})(-\d{2}|\d{4})?\/?', parsed.path):
             return False
-        #CURRENTLY TESTING: NEW CALENDAR IF STATMENT LINE 90
-        # if bool(domain_valid[0]) and domain_valid[0][1] != None and (domain_valid[0][1].rstrip('.') == "calendar" ):
-        #     return False
         if parsed.netloc == "today.uci.edu" and re.match(r"^(\/department\/information_computer_sciences\/calendar\/)", parsed.path):
             return False
         if re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path):
