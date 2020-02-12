@@ -64,8 +64,6 @@ class Frontier(object):
             f"total urls discovered.")
 
     def get_tbd_url(self):
-        if all([self.to_be_downloaded[domain].empty() for domain in self.to_be_downloaded]):
-            return None
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
         non_empty = []
