@@ -163,15 +163,15 @@ def write_data_to_files(tracking_num: int):
 #create a new RobotFileParser for every domain and subdomain
 #places the subdomain robot into `robots` dictionary
 #creates a function where robot returns whether or not a url can be crawled
-def create_sdomain_robot(url_netloc: str):
+def create_sdomain_robot(url: str):
+    url = urlparse(url)
     robot = RobotFileParser()
     try:
-        robot.set_url(url_netloc + "/robots.txt")
+        robot.set_url(url.scheme + url.netloc + "/robots.txt")
         robot.read()
         def can_crawl(url_with_path: str):
             return robot.can_fetch('*', url_with_path)
-        robots[url_netloc] = can_crawl
-    except: print("PASSING")
+        robots[url.netloc] = can_crawl
 
 
 #returns true if it is a valid domain and the url adheres to
@@ -185,7 +185,7 @@ def valid_netloc(url: str, url_netloc: str, url_path: str) -> bool:
     if not domain_valid:
         return False
     if not url_netloc in robots:
-        create_sdomain_robot(url_netloc)
+        create_sdomain_robot(url)
     if not robots[url_netloc](url):
         return False
     return True
@@ -198,7 +198,7 @@ def time_in_url(url: str, urlpath: str) -> bool:
 #returns True if the url seems to be for navigation's sake
 #--meaning there are page/1/ ... /100/ or tags
 def navigation_page(url_path: str) -> bool:
-    return re.match(r'(\/\S+)*\/(\d+\/?)$', parsed.path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', parsed.path)
+    return re.match(r'(\/\S+)*\/(\d+\/?)$', url_path) or re.match(r'^(\/tags?)\/?(\S+\/?)?', url_path)
 
 #returns True if some defined, hardcoded words are within the paths of the url
 def banned_words_in_url(urlpath: str) -> bool:
