@@ -182,8 +182,4 @@ def write_data_to_files(tracking_num: int):
 #places the subdomain robot into `robots` dictionary
 def create_sdomain_robot(url_netloc: str):
     robot = RobotFileParser()
-<<<<<<< HEAD
     robot.set_url(url_netloc + "/robots.txt")
-=======
-    robot.set_url(url_netloc + "/robots.txt")
->>>>>>> 6bc53c2afc8f9bd9776b1d32937b5dd9784a0444
