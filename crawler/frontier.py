@@ -73,7 +73,7 @@ class Frontier(object):
             for queue in self.to_be_downloaded:
                 print("\t" + queue + ":\t" + str(self.to_be_downloaded.empty()))
     
-        self.print_queue_statuses()
+        print_queue_statuses()
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
         worker_tracker = sorted([domain for domain in self.workers_in_dom if self.workers_in_dom[domain] < 2], key=lambda x: self.workers_in_dom[x])
