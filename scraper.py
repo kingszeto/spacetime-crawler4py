@@ -58,7 +58,7 @@ def extract_next_links(url, resp):
     return set(link_list)
 
 def is_valid(url):
-    if string_not_none(url):
+    if not string_not_none(url):
         return False
     try:
         if url in visited_urls:
