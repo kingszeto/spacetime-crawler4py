@@ -18,7 +18,7 @@ class Frontier(object):
     def __init__(self, config, restart):
         self.logger = get_logger("FRONTIER")
         self.config = config
-        
+        self.counter = 0
         #dictionary of Queues, organized by their domains
         self.to_be_downloaded = {
             'ics': Queue(),
@@ -62,14 +62,14 @@ class Frontier(object):
         self.logger.info(
             f"Found {tbd_count} urls to be downloaded from {total_count} "
             f"total urls discovered.")
-
+    
     def get_tbd_url(self):
-        #make sure that we have parsed through 50 urls before we start checking for empty queues
-        if get_tbd_url.counter >= 50 and all([self.to_be_downloaded[domain].empty() for domain in self.to_be_downloaded]):
+        #make sure that we have parsed through 100 urls before we start checking for empty queues
+        if self.counter >= 100 and all([self.to_be_downloaded[domain].empty() for domain in self.to_be_downloaded]):
             return None
         #sort the domains based on how little workers they have (least to greatest) then take the domain with the
         #least amount of workers and assign the url based on that domain
-        get_tbd_url.counter += 1
+        self.counter += 1
         non_empty = []
         while non_empty == []:
             non_empty = [domain for domain in sorted(self.to_be_downloaded,
@@ -82,7 +82,6 @@ class Frontier(object):
             return self.to_be_downloaded[domain].get()
         except:
             return None
-    get_tbd_url.counter = 0
 
     def add_url(self, url):
         url = normalize(url)
