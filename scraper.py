@@ -43,7 +43,6 @@ def scraper(url, resp):
         tracker += 1
 
     #write shared values to .txt
-    print("VALID LINKS: \t" + str(valid_links))
     if tracker % 8 == 0:
         with open("subdomains.txt", "w") as file_contents:
             file_contents.write(str(ics_subdomains))
@@ -68,7 +67,6 @@ def extract_next_links(url, resp):
             link = "https://" + url_parsed.netloc + link
         if link != "" and link != None:
             link_list.append(link)
-    print("EXTRACTED LINKS:\t" + str(link_list))
     return set(link_list)
 
 def is_valid(url):
@@ -148,7 +146,12 @@ def process_content(url, resp):
 #uses simhash
 def check_similar(content, url):
     fingerprint = Simhash(content)
-    if len(hashed.get_near_dups(fingerprint)) > 0:
+    dupes = hashed.get_near_dups(fingerprint)
+    if len(dupes) > 0:
+        print("####################################")
+        print(url)
+        print(dupes)
+        print("####################################")
         return True
     else:
         hashed.add(url, fingerprint)
@@ -191,8 +194,7 @@ def create_sdomain_robot(url: str):
         robot.read()
         robots[url.netloc] = can_crawl
     except: 
-        print("ROBOT ERROR\t" + url.netloc)
-
+        pass
 #returns true if it is a valid domain and the url adheres to
 #robots.txt politeness, uses the global robots dictionary and
 #udpates it at the same time.
