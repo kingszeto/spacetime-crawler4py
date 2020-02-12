@@ -6,43 +6,42 @@ import os
 import requests
 
 data_dict = {"url_count": 0, "largest_word_count": 0, "largest_url": "", "words": {}}
-visited_urls = set()
-ics_subdomains = {}
-tracker = 0
+ics_subdomains = {}         #subdomains of ics.uci.edu
+robots = {}                 #robots: key - parsedurl's netloc, value: RobotFileParser Instance
 STOP_WORDS = {'a', 'about' ,'above' ,'after' ,'again' ,'against' ,'all' ,'am' ,'an' ,'and' ,'any' ,'are' ,'aren\'t' ,'as' ,'at' ,'be' ,'because' ,'been' ,'before' ,'being' ,'below' ,'between' ,'both' ,'but' ,'by' ,'can\'t' ,'cannot' ,'could' ,'couldn\'t' ,'did' ,'didn\'t' ,'do' ,'does' ,'doesn\'t' ,'doing' ,'don\'t' ,'down' ,'during' ,'each' ,'few' ,'for' ,'from' ,'further' ,'had' ,'hadn\'t' ,'has' ,'hasn\'t' ,'have' ,'haven\'t' ,'having' ,'he' ,'he\'d' ,'he\'ll' ,'he\'s' ,'her' ,'here' ,'here\'s' ,'hers' ,'herself' ,'him' ,'himself' ,'his' ,'how' ,'how\'s' ,'i' ,'i\'d' ,'i\'ll' ,'i\'m' ,'i\'ve' ,'if' ,'in' ,'into' ,'is' ,'isn\'t' ,'it' ,'it\'s' ,'its' ,'itself' ,'let\'s' ,'me' ,'more' ,'most' ,'mustn\'t' ,'my' ,'myself' ,'no' ,'nor' ,'not' ,'of' ,'off' ,'on' ,'once' ,'only' ,'or' ,'other' ,'ought' ,'our' ,'ours', 'ourselves' ,'out' ,'over' ,'own' ,'same' ,'shan\'t' ,'she' ,'she\'d' ,'she\'ll' ,'she\'s' ,'should' ,'shouldn\'t' ,'so' ,'some' ,'such' ,'than' ,'that' ,'that\'s' ,'the' ,'their' ,'theirs' ,'them' ,'themselves' ,'then' ,'there' ,'there\'s' ,'these' ,'they' ,'they\'d' ,'they\'ll' ,'they\'re' ,'they\'ve' ,'this' ,'those' ,'through' ,'to' ,'too' ,'under' ,'until' ,'up' ,'very' ,'was' ,'wasn\'t' ,'we' ,'we\'d' ,'we\'ll' ,'we\'re' ,'we\'ve' ,'were' ,'weren\'t' ,'what' ,'what\'s' ,'when' ,'when\'s' ,'where' ,'where\'s' ,'which' ,'while' ,'who' ,'who\'s' ,'whom' ,'why' ,'why\'s' ,'with' ,'won\'t' ,'would' ,'wouldn\'t' ,'you' ,'you\'d' ,'you\'ll' ,'you\'re' ,'you\'ve' ,'your' ,'yours' ,'yourself' ,'yourselves'}
-
+visited_urls = set()
+tracker = 0
 traps = set()
+
+
 def scraper(url, resp):
     print('\nURL' + str(url))
     global tracker
     tracker += 1
     valid_links = []
-    try:
-        if 200 <= resp.status <= 299 and resp.status != 204:
-            visited_urls.add(url)
-            process_content(url, resp)
-            links = extract_next_links(url, resp)
-            for link in links:
-                if link != None  and link != "" and is_valid(link):
-                    #records the url if it is a subdomain of ics.uci.edu
-                    valid_links.append(link)
-                    parsed = urlparse(link)
-                    result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
-                    if bool(result) and result[1] != "" and result[1] != None and result[1].rstrip('.') != 'www':
-                        subdomain = result[1]
-                        if subdomain in ics_subdomains:
-                            ics_subdomains[subdomain].add(parsed.path)
-                        else:
-                            ics_subdomains[subdomain] = {parsed.path}
-                    visited_urls.add(link)
-        #write shared values to .txt
-        if tracker % 8 == 0:
-            with open("subdomains.txt", "w") as file_contents:
-                file_contents.write(str(ics_subdomains))
-            with open("data.txt", "w") as file_contents:
-                file_contents.write(str(data_dict))
-    except:
-        pass
+    if 200 <= resp.status <= 299 and resp.status != 204:
+        visited_urls.add(url)
+        process_content(url, resp)
+        links = extract_next_links(url, resp)
+        for link in links:
+            if link != None  and link != "" and is_valid(link):
+                #records the url if it is a subdomain of ics.uci.edu
+                valid_links.append(link)
+                parsed = urlparse(link)
+                result = re.match(r'(.+)\.ics\.uci\.edu', parsed.netloc)
+                if bool(result) and result[1] != "" and result[1] != None and result[1].rstrip('.') != 'www':
+                    subdomain = result[1]
+                    if subdomain in ics_subdomains:
+                        ics_subdomains[subdomain].add(parsed.path)
+                    else:
+                        ics_subdomains[subdomain] = {parsed.path}
+                visited_urls.add(link)
+    #write shared values to .txt
+    if tracker % 8 == 0:
+        with open("subdomains.txt", "w") as file_contents:
+            file_contents.write(str(ics_subdomains))
+        with open("data.txt", "w") as file_contents:
+            file_contents.write(str(data_dict))
     return valid_links
 
 def extract_next_links(url, resp):
@@ -137,11 +136,40 @@ def record_content(token_string, url):
         data_dict['largest_url'] = url
 
 def process_content(url, resp):
-    if 200 <= resp.status <= 299 and resp.status != 204:
-        #parse the url contents
-        file_handler = urlopen(url)
-        parsed = BeautifulSoup(file_handler)
+    #parse the url contents
+    file_handler = urlopen(url)
+    parsed = BeautifulSoup(file_handler)
 
-        #gets the webpage content and records the words found in it
-        content = parsed.get_text()
-        record_content(content, url)
+    #gets the webpage content and records the words found in it
+    content = parsed.get_text()
+    record_content(content, url)
+
+#creates a dictionary tracking the number of words from an interable oject
+#intentionally implemented with a list
+def track_num_word(url_path: list, splitter: str) -> dict:
+    url_path = url_path.split(splitter)
+    counter_dict = {}
+    for word in url_path:
+        if word in counter_dict:
+            counter_dict[word] += 1
+        else:
+            counter_dict[word] = 1
+    return counter_dict
+
+#checks if a string is not None and not an empty string
+def string_not_none(url: str) -> bool:
+    return url != None and url != ""
+
+#write shared global values to .txt files
+def write_data_to_files(tracking_num: int):
+    if tracking_num % 8 == 0:
+        with open("subdomains.txt", "w") as file_contents:
+            file_contents.write(str(ics_subdomains))
+        with open("data.txt", "w") as file_contents:
+            file_contents.write(str(data_dict))
+
+#create a new RobotFileParser for every domain and subdomain
+#places the subdomain robot into `robots` dictionary
+def create_sdomain_robot(url_netloc: str):
+    robot = RobotFileParser()
+    robot.set_url(url_netloc + "/robots.txt")
