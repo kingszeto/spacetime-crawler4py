@@ -121,6 +121,7 @@ def process_content(url, resp):
 #takes the content and checks if similar content has been found already
 #uses simhash
 def check_similar(content, url):
+    return True
     fingerprint = Simhash(content)
     dupes = hashed.get_near_dups(fingerprint)
     if len(dupes) > 0:
