@@ -116,7 +116,7 @@ class Frontier(object):
         assign_domain = ""
         if bool(url_domain):
             assign_domain = url_domain.group('domain')
-        elif url_comp.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/)', url_comp.path):
+        elif url_comp.netloc == "today.uci.edu" and re.match(r'^(\/department\/information_computer_sciences\/?)', url_comp.path):
             assign_domain = "today"
         return assign_domain
 
