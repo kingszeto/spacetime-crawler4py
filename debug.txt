@@ -6695,7 +6695,7 @@ URL	https://ngs.ics.uci.edu/acm-multimedia-2009/
 URL	https://ngs.ics.uci.edu/event-analytics/
 URL	https://ngs.ics.uci.edu/automatic-summarization-of-personal-photo-collections-pinaki-sinhas-thesis/
 URL	https://cml.ics.uci.edu/2014/08/center-members-tomlinson-patterson-receive-400000-nsf-grant-for-crowdsourcing-and-food-security-project/
-URL	https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video/
+URL	https://ngs.ics.uci.eddu/text-or-video-no-it-should-be-text-and-video/
 URL	https://ngs.ics.uci.edu/historic-day-todays-election/
 URL	https://ngs.ics.uci.edu/uncertainty-in-databases/
 URL	https://ngs.ics.uci.edu/finding-is-better-than-searching/
