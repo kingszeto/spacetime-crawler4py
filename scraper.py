@@ -44,7 +44,7 @@ def extract_next_links(url, resp):
     #list of all the links found in the url
     url = url.replace(' ', '%')                         #replace spaces with %
     link_list = []
-    file_handler = urlopen(url)
+    file_handler = urlopen(url).read().decode('utf-8')
     parsed = BeautifulSoup(file_handler, "lxml")
     url_parsed = urlparse(url)
     #retrieve all the links found in the parsed url
