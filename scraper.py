@@ -113,7 +113,7 @@ def record_content(token_string, url):
 def process_content(url, resp):
     try:
         #parse the url contents
-        file_handler = urlopen(url)
+        file_handler = urlopen(url).read().decode('utf-8')
         parsed = BeautifulSoup(file_handler, "lxml")
         content = parsed.get_text()
         if check_similar(content, url):
