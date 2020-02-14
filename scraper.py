@@ -29,7 +29,6 @@ def scraper(url, resp):
             tracker += 1
             for link in links:
                 if string_not_none(link) and is_valid(link):
-                    print("URL\t" + link)
                     #records the url if it is a subdomain of ics.uci.edu for analytics
                     valid_links.append(link)
                     parsed = urlparse(link)
@@ -131,10 +130,6 @@ def check_similar(content, url):
     fingerprint = Simhash(content)
     dupes = hashed.get_near_dups(fingerprint)
     if len(dupes) > 0:
-        print("Uv####################################")
-        print(url)
-        print(dupes)
-        print("D^####################################")
         return True
     else:
         hashed.add(url, fingerprint)
